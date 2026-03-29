@@ -1,0 +1,6 @@
+Adaugata cartea: Morometii
+Adaugata cartea: Programare in C++
+Adaugata cartea: Design Patterns
+Adaugata cartea: National Geographic
+Adaugat utilizatorul: Baltei Marian
+Adaugat utilizatorul: Ionescu Alexandru
