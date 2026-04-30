@@ -15,7 +15,7 @@ void Biblioteca::adaugaCarte(Carte* carte) {
 }
 
 void Biblioteca::eliminaCarte(int idCarte) {
-    for (int i = 0; i < inventarCarti.size(); i++) {
+    for (size_t i = 0; i < inventarCarti.size(); i++) {
         if (inventarCarti[i]->getISBN() == to_string(idCarte)) {
             logEveniment("Eliminata cartea: " + inventarCarti[i]->getTitlu());
             delete inventarCarti[i];
@@ -29,7 +29,7 @@ void Biblioteca::eliminaCarte(int idCarte) {
 
 void Biblioteca::afisareCarti() const {
     cout << "\n=== Inventar Carti - " << nume << " ===" << endl;
-    for (int i = 0; i < inventarCarti.size(); i++) {
+    for (size_t i = 0; i < inventarCarti.size(); i++) {
         cout << "\n--- Carte " << i+1 << " ---" << endl;
         inventarCarti[i]->afisareDetalii();
     }
@@ -43,7 +43,7 @@ void Biblioteca::adaugaUtilizator(Utilizator* utilizator) {
 }
 
 void Biblioteca::eliminaUtilizator(int idUtilizator) {
-    for (int i = 0; i < listaUtilizatori.size(); i++) {
+    for (size_t i = 0; i < listaUtilizatori.size(); i++) {
         if (listaUtilizatori[i]->getId() == idUtilizator) {
             logEveniment("Eliminat utilizatorul: " + listaUtilizatori[i]->getNume());
             delete listaUtilizatori[i];
@@ -57,7 +57,7 @@ void Biblioteca::eliminaUtilizator(int idUtilizator) {
 
 void Biblioteca::afisareUtilizatori() const {
     cout << "\n=== Lista Utilizatori - " << nume << " ===" << endl;
-    for (int i = 0; i < listaUtilizatori.size(); i++) {
+    for (size_t i = 0; i < listaUtilizatori.size(); i++) {
         cout << "\n--- Utilizator " << i+1 << " ---" << endl;
         listaUtilizatori[i]->afisareDetalii();
     }
@@ -67,14 +67,14 @@ void Biblioteca::imprumutaCarte(int idUtilizator, int idCarte) {
     Utilizator* utilizator = nullptr;
     Carte* carte = nullptr;
 
-    for (int i = 0; i < listaUtilizatori.size(); i++) {
+    for (size_t i = 0; i < listaUtilizatori.size(); i++) {
         if (listaUtilizatori[i]->getId() == idUtilizator) {
             utilizator = listaUtilizatori[i];
             break;
         }
     }
 
-    for (int i = 0; i < inventarCarti.size(); i++) {
+    for (size_t i = 0; i < inventarCarti.size(); i++) {
         if (inventarCarti[i]->getISBN() == to_string(idCarte)) {
             carte = inventarCarti[i];
             break;
@@ -105,14 +105,14 @@ void Biblioteca::returneazaCarte(int idUtilizator, int idCarte) {
     Utilizator* utilizator = nullptr;
     Carte* carte = nullptr;
 
-    for (int i = 0; i < listaUtilizatori.size(); i++) {
+    for (size_t i = 0; i < listaUtilizatori.size(); i++) {
         if (listaUtilizatori[i]->getId() == idUtilizator) {
             utilizator = listaUtilizatori[i];
             break;
         }
     }
 
-    for (int i = 0; i < inventarCarti.size(); i++) {
+    for (size_t i = 0; i < inventarCarti.size(); i++) {
         if (inventarCarti[i]->getISBN() == to_string(idCarte)) {
             carte = inventarCarti[i];
             break;
@@ -139,10 +139,10 @@ void Biblioteca::logEveniment(string eveniment) const {
 }
 
 Biblioteca::~Biblioteca() {
-    for (int i = 0; i < inventarCarti.size(); i++) {
+    for (size_t i = 0; i < inventarCarti.size(); i++) {
         delete inventarCarti[i];
     }
-    for (int i = 0; i < listaUtilizatori.size(); i++) {
+    for (size_t i = 0; i < listaUtilizatori.size(); i++) {
         delete listaUtilizatori[i];
     }
 }
