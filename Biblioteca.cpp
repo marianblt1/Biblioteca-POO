@@ -1,6 +1,7 @@
 #include "Biblioteca.h"
 #include <iostream>
 #include <fstream>
+#include "Exceptii.h"
 
 using namespace std;
 
@@ -81,18 +82,17 @@ void Biblioteca::imprumutaCarte(int idUtilizator, int idCarte) {
         }
     }
 
-    if (utilizator == nullptr) {
-        cout << "Utilizatorul nu a fost gasit." << endl;
-        return;
-    }
-    if (carte == nullptr) {
-        cout << "Cartea nu a fost gasita." << endl;
-        return;
-    }
-    if (carte->getStatus() != "Disponibila") {
-        cout << "Cartea nu este disponibila." << endl;
-        return;
-    }
+    if (utilizator == nullptr)
+        throw UtilizatorNegasit(idUtilizator);
+
+    if (carte == nullptr)
+        throw CarteNegasita(to_string(idCarte));
+
+    if (carte->getStatus() != "Disponibila")
+        throw CarteIndisponibila(carte->getTitlu());
+
+    if (utilizator->getStatus() == "Suspendat")
+        throw UtilizatorSuspendat(utilizator->getNume());
 
     carte->setStatus("Imprumutata");
     utilizator->adaugaImprumut(idCarte);

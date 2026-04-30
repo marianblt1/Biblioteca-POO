@@ -102,14 +102,22 @@ void Meniu::meniuImprumuturi() {
             cin >> idUtilizator;
             cout << "ID Carte: ";
             cin >> idCarte;
-            biblioteca.imprumutaCarte(idUtilizator, idCarte);
+            try {
+                biblioteca.imprumutaCarte(idUtilizator, idCarte);
+            } catch (exception& e) {
+                cout << "Eroare: " << e.what() << endl;
+            }
             break;
         case 2:
             cout << "ID Utilizator: ";
             cin >> idUtilizator;
             cout << "ID Carte: ";
             cin >> idCarte;
-            biblioteca.returneazaCarte(idUtilizator, idCarte);
+            try {
+                biblioteca.returneazaCarte(idUtilizator, idCarte);
+            } catch (exception& e) {
+                cout << "Eroare: " << e.what() << endl;
+            }
             break;
         case 0: break;
         default: cout << "Optiune invalida!" << endl;
