@@ -26,6 +26,7 @@ public:
     void adaugaUtilizator(Utilizator* utilizator);
     void eliminaUtilizator(int idUtilizator);
     void afisareUtilizatori() const;
+    void cautaCarte(int tip, std::string termen) const;
 
     // Gestiune imprumuturi
     void imprumutaCarte(int idUtilizator, int idCarte);

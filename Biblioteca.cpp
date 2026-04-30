@@ -138,6 +138,31 @@ void Biblioteca::logEveniment(string eveniment) const {
     }
 }
 
+void Biblioteca::cautaCarte(int tip, string termen) const {
+    cout << "\n---> rezultate cautare <---" << endl;
+    bool gasit = false;
+
+    for (size_t i = 0; i < inventarCarti.size(); i++) {
+        bool match = false;
+
+        if (tip == 1 && inventarCarti[i]->getTitlu().find(termen) != string::npos)
+            match = true;
+        else if (tip == 2 && inventarCarti[i]->getAutor().find(termen) != string::npos)
+            match = true;
+        else if (tip == 3 && inventarCarti[i]->getISBN().find(termen) != string::npos)
+            match = true;
+
+        if (match) {
+            cout << "\n--- Rezultat " << i+1 << " ---" << endl;
+            inventarCarti[i]->afisareDetalii();
+            gasit = true;
+        }
+    }
+
+    if (!gasit)
+        cout << "Niciun rezultat gasit." << endl;
+}
+
 Biblioteca::~Biblioteca() {
     for (size_t i = 0; i < inventarCarti.size(); i++) {
         delete inventarCarti[i];

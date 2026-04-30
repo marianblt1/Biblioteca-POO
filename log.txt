@@ -4,3 +4,4 @@ Adaugata cartea: Design Patterns
 Adaugata cartea: National Geographic
 Adaugat utilizatorul: Baltei Marian
 Adaugat utilizatorul: Ionescu Alexandru
+Adaugata cartea: Pescarusul
