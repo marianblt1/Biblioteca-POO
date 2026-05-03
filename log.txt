@@ -5,3 +5,11 @@ Adaugata cartea: National Geographic
 Adaugat utilizatorul: Baltei Marian
 Adaugat utilizatorul: Ionescu Alexandru
 Adaugata cartea: Pescarusul
+Adaugata cartea: Test Carte
+Adaugat utilizatorul: Baltei Marian
+Adaugata cartea: Test
+Adaugat utilizatorul: Baltei Marian
+Imprumut: Baltei -> Test
+Adaugata cartea: Test
+Adaugat utilizatorul: Baltei Marian
+Imprumut: Baltei -> Test
