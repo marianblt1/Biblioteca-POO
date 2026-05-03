@@ -7,7 +7,9 @@
 #include "Carte.h"
 #include "Utilizator.h"
 #include "Depozit.h"
-#include "Exceptii.h" 
+#include "Exceptii.h"
+#include "CarteFizica.h"
+ 
 class Biblioteca {
 private:
     std::string nume;
@@ -27,6 +29,8 @@ public:
     void eliminaUtilizator(int idUtilizator);
     void afisareUtilizatori() const;
     void cautaCarte(int tip, std::string termen) const;
+    void salveazaDate() const;
+    void incarcaDate();
 
     // Gestiune imprumuturi
     void imprumutaCarte(int idUtilizator, int idCarte);

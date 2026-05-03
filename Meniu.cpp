@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <limits>
+#include "Validare.h"
 
 using namespace std;
 
@@ -154,21 +155,32 @@ void Meniu::adaugaCarte() {
 
     cout << "Titlu: "; getline(cin, titlu);
     cout << "Autor: "; getline(cin, autor);
-    cout << "ISBN: "; getline(cin, isbn);
-    cout << "An aparitie: "; cin >> anAparitie;
-    cin.ignore();
+    do {
+    cout << "ISBN (10 sau 13 cifre): "; getline(cin, isbn);
+    if (!Validare::ISBN(isbn))
+        cout << "ISBN invalid! Trebuie sa aiba exact 10 sau 13 cifre!" << endl;
+    } while (!Validare::ISBN(isbn));
+
+    anAparitie = Validare::citesteInt("An aparitie: ");
     cout << "Stare (Noua/Buna/Uzata/Deteriorata): "; getline(cin, stare);
-    cout << "Timp imprumut (zile): "; cin >> timpImprumut;
-    cin.ignore();
+
+    do {
+    timpImprumut = Validare::citesteInt("Timp imprumut (1-90 zile): ");
+    if (!Validare::timpImprumut(timpImprumut))
+        cout << "Timp invalid! Trebuie sa fie intre 1 si 90 de zile!" << endl;
+    } while (!Validare::timpImprumut(timpImprumut));
 
     if(tip == 1) {
         string localizare, gen;
         int nrExemplare, varstaMinima;
-        cout << "Nr exemplare: "; cin >> nrExemplare;
-        cin.ignore();
-        cout << "Localizare (raft): "; getline(cin, localizare);
+        nrExemplare = Validare::citesteInt("Nr exemplare: ");
+        do {
+        cout << "Localizare (ex: A1, B2, H3): "; getline(cin, localizare);
+        if (!Validare::localizare(localizare))
+        cout << "Localizare invalida! Foloseste format [A-H][1-3]!" << endl;
+        } while (!Validare::localizare(localizare));
         cout << "Gen (Fantasy/Thriller/Romance/etc): "; getline(cin, gen);
-        cout << "Varsta minima: "; cin >> varstaMinima;
+        varstaMinima = Validare::citesteInt("Varsta minima: ");
         biblioteca.adaugaCarte(new CarteFictiune(titlu, autor, isbn, anAparitie, 
                                stare, timpImprumut, nrExemplare, localizare, gen, varstaMinima));
     } else if(tip == 2) {

@@ -11,6 +11,9 @@ int main() {
         Autentificare::inregistrare("admin", "admin123", "staff");
     }
 
+    Biblioteca biblioteca("Biblioteca Centrala");
+    biblioteca.incarcaDate();  // incarcam datele la pornire
+
     string username, parola, tipUtilizator;
     int optiune;
 
@@ -41,9 +44,9 @@ int main() {
 
         if (Autentificare::login(username, parola, tipUtilizator)) {
             cout << "\nBine ai venit, " << username << "! (" << tipUtilizator << ")" << endl;
-            Biblioteca biblioteca("Biblioteca Centrala");
             Meniu meniu(biblioteca, tipUtilizator);
             meniu.ruleaza();
+            biblioteca.salveazaDate();  // salvam datele la iesire
         } else {
             cout << "Username sau parola incorecta!" << endl;
         }

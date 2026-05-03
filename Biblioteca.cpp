@@ -1,7 +1,7 @@
 #include "Biblioteca.h"
 #include <iostream>
 #include <fstream>
-
+#include <sstream> 
 using namespace std;
 
 Biblioteca::Biblioteca(string nume) {
@@ -160,6 +160,51 @@ void Biblioteca::logEveniment(string eveniment) const {
         logFile << eveniment << endl;
         logFile.close();
     }
+}
+
+void Biblioteca::salveazaDate() const {
+    ofstream fisier("date.txt");
+    if (!fisier.is_open()) return;
+
+    for (int i = 0; i < inventarCarti.dimensiune(); i++) {
+        Carte* c = inventarCarti.get(i);
+        fisier << c->getTitlu() << "|"
+               << c->getAutor() << "|"
+               << c->getISBN() << "|"
+               << c->getAnAparitie() << "|"
+               << c->getStare() << "|"
+               << c->getTimpImprumut() << "|"
+               << c->getStatus() << "\n";
+    }
+    fisier.close();
+    cout << "Date salvate cu succes!" << endl;
+}
+
+void Biblioteca::incarcaDate() {
+    ifstream fisier("date.txt");
+    if (!fisier.is_open()) return;
+
+    string linie;
+    while (getline(fisier, linie)) {
+        stringstream ss(linie);
+        string titlu, autor, isbn, stare, status;
+        int anAparitie, timpImprumut;
+
+        getline(ss, titlu, '|');
+        getline(ss, autor, '|');
+        getline(ss, isbn, '|');
+        ss >> anAparitie; ss.ignore();
+        getline(ss, stare, '|');
+        ss >> timpImprumut; ss.ignore();
+        getline(ss, status, '|');
+
+        CarteFizica* c = new CarteFizica(titlu, autor, isbn, 
+                         anAparitie, stare, timpImprumut, 1, "Necunoscut");
+        c->setStatus(status);
+        inventarCarti.adauga(c);
+    }
+    fisier.close();
+    cout << "Date incarcate cu succes!" << endl;
 }
 
 Biblioteca::~Biblioteca() {

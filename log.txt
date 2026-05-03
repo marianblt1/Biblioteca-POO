@@ -13,3 +13,5 @@ Imprumut: Baltei -> Test
 Adaugata cartea: Test
 Adaugat utilizatorul: Baltei Marian
 Imprumut: Baltei -> Test
+Adaugata cartea: Green Mile 
+Adaugata cartea: TITLU
