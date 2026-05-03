@@ -27,6 +27,19 @@ void Biblioteca::eliminaCarte(int idCarte) {
     cout << "Cartea nu a fost gasita." << endl;
 }
 
+void Biblioteca::eliminaCarteISBN(string isbn) {
+    for (int i = 0; i < inventarCarti.dimensiune(); i++) {
+        if (inventarCarti.get(i)->getISBN() == isbn) {
+            logEveniment("Eliminata cartea: " + inventarCarti.get(i)->getTitlu());
+            delete inventarCarti.get(i);
+            inventarCarti.elimina(i);
+            cout << "Cartea a fost eliminata cu succes." << endl;
+            return;
+        }
+    }
+    cout << "Cartea cu ISBN-ul '" << isbn << "' nu a fost gasita." << endl;
+}
+
 void Biblioteca::afisareCarti() const {
     cout << "\n=== Inventar Carti - " << nume << " ===" << endl;
     for (int i = 0; i < inventarCarti.dimensiune(); i++) {

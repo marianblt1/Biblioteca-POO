@@ -53,13 +53,26 @@ void Meniu::meniuCarti() {
     cout << "\n--- Gestionare Carti ---" << endl;
     cout << "1. Adauga carte" << endl;
     cout << "2. Afiseaza toate cartile" << endl;
+    cout << "3. Sterge carte" << endl;
     cout << "0. Inapoi" << endl;
     cout << "Optiune: ";
     cin >> optiune;
+    cin.ignore();
 
     switch(optiune) {
         case 1: adaugaCarte(); break;
         case 2: biblioteca.afisareCarti(); break;
+        case 3: {
+            string termen;
+            cout << "Cauta cartea de sters (dupa titlu): ";
+            getline(cin, termen);
+            biblioteca.cautaCarte(1, termen);  // afiseaza rezultatele cu ISBN
+            string isbn;
+            cout << "\nIntroduceti ISBN-ul cartii de sters: ";
+            getline(cin, isbn);
+            biblioteca.eliminaCarteISBN(isbn);
+    break;
+}
         case 0: break;
         default: cout << "Optiune invalida!" << endl;
     }

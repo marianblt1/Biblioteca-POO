@@ -9,7 +9,7 @@
 #include "Depozit.h"
 #include "Exceptii.h"
 #include "CarteFizica.h"
- 
+
 class Biblioteca {
 private:
     std::string nume;
@@ -22,6 +22,7 @@ public:
     // Gestiune carti
     void adaugaCarte(Carte* carte);
     void eliminaCarte(int idCarte);
+    void eliminaCarteISBN(std::string isbn);
     void afisareCarti() const;
 
     // Gestiune utilizatori
