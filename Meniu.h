@@ -16,6 +16,7 @@
 class Meniu {
 private:
     Biblioteca& biblioteca;
+    std::string tipUtilizator;
 
     void meniuCarti();
     void meniuUtilizatori();
@@ -26,7 +27,7 @@ private:
     void adaugaUtilizator();
 
 public:
-    Meniu(Biblioteca& biblioteca);
+    Meniu(Biblioteca& biblioteca, std::string tipUtilizator);
     void ruleaza();
 };
 

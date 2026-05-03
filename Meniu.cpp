@@ -5,22 +5,36 @@
 
 using namespace std;
 
-Meniu::Meniu(Biblioteca& biblioteca) : biblioteca(biblioteca) {}
+Meniu::Meniu(Biblioteca& biblioteca, std::string tipUtilizator) 
+    : biblioteca(biblioteca), tipUtilizator(tipUtilizator) {}
 
 void Meniu::ruleaza() {
     int optiune;
     do {
         cout << "\n==========================" << endl;
         cout << "   BIBLIOTECA CENTRALA    " << endl;
+        cout << "   Logat ca: " << tipUtilizator << endl;
         cout << "==========================" << endl;
-        cout << "1. Gestionare Carti" << endl;
-        cout << "2. Gestionare Utilizatori" << endl;
-        cout << "3. Cautare Carti" << endl;
-        cout << "4. Gestionare Imprumuturi" << endl;
+
+        if (tipUtilizator == "staff") {
+            cout << "1. Gestionare Carti" << endl;
+            cout << "2. Gestionare Utilizatori" << endl;
+            cout << "3. Cautare Carti" << endl;
+            cout << "4. Gestionare Imprumuturi" << endl;
+        } else {
+            cout << "3. Cautare Carti" << endl;
+            cout << "4. Imprumut/Returnare" << endl;
+        }
+
         cout << "0. Iesire" << endl;
         cout << "==========================" << endl;
         cout << "Optiune: ";
         cin >> optiune;
+
+        if (tipUtilizator != "staff" && (optiune == 1 || optiune == 2)) {
+            cout << "Nu ai permisiuni pentru aceasta optiune!" << endl;
+            continue;
+        }
 
         switch(optiune) {
             case 1: meniuCarti(); break;

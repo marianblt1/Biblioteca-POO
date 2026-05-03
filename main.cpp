@@ -42,7 +42,7 @@ int main() {
         if (Autentificare::login(username, parola, tipUtilizator)) {
             cout << "\nBine ai venit, " << username << "! (" << tipUtilizator << ")" << endl;
             Biblioteca biblioteca("Biblioteca Centrala");
-            Meniu meniu(biblioteca);
+            Meniu meniu(biblioteca, tipUtilizator);
             meniu.ruleaza();
         } else {
             cout << "Username sau parola incorecta!" << endl;
