@@ -2,17 +2,17 @@
 #define BIBLIOTECA_H
 
 #include <string>
-#include <vector>
 #include <iostream>
 #include <fstream>
 #include "Carte.h"
 #include "Utilizator.h"
-
+#include "Depozit.h"
+#include "Exceptii.h" 
 class Biblioteca {
 private:
     std::string nume;
-    std::vector<Carte*> inventarCarti;
-    std::vector<Utilizator*> listaUtilizatori;
+    Depozit<Carte*> inventarCarti;
+    Depozit<Utilizator*> listaUtilizatori;
 
 public:
     Biblioteca(std::string nume);
