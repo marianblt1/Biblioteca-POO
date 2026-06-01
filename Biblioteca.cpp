@@ -6,6 +6,7 @@ using namespace std;
 
 Biblioteca::Biblioteca(string nume) {
     this->nume = nume;
+    this->cladire = nullptr;
 }
 
 void Biblioteca::adaugaCarte(Carte* carte) {
@@ -218,6 +219,23 @@ void Biblioteca::incarcaDate() {
     }
     fisier.close();
     cout << "Date incarcate cu succes!" << endl;
+}
+
+void Biblioteca::setCladire(Cladire* cladire) {
+    this->cladire = cladire;
+}
+
+Cladire* Biblioteca::getCladire() const {
+    return cladire;
+}
+
+void Biblioteca::localizazeCarteInCladire(string isbn) const {
+    if (cladire == nullptr) {
+        cout << "Nu exista o cladire configurata." << endl;
+        return;
+    }
+    cout << "\nLocalizare carte ISBN '" << isbn << "':" << endl;
+    cout << cladire->localizarecarte(isbn) << endl;
 }
 
 Biblioteca::~Biblioteca() {

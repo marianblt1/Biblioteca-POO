@@ -9,12 +9,15 @@
 #include "Depozit.h"
 #include "Exceptii.h"
 #include "CarteFizica.h"
+#include "Cladire.h"
 
 class Biblioteca {
 private:
+
     std::string nume;
     Depozit<Carte*> inventarCarti;
     Depozit<Utilizator*> listaUtilizatori;
+    Cladire* cladire;
 
 public:
     Biblioteca(std::string nume);
@@ -39,6 +42,10 @@ public:
 
     // Logare evenimente
     void logEveniment(std::string eveniment) const;
+
+    void setCladire(Cladire* cladire);
+    Cladire* getCladire() const;
+    void localizazeCarteInCladire(std::string isbn) const;
 
     // Destructor
     ~Biblioteca();
