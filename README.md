@@ -173,3 +173,67 @@ biblioteca/
 - Branch principal: **main**
 - Branch dezvoltare: **develop**
 - Minimum 5 commit-uri descriptive
+
+## 6. Funcționalități Implementate
+
+### Autentificare
+- Login cu username și parolă
+- Parolă criptată cu algoritmul XOR salvată în fișier `utilizatori.dat`
+- Două tipuri de conturi: **staff** și **normal**
+- Cont admin implicit creat la prima rulare (username: admin, parola: admin123)
+
+### Permisiuni
+- **Staff**: acces complet (adăugare/ștergere cărți și utilizatori, împrumuturi)
+- **Normal**: acces limitat (căutare și împrumut/returnare cărți)
+
+### Meniu Interactiv
+- Gestionare cărți (adăugare, afișare, ștergere)
+- Gestionare utilizatori (adăugare, afișare)
+- Căutare cărți (după titlu, autor, ISBN)
+- Gestionare împrumuturi (împrumut, returnare)
+
+### Validări
+- ISBN: exact 10 sau 13 cifre
+- Localizare raft: format [A-H][1-3] (ex: A1, B2, H3)
+- Timp împrumut: între 1 și 90 de zile
+- Input numeric: protecție împotriva textului introdus greșit
+
+### Persistența Datelor
+- Cărțile sunt salvate automat în `date.txt` la ieșire
+- Datele sunt încărcate automat la pornirea programului
+
+### Tratare Erori (Excepții)
+- `CarteIndisponibila` - carte deja împrumutată
+- `CarteNegasita` - ISBN inexistent
+- `UtilizatorNegasit` - ID utilizator inexistent
+- `UtilizatorSuspendat` - utilizator fără drepturi de împrumut
+
+### Șabloane
+- Clasa generică `Depozit<T>` folosită pentru stocarea cărților și utilizatorilor
+
+## 7. Instrucțiuni Build și Run
+
+### Compilare
+```bash
+make
+```
+
+### Rulare
+```bash
+./biblioteca
+```
+
+### Rulare Teste
+```bash
+make test
+```
+
+### Curățare
+```bash
+make clean
+```
+
+## 8. Structura Git
+- Branch principal: **main**
+- Branch dezvoltare: **develop**
+- Commit-uri descriptive pentru fiecare funcționalitate adăugată
