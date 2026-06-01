@@ -2,6 +2,8 @@
 #include "Biblioteca.h"
 #include "Meniu.h"
 #include "Autentificare.h"
+#include "Cladire.h"
+#include "Camera.h"
 
 using namespace std;
 
@@ -12,6 +14,14 @@ int main() {
     }
 
     Biblioteca biblioteca("Biblioteca Centrala");
+    // Cream cladirea cu camere default
+    Cladire* cladire = new Cladire("Str. Bibliotecii Nr. 1", 2);
+    cladire->adaugaCamera(new Camera("Sala de Lectura", SALA_LECTURA, 50, "08:00 - 20:00"));
+    cladire->adaugaCamera(new Camera("Depozit", DEPOZIT, 1000, "08:00 - 16:00"));
+    cladire->adaugaCamera(new Camera("Receptie", RECEPTIE, 10, "08:00 - 20:00"));
+    cladire->adaugaCamera(new Camera("Sala Calculatoare", SALA_CALCULATOARE, 20, "09:00 - 18:00"));
+    cladire->adaugaCamera(new Camera("Sala Copii", SALA_COPII, 30, "09:00 - 17:00"));
+    biblioteca.setCladire(cladire);
     biblioteca.incarcaDate();  // incarcam datele la pornire
 
     string username, parola, tipUtilizator;

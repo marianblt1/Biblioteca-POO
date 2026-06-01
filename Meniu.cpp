@@ -22,6 +22,7 @@ void Meniu::ruleaza() {
             cout << "2. Gestionare Utilizatori" << endl;
             cout << "3. Cautare Carti" << endl;
             cout << "4. Gestionare Imprumuturi" << endl;
+            cout << "5. Gestionare Camere" << endl;
         } else {
             cout << "3. Cautare Carti" << endl;
             cout << "4. Imprumut/Returnare" << endl;
@@ -42,6 +43,7 @@ void Meniu::ruleaza() {
             case 2: meniuUtilizatori(); break;
             case 3: meniuCautare(); break;
             case 4: meniuImprumuturi(); break;
+            case 5: meniuCamere(); break;
             case 0: cout << "La revedere!" << endl; break;
             default: cout << "Optiune invalida!" << endl;
         }
@@ -284,5 +286,50 @@ void Meniu::adaugaUtilizator() {
         cout << "Institutie: "; getline(cin, institutie);
         biblioteca.adaugaUtilizator(new UtilizatorCercetator(nume, prenume, id,
                                     email, telefon, domeniu, institutie));
+    }
+}
+
+void Meniu::meniuCamere() {
+    int optiune;
+    cout << "\n--- Gestionare Camere ---" << endl;
+    cout << "1. Afiseaza toate camerele" << endl;
+    cout << "2. Adauga camera noua" << endl;
+    cout << "3. Localizeaza carte in cladire" << endl;
+    cout << "0. Inapoi" << endl;
+    cout << "Optiune: ";
+    cin >> optiune;
+    cin.ignore();
+
+    switch(optiune) {
+        case 1:
+            if (biblioteca.getCladire() != nullptr)
+                biblioteca.getCladire()->afisareCamere();
+            else
+                cout << "Nu exista o cladire configurata." << endl;
+            break;
+        case 2: {
+            if (biblioteca.getCladire() == nullptr) {
+                cout << "Nu exista o cladire configurata." << endl;
+                break;
+            }
+            string nume, program;
+            int tip, capacitate;
+            cout << "Nume camera: "; getline(cin, nume);
+            cout << "Tip (1-Lectura, 2-Depozit, 3-Receptie, 4-Calculatoare, 5-Copii): ";
+            tip = Validare::citesteInt("");
+            capacitate = Validare::citesteInt("Capacitate: ");
+            cout << "Program (ex: 08:00 - 20:00): "; getline(cin, program);
+            TipCamera tipCamera = static_cast<TipCamera>(tip - 1);
+            biblioteca.getCladire()->adaugaCamera(new Camera(nume, tipCamera, capacitate, program));
+            break;
+        }
+        case 3: {
+            string isbn;
+            cout << "ISBN carte: "; getline(cin, isbn);
+            biblioteca.localizazeCarteInCladire(isbn);
+            break;
+        }
+        case 0: break;
+        default: cout << "Optiune invalida!" << endl;
     }
 }

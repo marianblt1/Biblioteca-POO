@@ -22,6 +22,7 @@ private:
     void meniuUtilizatori();
     void meniuCautare();
     void meniuImprumuturi();
+    void meniuCamere();
 
     void adaugaCarte();
     void adaugaUtilizator();
