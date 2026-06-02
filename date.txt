@@ -1,500 +1,69 @@
-CarteFizica|Morometii Vol.1|Marin Preda|9789730010000|1950|Noua|14|Disponibila
-CarteFizica|Ion Vol.1|Liviu Rebreanu|9789730010001|1951|Buna|21|Disponibila
-CarteFizica|Enigma Otiliei Vol.1|G. Calinescu|9789730010002|1952|Uzata|28|Disponibila
-CarteFizica|Baltagul Vol.1|Mihail Sadoveanu|9789730010003|1953|Noua|14|Disponibila
-CarteFizica|Maitreyi Vol.1|Mircea Eliade|9789730010004|1954|Buna|21|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.1|Liviu Rebreanu|9789730010005|1955|Uzata|28|Disponibila
-CarteFizica|Ultima noapte Vol.1|Camil Petrescu|9789730010006|1956|Noua|14|Disponibila
-CarteFizica|Cel mai iubit Vol.1|Marin Preda|9789730010007|1957|Buna|21|Disponibila
-CarteFizica|Groapa Vol.1|Eugen Barbu|9789730010008|1958|Uzata|28|Disponibila
-CarteFizica|Cronos Vol.1|Ion Pop|9789730010009|1959|Noua|14|Disponibila
-CarteFizica|Morometii Vol.2|Marin Preda|9789730010010|1960|Buna|21|Disponibila
-CarteFizica|Ion Vol.2|Liviu Rebreanu|9789730010011|1961|Uzata|28|Disponibila
-CarteFizica|Enigma Otiliei Vol.2|G. Calinescu|9789730010012|1962|Noua|14|Disponibila
-CarteFizica|Baltagul Vol.2|Mihail Sadoveanu|9789730010013|1963|Buna|21|Disponibila
-CarteFizica|Maitreyi Vol.2|Mircea Eliade|9789730010014|1964|Uzata|28|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.2|Liviu Rebreanu|9789730010015|1965|Noua|14|Disponibila
-CarteFizica|Ultima noapte Vol.2|Camil Petrescu|9789730010016|1966|Buna|21|Disponibila
-CarteFizica|Cel mai iubit Vol.2|Marin Preda|9789730010017|1967|Uzata|28|Disponibila
-CarteFizica|Groapa Vol.2|Eugen Barbu|9789730010018|1968|Noua|14|Disponibila
-CarteFizica|Cronos Vol.2|Ion Pop|9789730010019|1969|Buna|21|Disponibila
-CarteFizica|Morometii Vol.3|Marin Preda|9789730010020|1970|Uzata|28|Disponibila
-CarteFizica|Ion Vol.3|Liviu Rebreanu|9789730010021|1971|Noua|14|Disponibila
-CarteFizica|Enigma Otiliei Vol.3|G. Calinescu|9789730010022|1972|Buna|21|Disponibila
-CarteFizica|Baltagul Vol.3|Mihail Sadoveanu|9789730010023|1973|Uzata|28|Disponibila
-CarteFizica|Maitreyi Vol.3|Mircea Eliade|9789730010024|1974|Noua|14|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.3|Liviu Rebreanu|9789730010025|1975|Buna|21|Disponibila
-CarteFizica|Ultima noapte Vol.3|Camil Petrescu|9789730010026|1976|Uzata|28|Disponibila
-CarteFizica|Cel mai iubit Vol.3|Marin Preda|9789730010027|1977|Noua|14|Disponibila
-CarteFizica|Groapa Vol.3|Eugen Barbu|9789730010028|1978|Buna|21|Disponibila
-CarteFizica|Cronos Vol.3|Ion Pop|9789730010029|1979|Uzata|28|Disponibila
-CarteFizica|Morometii Vol.4|Marin Preda|9789730010030|1980|Noua|14|Disponibila
-CarteFizica|Ion Vol.4|Liviu Rebreanu|9789730010031|1981|Buna|21|Disponibila
-CarteFizica|Enigma Otiliei Vol.4|G. Calinescu|9789730010032|1982|Uzata|28|Disponibila
-CarteFizica|Baltagul Vol.4|Mihail Sadoveanu|9789730010033|1983|Noua|14|Disponibila
-CarteFizica|Maitreyi Vol.4|Mircea Eliade|9789730010034|1984|Buna|21|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.4|Liviu Rebreanu|9789730010035|1985|Uzata|28|Disponibila
-CarteFizica|Ultima noapte Vol.4|Camil Petrescu|9789730010036|1986|Noua|14|Disponibila
-CarteFizica|Cel mai iubit Vol.4|Marin Preda|9789730010037|1987|Buna|21|Disponibila
-CarteFizica|Groapa Vol.4|Eugen Barbu|9789730010038|1988|Uzata|28|Disponibila
-CarteFizica|Cronos Vol.4|Ion Pop|9789730010039|1989|Noua|14|Disponibila
-CarteFizica|Morometii Vol.5|Marin Preda|9789730010040|1990|Buna|21|Disponibila
-CarteFizica|Ion Vol.5|Liviu Rebreanu|9789730010041|1991|Uzata|28|Disponibila
-CarteFizica|Enigma Otiliei Vol.5|G. Calinescu|9789730010042|1992|Noua|14|Disponibila
-CarteFizica|Baltagul Vol.5|Mihail Sadoveanu|9789730010043|1993|Buna|21|Disponibila
-CarteFizica|Maitreyi Vol.5|Mircea Eliade|9789730010044|1994|Uzata|28|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.5|Liviu Rebreanu|9789730010045|1995|Noua|14|Disponibila
-CarteFizica|Ultima noapte Vol.5|Camil Petrescu|9789730010046|1996|Buna|21|Disponibila
-CarteFizica|Cel mai iubit Vol.5|Marin Preda|9789730010047|1997|Uzata|28|Disponibila
-CarteFizica|Groapa Vol.5|Eugen Barbu|9789730010048|1998|Noua|14|Disponibila
-CarteFizica|Cronos Vol.5|Ion Pop|9789730010049|1999|Buna|21|Disponibila
-CarteFizica|Morometii Vol.6|Marin Preda|9789730010050|2000|Uzata|28|Disponibila
-CarteFizica|Ion Vol.6|Liviu Rebreanu|9789730010051|2001|Noua|14|Disponibila
-CarteFizica|Enigma Otiliei Vol.6|G. Calinescu|9789730010052|2002|Buna|21|Disponibila
-CarteFizica|Baltagul Vol.6|Mihail Sadoveanu|9789730010053|2003|Uzata|28|Disponibila
-CarteFizica|Maitreyi Vol.6|Mircea Eliade|9789730010054|2004|Noua|14|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.6|Liviu Rebreanu|9789730010055|2005|Buna|21|Disponibila
-CarteFizica|Ultima noapte Vol.6|Camil Petrescu|9789730010056|2006|Uzata|28|Disponibila
-CarteFizica|Cel mai iubit Vol.6|Marin Preda|9789730010057|2007|Noua|14|Disponibila
-CarteFizica|Groapa Vol.6|Eugen Barbu|9789730010058|2008|Buna|21|Disponibila
-CarteFizica|Cronos Vol.6|Ion Pop|9789730010059|2009|Uzata|28|Disponibila
-CarteFizica|Morometii Vol.7|Marin Preda|9789730010060|2010|Noua|14|Disponibila
-CarteFizica|Ion Vol.7|Liviu Rebreanu|9789730010061|2011|Buna|21|Disponibila
-CarteFizica|Enigma Otiliei Vol.7|G. Calinescu|9789730010062|2012|Uzata|28|Disponibila
-CarteFizica|Baltagul Vol.7|Mihail Sadoveanu|9789730010063|2013|Noua|14|Disponibila
-CarteFizica|Maitreyi Vol.7|Mircea Eliade|9789730010064|2014|Buna|21|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.7|Liviu Rebreanu|9789730010065|2015|Uzata|28|Disponibila
-CarteFizica|Ultima noapte Vol.7|Camil Petrescu|9789730010066|2016|Noua|14|Disponibila
-CarteFizica|Cel mai iubit Vol.7|Marin Preda|9789730010067|2017|Buna|21|Disponibila
-CarteFizica|Groapa Vol.7|Eugen Barbu|9789730010068|2018|Uzata|28|Disponibila
-CarteFizica|Cronos Vol.7|Ion Pop|9789730010069|2019|Noua|14|Disponibila
-CarteFizica|Morometii Vol.8|Marin Preda|9789730010070|1950|Buna|21|Disponibila
-CarteFizica|Ion Vol.8|Liviu Rebreanu|9789730010071|1951|Uzata|28|Disponibila
-CarteFizica|Enigma Otiliei Vol.8|G. Calinescu|9789730010072|1952|Noua|14|Disponibila
-CarteFizica|Baltagul Vol.8|Mihail Sadoveanu|9789730010073|1953|Buna|21|Disponibila
-CarteFizica|Maitreyi Vol.8|Mircea Eliade|9789730010074|1954|Uzata|28|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.8|Liviu Rebreanu|9789730010075|1955|Noua|14|Disponibila
-CarteFizica|Ultima noapte Vol.8|Camil Petrescu|9789730010076|1956|Buna|21|Disponibila
-CarteFizica|Cel mai iubit Vol.8|Marin Preda|9789730010077|1957|Uzata|28|Disponibila
-CarteFizica|Groapa Vol.8|Eugen Barbu|9789730010078|1958|Noua|14|Disponibila
-CarteFizica|Cronos Vol.8|Ion Pop|9789730010079|1959|Buna|21|Disponibila
-CarteFizica|Morometii Vol.9|Marin Preda|9789730010080|1960|Uzata|28|Disponibila
-CarteFizica|Ion Vol.9|Liviu Rebreanu|9789730010081|1961|Noua|14|Disponibila
-CarteFizica|Enigma Otiliei Vol.9|G. Calinescu|9789730010082|1962|Buna|21|Disponibila
-CarteFizica|Baltagul Vol.9|Mihail Sadoveanu|9789730010083|1963|Uzata|28|Disponibila
-CarteFizica|Maitreyi Vol.9|Mircea Eliade|9789730010084|1964|Noua|14|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.9|Liviu Rebreanu|9789730010085|1965|Buna|21|Disponibila
-CarteFizica|Ultima noapte Vol.9|Camil Petrescu|9789730010086|1966|Uzata|28|Disponibila
-CarteFizica|Cel mai iubit Vol.9|Marin Preda|9789730010087|1967|Noua|14|Disponibila
-CarteFizica|Groapa Vol.9|Eugen Barbu|9789730010088|1968|Buna|21|Disponibila
-CarteFizica|Cronos Vol.9|Ion Pop|9789730010089|1969|Uzata|28|Disponibila
-CarteFizica|Morometii Vol.10|Marin Preda|9789730010090|1970|Noua|14|Disponibila
-CarteFizica|Ion Vol.10|Liviu Rebreanu|9789730010091|1971|Buna|21|Disponibila
-CarteFizica|Enigma Otiliei Vol.10|G. Calinescu|9789730010092|1972|Uzata|28|Disponibila
-CarteFizica|Baltagul Vol.10|Mihail Sadoveanu|9789730010093|1973|Noua|14|Disponibila
-CarteFizica|Maitreyi Vol.10|Mircea Eliade|9789730010094|1974|Buna|21|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.10|Liviu Rebreanu|9789730010095|1975|Uzata|28|Disponibila
-CarteFizica|Ultima noapte Vol.10|Camil Petrescu|9789730010096|1976|Noua|14|Disponibila
-CarteFizica|Cel mai iubit Vol.10|Marin Preda|9789730010097|1977|Buna|21|Disponibila
-CarteFizica|Groapa Vol.10|Eugen Barbu|9789730010098|1978|Uzata|28|Disponibila
-CarteFizica|Cronos Vol.10|Ion Pop|9789730010099|1979|Noua|14|Disponibila
-CarteFizica|Morometii Vol.11|Marin Preda|9789730010100|1980|Buna|21|Disponibila
-CarteFizica|Ion Vol.11|Liviu Rebreanu|9789730010101|1981|Uzata|28|Disponibila
-CarteFizica|Enigma Otiliei Vol.11|G. Calinescu|9789730010102|1982|Noua|14|Disponibila
-CarteFizica|Baltagul Vol.11|Mihail Sadoveanu|9789730010103|1983|Buna|21|Disponibila
-CarteFizica|Maitreyi Vol.11|Mircea Eliade|9789730010104|1984|Uzata|28|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.11|Liviu Rebreanu|9789730010105|1985|Noua|14|Disponibila
-CarteFizica|Ultima noapte Vol.11|Camil Petrescu|9789730010106|1986|Buna|21|Disponibila
-CarteFizica|Cel mai iubit Vol.11|Marin Preda|9789730010107|1987|Uzata|28|Disponibila
-CarteFizica|Groapa Vol.11|Eugen Barbu|9789730010108|1988|Noua|14|Disponibila
-CarteFizica|Cronos Vol.11|Ion Pop|9789730010109|1989|Buna|21|Disponibila
-CarteFizica|Morometii Vol.12|Marin Preda|9789730010110|1990|Uzata|28|Disponibila
-CarteFizica|Ion Vol.12|Liviu Rebreanu|9789730010111|1991|Noua|14|Disponibila
-CarteFizica|Enigma Otiliei Vol.12|G. Calinescu|9789730010112|1992|Buna|21|Disponibila
-CarteFizica|Baltagul Vol.12|Mihail Sadoveanu|9789730010113|1993|Uzata|28|Disponibila
-CarteFizica|Maitreyi Vol.12|Mircea Eliade|9789730010114|1994|Noua|14|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.12|Liviu Rebreanu|9789730010115|1995|Buna|21|Disponibila
-CarteFizica|Ultima noapte Vol.12|Camil Petrescu|9789730010116|1996|Uzata|28|Disponibila
-CarteFizica|Cel mai iubit Vol.12|Marin Preda|9789730010117|1997|Noua|14|Disponibila
-CarteFizica|Groapa Vol.12|Eugen Barbu|9789730010118|1998|Buna|21|Disponibila
-CarteFizica|Cronos Vol.12|Ion Pop|9789730010119|1999|Uzata|28|Disponibila
-CarteFizica|Morometii Vol.13|Marin Preda|9789730010120|2000|Noua|14|Disponibila
-CarteFizica|Ion Vol.13|Liviu Rebreanu|9789730010121|2001|Buna|21|Disponibila
-CarteFizica|Enigma Otiliei Vol.13|G. Calinescu|9789730010122|2002|Uzata|28|Disponibila
-CarteFizica|Baltagul Vol.13|Mihail Sadoveanu|9789730010123|2003|Noua|14|Disponibila
-CarteFizica|Maitreyi Vol.13|Mircea Eliade|9789730010124|2004|Buna|21|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.13|Liviu Rebreanu|9789730010125|2005|Uzata|28|Disponibila
-CarteFizica|Ultima noapte Vol.13|Camil Petrescu|9789730010126|2006|Noua|14|Disponibila
-CarteFizica|Cel mai iubit Vol.13|Marin Preda|9789730010127|2007|Buna|21|Disponibila
-CarteFizica|Groapa Vol.13|Eugen Barbu|9789730010128|2008|Uzata|28|Disponibila
-CarteFizica|Cronos Vol.13|Ion Pop|9789730010129|2009|Noua|14|Disponibila
-CarteFizica|Morometii Vol.14|Marin Preda|9789730010130|2010|Buna|21|Disponibila
-CarteFizica|Ion Vol.14|Liviu Rebreanu|9789730010131|2011|Uzata|28|Disponibila
-CarteFizica|Enigma Otiliei Vol.14|G. Calinescu|9789730010132|2012|Noua|14|Disponibila
-CarteFizica|Baltagul Vol.14|Mihail Sadoveanu|9789730010133|2013|Buna|21|Disponibila
-CarteFizica|Maitreyi Vol.14|Mircea Eliade|9789730010134|2014|Uzata|28|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.14|Liviu Rebreanu|9789730010135|2015|Noua|14|Disponibila
-CarteFizica|Ultima noapte Vol.14|Camil Petrescu|9789730010136|2016|Buna|21|Disponibila
-CarteFizica|Cel mai iubit Vol.14|Marin Preda|9789730010137|2017|Uzata|28|Disponibila
-CarteFizica|Groapa Vol.14|Eugen Barbu|9789730010138|2018|Noua|14|Disponibila
-CarteFizica|Cronos Vol.14|Ion Pop|9789730010139|2019|Buna|21|Disponibila
-CarteFizica|Morometii Vol.15|Marin Preda|9789730010140|1950|Uzata|28|Disponibila
-CarteFizica|Ion Vol.15|Liviu Rebreanu|9789730010141|1951|Noua|14|Disponibila
-CarteFizica|Enigma Otiliei Vol.15|G. Calinescu|9789730010142|1952|Buna|21|Disponibila
-CarteFizica|Baltagul Vol.15|Mihail Sadoveanu|9789730010143|1953|Uzata|28|Disponibila
-CarteFizica|Maitreyi Vol.15|Mircea Eliade|9789730010144|1954|Noua|14|Disponibila
-CarteFizica|Padurea Spanzuratilor Vol.15|Liviu Rebreanu|9789730010145|1955|Buna|21|Disponibila
-CarteFizica|Ultima noapte Vol.15|Camil Petrescu|9789730010146|1956|Uzata|28|Disponibila
-CarteFizica|Cel mai iubit Vol.15|Marin Preda|9789730010147|1957|Noua|14|Disponibila
-CarteFizica|Groapa Vol.15|Eugen Barbu|9789730010148|1958|Buna|21|Disponibila
-CarteFizica|Cronos Vol.15|Ion Pop|9789730010149|1959|Uzata|28|Disponibila
-CarteFizica|C++ Modern Ed.1|Stroustrup|9789730110000|1990|Noua|30|Disponibila
-CarteFizica|Algoritmi Ed.1|Cormen|9789730110001|1991|Buna|30|Disponibila
-CarteFizica|Structuri de Date Ed.1|Knuth|9789730110002|1992|Uzata|30|Disponibila
-CarteFizica|Python Pro Ed.1|Lutz|9789730110003|1993|Noua|30|Disponibila
-CarteFizica|Java Advanced Ed.1|Bloch|9789730110004|1994|Buna|30|Disponibila
-CarteFizica|Machine Learning Ed.1|Mitchell|9789730110005|1995|Uzata|30|Disponibila
-CarteFizica|Linux Administration Ed.1|Nemeth|9789730110006|1996|Noua|30|Disponibila
-CarteFizica|Database Design Ed.1|Date|9789730110007|1997|Buna|30|Disponibila
-CarteFizica|Network Security Ed.1|Stallings|9789730110008|1998|Uzata|30|Disponibila
-CarteFizica|Cloud Computing Ed.1|Armbrust|9789730110009|1999|Noua|30|Disponibila
-CarteFizica|C++ Modern Ed.2|Stroustrup|9789730110010|2000|Buna|30|Disponibila
-CarteFizica|Algoritmi Ed.2|Cormen|9789730110011|2001|Uzata|30|Disponibila
-CarteFizica|Structuri de Date Ed.2|Knuth|9789730110012|2002|Noua|30|Disponibila
-CarteFizica|Python Pro Ed.2|Lutz|9789730110013|2003|Buna|30|Disponibila
-CarteFizica|Java Advanced Ed.2|Bloch|9789730110014|2004|Uzata|30|Disponibila
-CarteFizica|Machine Learning Ed.2|Mitchell|9789730110015|2005|Noua|30|Disponibila
-CarteFizica|Linux Administration Ed.2|Nemeth|9789730110016|2006|Buna|30|Disponibila
-CarteFizica|Database Design Ed.2|Date|9789730110017|2007|Uzata|30|Disponibila
-CarteFizica|Network Security Ed.2|Stallings|9789730110018|2008|Noua|30|Disponibila
-CarteFizica|Cloud Computing Ed.2|Armbrust|9789730110019|2009|Buna|30|Disponibila
-CarteFizica|C++ Modern Ed.3|Stroustrup|9789730110020|2010|Uzata|30|Disponibila
-CarteFizica|Algoritmi Ed.3|Cormen|9789730110021|2011|Noua|30|Disponibila
-CarteFizica|Structuri de Date Ed.3|Knuth|9789730110022|2012|Buna|30|Disponibila
-CarteFizica|Python Pro Ed.3|Lutz|9789730110023|2013|Uzata|30|Disponibila
-CarteFizica|Java Advanced Ed.3|Bloch|9789730110024|2014|Noua|30|Disponibila
-CarteFizica|Machine Learning Ed.3|Mitchell|9789730110025|2015|Buna|30|Disponibila
-CarteFizica|Linux Administration Ed.3|Nemeth|9789730110026|2016|Uzata|30|Disponibila
-CarteFizica|Database Design Ed.3|Date|9789730110027|2017|Noua|30|Disponibila
-CarteFizica|Network Security Ed.3|Stallings|9789730110028|2018|Buna|30|Disponibila
-CarteFizica|Cloud Computing Ed.3|Armbrust|9789730110029|2019|Uzata|30|Disponibila
-CarteFizica|C++ Modern Ed.4|Stroustrup|9789730110030|1990|Noua|30|Disponibila
-CarteFizica|Algoritmi Ed.4|Cormen|9789730110031|1991|Buna|30|Disponibila
-CarteFizica|Structuri de Date Ed.4|Knuth|9789730110032|1992|Uzata|30|Disponibila
-CarteFizica|Python Pro Ed.4|Lutz|9789730110033|1993|Noua|30|Disponibila
-CarteFizica|Java Advanced Ed.4|Bloch|9789730110034|1994|Buna|30|Disponibila
-CarteFizica|Machine Learning Ed.4|Mitchell|9789730110035|1995|Uzata|30|Disponibila
-CarteFizica|Linux Administration Ed.4|Nemeth|9789730110036|1996|Noua|30|Disponibila
-CarteFizica|Database Design Ed.4|Date|9789730110037|1997|Buna|30|Disponibila
-CarteFizica|Network Security Ed.4|Stallings|9789730110038|1998|Uzata|30|Disponibila
-CarteFizica|Cloud Computing Ed.4|Armbrust|9789730110039|1999|Noua|30|Disponibila
-CarteFizica|C++ Modern Ed.5|Stroustrup|9789730110040|2000|Buna|30|Disponibila
-CarteFizica|Algoritmi Ed.5|Cormen|9789730110041|2001|Uzata|30|Disponibila
-CarteFizica|Structuri de Date Ed.5|Knuth|9789730110042|2002|Noua|30|Disponibila
-CarteFizica|Python Pro Ed.5|Lutz|9789730110043|2003|Buna|30|Disponibila
-CarteFizica|Java Advanced Ed.5|Bloch|9789730110044|2004|Uzata|30|Disponibila
-CarteFizica|Machine Learning Ed.5|Mitchell|9789730110045|2005|Noua|30|Disponibila
-CarteFizica|Linux Administration Ed.5|Nemeth|9789730110046|2006|Buna|30|Disponibila
-CarteFizica|Database Design Ed.5|Date|9789730110047|2007|Uzata|30|Disponibila
-CarteFizica|Network Security Ed.5|Stallings|9789730110048|2008|Noua|30|Disponibila
-CarteFizica|Cloud Computing Ed.5|Armbrust|9789730110049|2009|Buna|30|Disponibila
-CarteFizica|C++ Modern Ed.6|Stroustrup|9789730110050|2010|Uzata|30|Disponibila
-CarteFizica|Algoritmi Ed.6|Cormen|9789730110051|2011|Noua|30|Disponibila
-CarteFizica|Structuri de Date Ed.6|Knuth|9789730110052|2012|Buna|30|Disponibila
-CarteFizica|Python Pro Ed.6|Lutz|9789730110053|2013|Uzata|30|Disponibila
-CarteFizica|Java Advanced Ed.6|Bloch|9789730110054|2014|Noua|30|Disponibila
-CarteFizica|Machine Learning Ed.6|Mitchell|9789730110055|2015|Buna|30|Disponibila
-CarteFizica|Linux Administration Ed.6|Nemeth|9789730110056|2016|Uzata|30|Disponibila
-CarteFizica|Database Design Ed.6|Date|9789730110057|2017|Noua|30|Disponibila
-CarteFizica|Network Security Ed.6|Stallings|9789730110058|2018|Buna|30|Disponibila
-CarteFizica|Cloud Computing Ed.6|Armbrust|9789730110059|2019|Uzata|30|Disponibila
-CarteFizica|C++ Modern Ed.7|Stroustrup|9789730110060|1990|Noua|30|Disponibila
-CarteFizica|Algoritmi Ed.7|Cormen|9789730110061|1991|Buna|30|Disponibila
-CarteFizica|Structuri de Date Ed.7|Knuth|9789730110062|1992|Uzata|30|Disponibila
-CarteFizica|Python Pro Ed.7|Lutz|9789730110063|1993|Noua|30|Disponibila
-CarteFizica|Java Advanced Ed.7|Bloch|9789730110064|1994|Buna|30|Disponibila
-CarteFizica|Machine Learning Ed.7|Mitchell|9789730110065|1995|Uzata|30|Disponibila
-CarteFizica|Linux Administration Ed.7|Nemeth|9789730110066|1996|Noua|30|Disponibila
-CarteFizica|Database Design Ed.7|Date|9789730110067|1997|Buna|30|Disponibila
-CarteFizica|Network Security Ed.7|Stallings|9789730110068|1998|Uzata|30|Disponibila
-CarteFizica|Cloud Computing Ed.7|Armbrust|9789730110069|1999|Noua|30|Disponibila
-CarteFizica|C++ Modern Ed.8|Stroustrup|9789730110070|2000|Buna|30|Disponibila
-CarteFizica|Algoritmi Ed.8|Cormen|9789730110071|2001|Uzata|30|Disponibila
-CarteFizica|Structuri de Date Ed.8|Knuth|9789730110072|2002|Noua|30|Disponibila
-CarteFizica|Python Pro Ed.8|Lutz|9789730110073|2003|Buna|30|Disponibila
-CarteFizica|Java Advanced Ed.8|Bloch|9789730110074|2004|Uzata|30|Disponibila
-CarteFizica|Machine Learning Ed.8|Mitchell|9789730110075|2005|Noua|30|Disponibila
-CarteFizica|Linux Administration Ed.8|Nemeth|9789730110076|2006|Buna|30|Disponibila
-CarteFizica|Database Design Ed.8|Date|9789730110077|2007|Uzata|30|Disponibila
-CarteFizica|Network Security Ed.8|Stallings|9789730110078|2008|Noua|30|Disponibila
-CarteFizica|Cloud Computing Ed.8|Armbrust|9789730110079|2009|Buna|30|Disponibila
-CarteFizica|C++ Modern Ed.9|Stroustrup|9789730110080|2010|Uzata|30|Disponibila
-CarteFizica|Algoritmi Ed.9|Cormen|9789730110081|2011|Noua|30|Disponibila
-CarteFizica|Structuri de Date Ed.9|Knuth|9789730110082|2012|Buna|30|Disponibila
-CarteFizica|Python Pro Ed.9|Lutz|9789730110083|2013|Uzata|30|Disponibila
-CarteFizica|Java Advanced Ed.9|Bloch|9789730110084|2014|Noua|30|Disponibila
-CarteFizica|Machine Learning Ed.9|Mitchell|9789730110085|2015|Buna|30|Disponibila
-CarteFizica|Linux Administration Ed.9|Nemeth|9789730110086|2016|Uzata|30|Disponibila
-CarteFizica|Database Design Ed.9|Date|9789730110087|2017|Noua|30|Disponibila
-CarteFizica|Network Security Ed.9|Stallings|9789730110088|2018|Buna|30|Disponibila
-CarteFizica|Cloud Computing Ed.9|Armbrust|9789730110089|2019|Uzata|30|Disponibila
-CarteFizica|C++ Modern Ed.10|Stroustrup|9789730110090|1990|Noua|30|Disponibila
-CarteFizica|Algoritmi Ed.10|Cormen|9789730110091|1991|Buna|30|Disponibila
-CarteFizica|Structuri de Date Ed.10|Knuth|9789730110092|1992|Uzata|30|Disponibila
-CarteFizica|Python Pro Ed.10|Lutz|9789730110093|1993|Noua|30|Disponibila
-CarteFizica|Java Advanced Ed.10|Bloch|9789730110094|1994|Buna|30|Disponibila
-CarteFizica|Machine Learning Ed.10|Mitchell|9789730110095|1995|Uzata|30|Disponibila
-CarteFizica|Linux Administration Ed.10|Nemeth|9789730110096|1996|Noua|30|Disponibila
-CarteFizica|Database Design Ed.10|Date|9789730110097|1997|Buna|30|Disponibila
-CarteFizica|Network Security Ed.10|Stallings|9789730110098|1998|Uzata|30|Disponibila
-CarteFizica|Cloud Computing Ed.10|Armbrust|9789730110099|1999|Noua|30|Disponibila
-CarteFizica|C++ Modern Ed.11|Stroustrup|9789730110100|2000|Buna|30|Disponibila
-CarteFizica|Algoritmi Ed.11|Cormen|9789730110101|2001|Uzata|30|Disponibila
-CarteFizica|Structuri de Date Ed.11|Knuth|9789730110102|2002|Noua|30|Disponibila
-CarteFizica|Python Pro Ed.11|Lutz|9789730110103|2003|Buna|30|Disponibila
-CarteFizica|Java Advanced Ed.11|Bloch|9789730110104|2004|Uzata|30|Disponibila
-CarteFizica|Machine Learning Ed.11|Mitchell|9789730110105|2005|Noua|30|Disponibila
-CarteFizica|Linux Administration Ed.11|Nemeth|9789730110106|2006|Buna|30|Disponibila
-CarteFizica|Database Design Ed.11|Date|9789730110107|2007|Uzata|30|Disponibila
-CarteFizica|Network Security Ed.11|Stallings|9789730110108|2008|Noua|30|Disponibila
-CarteFizica|Cloud Computing Ed.11|Armbrust|9789730110109|2009|Buna|30|Disponibila
-CarteFizica|C++ Modern Ed.12|Stroustrup|9789730110110|2010|Uzata|30|Disponibila
-CarteFizica|Algoritmi Ed.12|Cormen|9789730110111|2011|Noua|30|Disponibila
-CarteFizica|Structuri de Date Ed.12|Knuth|9789730110112|2012|Buna|30|Disponibila
-CarteFizica|Python Pro Ed.12|Lutz|9789730110113|2013|Uzata|30|Disponibila
-CarteFizica|Java Advanced Ed.12|Bloch|9789730110114|2014|Noua|30|Disponibila
-CarteFizica|Machine Learning Ed.12|Mitchell|9789730110115|2015|Buna|30|Disponibila
-CarteFizica|Linux Administration Ed.12|Nemeth|9789730110116|2016|Uzata|30|Disponibila
-CarteFizica|Database Design Ed.12|Date|9789730110117|2017|Noua|30|Disponibila
-CarteFizica|Network Security Ed.12|Stallings|9789730110118|2018|Buna|30|Disponibila
-CarteFizica|Cloud Computing Ed.12|Armbrust|9789730110119|2019|Uzata|30|Disponibila
-CarteFizica|C++ Modern Ed.13|Stroustrup|9789730110120|1990|Noua|30|Disponibila
-CarteFizica|Algoritmi Ed.13|Cormen|9789730110121|1991|Buna|30|Disponibila
-CarteFizica|Structuri de Date Ed.13|Knuth|9789730110122|1992|Uzata|30|Disponibila
-CarteFizica|Python Pro Ed.13|Lutz|9789730110123|1993|Noua|30|Disponibila
-CarteFizica|Java Advanced Ed.13|Bloch|9789730110124|1994|Buna|30|Disponibila
-CarteFizica|Machine Learning Ed.13|Mitchell|9789730110125|1995|Uzata|30|Disponibila
-CarteFizica|Linux Administration Ed.13|Nemeth|9789730110126|1996|Noua|30|Disponibila
-CarteFizica|Database Design Ed.13|Date|9789730110127|1997|Buna|30|Disponibila
-CarteFizica|Network Security Ed.13|Stallings|9789730110128|1998|Uzata|30|Disponibila
-CarteFizica|Cloud Computing Ed.13|Armbrust|9789730110129|1999|Noua|30|Disponibila
-CarteFizica|C++ Modern Ed.14|Stroustrup|9789730110130|2000|Buna|30|Disponibila
-CarteFizica|Algoritmi Ed.14|Cormen|9789730110131|2001|Uzata|30|Disponibila
-CarteFizica|Structuri de Date Ed.14|Knuth|9789730110132|2002|Noua|30|Disponibila
-CarteFizica|Python Pro Ed.14|Lutz|9789730110133|2003|Buna|30|Disponibila
-CarteFizica|Java Advanced Ed.14|Bloch|9789730110134|2004|Uzata|30|Disponibila
-CarteFizica|Machine Learning Ed.14|Mitchell|9789730110135|2005|Noua|30|Disponibila
-CarteFizica|Linux Administration Ed.14|Nemeth|9789730110136|2006|Buna|30|Disponibila
-CarteFizica|Database Design Ed.14|Date|9789730110137|2007|Uzata|30|Disponibila
-CarteFizica|Network Security Ed.14|Stallings|9789730110138|2008|Noua|30|Disponibila
-CarteFizica|Cloud Computing Ed.14|Armbrust|9789730110139|2009|Buna|30|Disponibila
-CarteFizica|C++ Modern Ed.15|Stroustrup|9789730110140|2010|Uzata|30|Disponibila
-CarteFizica|Algoritmi Ed.15|Cormen|9789730110141|2011|Noua|30|Disponibila
-CarteFizica|Structuri de Date Ed.15|Knuth|9789730110142|2012|Buna|30|Disponibila
-CarteFizica|Python Pro Ed.15|Lutz|9789730110143|2013|Uzata|30|Disponibila
-CarteFizica|Java Advanced Ed.15|Bloch|9789730110144|2014|Noua|30|Disponibila
-CarteFizica|Machine Learning Ed.15|Mitchell|9789730110145|2015|Buna|30|Disponibila
-CarteFizica|Linux Administration Ed.15|Nemeth|9789730110146|2016|Uzata|30|Disponibila
-CarteFizica|Database Design Ed.15|Date|9789730110147|2017|Noua|30|Disponibila
-CarteFizica|Network Security Ed.15|Stallings|9789730110148|2018|Buna|30|Disponibila
-CarteFizica|Cloud Computing Ed.15|Armbrust|9789730110149|2019|Uzata|30|Disponibila
-CarteFizica|eBook C++ Modern 1|Stroustrup|9789730210000|2000|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 2|Cormen|9789730210001|2001|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 3|Knuth|9789730210002|2002|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 4|Lutz|9789730210003|2003|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 5|Bloch|9789730210004|2004|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 6|Mitchell|9789730210005|2005|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 7|Nemeth|9789730210006|2006|Noua|14|Disponibila
-CarteFizica|eBook Database Design 8|Date|9789730210007|2007|Noua|14|Disponibila
-CarteFizica|eBook Network Security 9|Stallings|9789730210008|2008|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 10|Armbrust|9789730210009|2009|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 11|Stroustrup|9789730210010|2010|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 12|Cormen|9789730210011|2011|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 13|Knuth|9789730210012|2012|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 14|Lutz|9789730210013|2013|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 15|Bloch|9789730210014|2014|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 16|Mitchell|9789730210015|2015|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 17|Nemeth|9789730210016|2016|Noua|14|Disponibila
-CarteFizica|eBook Database Design 18|Date|9789730210017|2017|Noua|14|Disponibila
-CarteFizica|eBook Network Security 19|Stallings|9789730210018|2018|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 20|Armbrust|9789730210019|2019|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 21|Stroustrup|9789730210020|2000|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 22|Cormen|9789730210021|2001|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 23|Knuth|9789730210022|2002|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 24|Lutz|9789730210023|2003|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 25|Bloch|9789730210024|2004|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 26|Mitchell|9789730210025|2005|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 27|Nemeth|9789730210026|2006|Noua|14|Disponibila
-CarteFizica|eBook Database Design 28|Date|9789730210027|2007|Noua|14|Disponibila
-CarteFizica|eBook Network Security 29|Stallings|9789730210028|2008|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 30|Armbrust|9789730210029|2009|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 31|Stroustrup|9789730210030|2010|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 32|Cormen|9789730210031|2011|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 33|Knuth|9789730210032|2012|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 34|Lutz|9789730210033|2013|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 35|Bloch|9789730210034|2014|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 36|Mitchell|9789730210035|2015|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 37|Nemeth|9789730210036|2016|Noua|14|Disponibila
-CarteFizica|eBook Database Design 38|Date|9789730210037|2017|Noua|14|Disponibila
-CarteFizica|eBook Network Security 39|Stallings|9789730210038|2018|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 40|Armbrust|9789730210039|2019|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 41|Stroustrup|9789730210040|2000|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 42|Cormen|9789730210041|2001|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 43|Knuth|9789730210042|2002|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 44|Lutz|9789730210043|2003|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 45|Bloch|9789730210044|2004|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 46|Mitchell|9789730210045|2005|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 47|Nemeth|9789730210046|2006|Noua|14|Disponibila
-CarteFizica|eBook Database Design 48|Date|9789730210047|2007|Noua|14|Disponibila
-CarteFizica|eBook Network Security 49|Stallings|9789730210048|2008|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 50|Armbrust|9789730210049|2009|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 51|Stroustrup|9789730210050|2010|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 52|Cormen|9789730210051|2011|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 53|Knuth|9789730210052|2012|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 54|Lutz|9789730210053|2013|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 55|Bloch|9789730210054|2014|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 56|Mitchell|9789730210055|2015|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 57|Nemeth|9789730210056|2016|Noua|14|Disponibila
-CarteFizica|eBook Database Design 58|Date|9789730210057|2017|Noua|14|Disponibila
-CarteFizica|eBook Network Security 59|Stallings|9789730210058|2018|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 60|Armbrust|9789730210059|2019|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 61|Stroustrup|9789730210060|2000|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 62|Cormen|9789730210061|2001|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 63|Knuth|9789730210062|2002|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 64|Lutz|9789730210063|2003|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 65|Bloch|9789730210064|2004|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 66|Mitchell|9789730210065|2005|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 67|Nemeth|9789730210066|2006|Noua|14|Disponibila
-CarteFizica|eBook Database Design 68|Date|9789730210067|2007|Noua|14|Disponibila
-CarteFizica|eBook Network Security 69|Stallings|9789730210068|2008|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 70|Armbrust|9789730210069|2009|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 71|Stroustrup|9789730210070|2010|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 72|Cormen|9789730210071|2011|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 73|Knuth|9789730210072|2012|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 74|Lutz|9789730210073|2013|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 75|Bloch|9789730210074|2014|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 76|Mitchell|9789730210075|2015|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 77|Nemeth|9789730210076|2016|Noua|14|Disponibila
-CarteFizica|eBook Database Design 78|Date|9789730210077|2017|Noua|14|Disponibila
-CarteFizica|eBook Network Security 79|Stallings|9789730210078|2018|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 80|Armbrust|9789730210079|2019|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 81|Stroustrup|9789730210080|2000|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 82|Cormen|9789730210081|2001|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 83|Knuth|9789730210082|2002|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 84|Lutz|9789730210083|2003|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 85|Bloch|9789730210084|2004|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 86|Mitchell|9789730210085|2005|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 87|Nemeth|9789730210086|2006|Noua|14|Disponibila
-CarteFizica|eBook Database Design 88|Date|9789730210087|2007|Noua|14|Disponibila
-CarteFizica|eBook Network Security 89|Stallings|9789730210088|2008|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 90|Armbrust|9789730210089|2009|Noua|14|Disponibila
-CarteFizica|eBook C++ Modern 91|Stroustrup|9789730210090|2010|Noua|14|Disponibila
-CarteFizica|eBook Algoritmi 92|Cormen|9789730210091|2011|Noua|14|Disponibila
-CarteFizica|eBook Structuri de Date 93|Knuth|9789730210092|2012|Noua|14|Disponibila
-CarteFizica|eBook Python Pro 94|Lutz|9789730210093|2013|Noua|14|Disponibila
-CarteFizica|eBook Java Advanced 95|Bloch|9789730210094|2014|Noua|14|Disponibila
-CarteFizica|eBook Machine Learning 96|Mitchell|9789730210095|2015|Noua|14|Disponibila
-CarteFizica|eBook Linux Administration 97|Nemeth|9789730210096|2016|Noua|14|Disponibila
-CarteFizica|eBook Database Design 98|Date|9789730210097|2017|Noua|14|Disponibila
-CarteFizica|eBook Network Security 99|Stallings|9789730210098|2018|Noua|14|Disponibila
-CarteFizica|eBook Cloud Computing 100|Armbrust|9789730210099|2019|Noua|14|Disponibila
-CarteFizica|Revista Informatica Nr.1|Redactia|9789730310000|2010|Noua|7|Disponibila
-CarteFizica|Revista Matematica Nr.2|Redactia|9789730310001|2011|Buna|7|Disponibila
-CarteFizica|Revista Fizica Nr.3|Redactia|9789730310002|2012|Uzata|7|Disponibila
-CarteFizica|Revista Chimie Nr.4|Redactia|9789730310003|2013|Noua|7|Disponibila
-CarteFizica|Revista Biologie Nr.5|Redactia|9789730310004|2014|Buna|7|Disponibila
-CarteFizica|Revista Electronica Nr.6|Redactia|9789730310005|2015|Uzata|7|Disponibila
-CarteFizica|Revista Robotica Nr.7|Redactia|9789730310006|2016|Noua|7|Disponibila
-CarteFizica|Revista Inteligenta Artificiala Nr.8|Redactia|9789730310007|2017|Buna|7|Disponibila
-CarteFizica|Revista Retele Nr.9|Redactia|9789730310008|2018|Uzata|7|Disponibila
-CarteFizica|Revista Securitate Nr.10|Redactia|9789730310009|2019|Noua|7|Disponibila
-CarteFizica|Revista Informatica Nr.11|Redactia|9789730310010|2020|Buna|7|Disponibila
-CarteFizica|Revista Matematica Nr.12|Redactia|9789730310011|2021|Uzata|7|Disponibila
-CarteFizica|Revista Fizica Nr.13|Redactia|9789730310012|2022|Noua|7|Disponibila
-CarteFizica|Revista Chimie Nr.14|Redactia|9789730310013|2023|Buna|7|Disponibila
-CarteFizica|Revista Biologie Nr.15|Redactia|9789730310014|2010|Uzata|7|Disponibila
-CarteFizica|Revista Electronica Nr.16|Redactia|9789730310015|2011|Noua|7|Disponibila
-CarteFizica|Revista Robotica Nr.17|Redactia|9789730310016|2012|Buna|7|Disponibila
-CarteFizica|Revista Inteligenta Artificiala Nr.18|Redactia|9789730310017|2013|Uzata|7|Disponibila
-CarteFizica|Revista Retele Nr.19|Redactia|9789730310018|2014|Noua|7|Disponibila
-CarteFizica|Revista Securitate Nr.20|Redactia|9789730310019|2015|Buna|7|Disponibila
-CarteFizica|Revista Informatica Nr.21|Redactia|9789730310020|2016|Uzata|7|Disponibila
-CarteFizica|Revista Matematica Nr.22|Redactia|9789730310021|2017|Noua|7|Disponibila
-CarteFizica|Revista Fizica Nr.23|Redactia|9789730310022|2018|Buna|7|Disponibila
-CarteFizica|Revista Chimie Nr.24|Redactia|9789730310023|2019|Uzata|7|Disponibila
-CarteFizica|Revista Biologie Nr.25|Redactia|9789730310024|2020|Noua|7|Disponibila
-CarteFizica|Revista Electronica Nr.26|Redactia|9789730310025|2021|Buna|7|Disponibila
-CarteFizica|Revista Robotica Nr.27|Redactia|9789730310026|2022|Uzata|7|Disponibila
-CarteFizica|Revista Inteligenta Artificiala Nr.28|Redactia|9789730310027|2023|Noua|7|Disponibila
-CarteFizica|Revista Retele Nr.29|Redactia|9789730310028|2010|Buna|7|Disponibila
-CarteFizica|Revista Securitate Nr.30|Redactia|9789730310029|2011|Uzata|7|Disponibila
-CarteFizica|Revista Informatica Nr.31|Redactia|9789730310030|2012|Noua|7|Disponibila
-CarteFizica|Revista Matematica Nr.32|Redactia|9789730310031|2013|Buna|7|Disponibila
-CarteFizica|Revista Fizica Nr.33|Redactia|9789730310032|2014|Uzata|7|Disponibila
-CarteFizica|Revista Chimie Nr.34|Redactia|9789730310033|2015|Noua|7|Disponibila
-CarteFizica|Revista Biologie Nr.35|Redactia|9789730310034|2016|Buna|7|Disponibila
-CarteFizica|Revista Electronica Nr.36|Redactia|9789730310035|2017|Uzata|7|Disponibila
-CarteFizica|Revista Robotica Nr.37|Redactia|9789730310036|2018|Noua|7|Disponibila
-CarteFizica|Revista Inteligenta Artificiala Nr.38|Redactia|9789730310037|2019|Buna|7|Disponibila
-CarteFizica|Revista Retele Nr.39|Redactia|9789730310038|2020|Uzata|7|Disponibila
-CarteFizica|Revista Securitate Nr.40|Redactia|9789730310039|2021|Noua|7|Disponibila
-CarteFizica|Revista Informatica Nr.41|Redactia|9789730310040|2022|Buna|7|Disponibila
-CarteFizica|Revista Matematica Nr.42|Redactia|9789730310041|2023|Uzata|7|Disponibila
-CarteFizica|Revista Fizica Nr.43|Redactia|9789730310042|2010|Noua|7|Disponibila
-CarteFizica|Revista Chimie Nr.44|Redactia|9789730310043|2011|Buna|7|Disponibila
-CarteFizica|Revista Biologie Nr.45|Redactia|9789730310044|2012|Uzata|7|Disponibila
-CarteFizica|Revista Electronica Nr.46|Redactia|9789730310045|2013|Noua|7|Disponibila
-CarteFizica|Revista Robotica Nr.47|Redactia|9789730310046|2014|Buna|7|Disponibila
-CarteFizica|Revista Inteligenta Artificiala Nr.48|Redactia|9789730310047|2015|Uzata|7|Disponibila
-CarteFizica|Revista Retele Nr.49|Redactia|9789730310048|2016|Noua|7|Disponibila
-CarteFizica|Revista Securitate Nr.50|Redactia|9789730310049|2017|Buna|7|Disponibila
-CarteFizica|Revista Informatica Nr.51|Redactia|9789730310050|2018|Uzata|7|Disponibila
-CarteFizica|Revista Matematica Nr.52|Redactia|9789730310051|2019|Noua|7|Disponibila
-CarteFizica|Revista Fizica Nr.53|Redactia|9789730310052|2020|Buna|7|Disponibila
-CarteFizica|Revista Chimie Nr.54|Redactia|9789730310053|2021|Uzata|7|Disponibila
-CarteFizica|Revista Biologie Nr.55|Redactia|9789730310054|2022|Noua|7|Disponibila
-CarteFizica|Revista Electronica Nr.56|Redactia|9789730310055|2023|Buna|7|Disponibila
-CarteFizica|Revista Robotica Nr.57|Redactia|9789730310056|2010|Uzata|7|Disponibila
-CarteFizica|Revista Inteligenta Artificiala Nr.58|Redactia|9789730310057|2011|Noua|7|Disponibila
-CarteFizica|Revista Retele Nr.59|Redactia|9789730310058|2012|Buna|7|Disponibila
-CarteFizica|Revista Securitate Nr.60|Redactia|9789730310059|2013|Uzata|7|Disponibila
-CarteFizica|Revista Informatica Nr.61|Redactia|9789730310060|2014|Noua|7|Disponibila
-CarteFizica|Revista Matematica Nr.62|Redactia|9789730310061|2015|Buna|7|Disponibila
-CarteFizica|Revista Fizica Nr.63|Redactia|9789730310062|2016|Uzata|7|Disponibila
-CarteFizica|Revista Chimie Nr.64|Redactia|9789730310063|2017|Noua|7|Disponibila
-CarteFizica|Revista Biologie Nr.65|Redactia|9789730310064|2018|Buna|7|Disponibila
-CarteFizica|Revista Electronica Nr.66|Redactia|9789730310065|2019|Uzata|7|Disponibila
-CarteFizica|Revista Robotica Nr.67|Redactia|9789730310066|2020|Noua|7|Disponibila
-CarteFizica|Revista Inteligenta Artificiala Nr.68|Redactia|9789730310067|2021|Buna|7|Disponibila
-CarteFizica|Revista Retele Nr.69|Redactia|9789730310068|2022|Uzata|7|Disponibila
-CarteFizica|Revista Securitate Nr.70|Redactia|9789730310069|2023|Noua|7|Disponibila
-CarteFizica|Revista Informatica Nr.71|Redactia|9789730310070|2010|Buna|7|Disponibila
-CarteFizica|Revista Matematica Nr.72|Redactia|9789730310071|2011|Uzata|7|Disponibila
-CarteFizica|Revista Fizica Nr.73|Redactia|9789730310072|2012|Noua|7|Disponibila
-CarteFizica|Revista Chimie Nr.74|Redactia|9789730310073|2013|Buna|7|Disponibila
-CarteFizica|Revista Biologie Nr.75|Redactia|9789730310074|2014|Uzata|7|Disponibila
-CarteFizica|Revista Electronica Nr.76|Redactia|9789730310075|2015|Noua|7|Disponibila
-CarteFizica|Revista Robotica Nr.77|Redactia|9789730310076|2016|Buna|7|Disponibila
-CarteFizica|Revista Inteligenta Artificiala Nr.78|Redactia|9789730310077|2017|Uzata|7|Disponibila
-CarteFizica|Revista Retele Nr.79|Redactia|9789730310078|2018|Noua|7|Disponibila
-CarteFizica|Revista Securitate Nr.80|Redactia|9789730310079|2019|Buna|7|Disponibila
-CarteRara|Manuscris Vechi 1|Autor Necunoscut 1|9789730410000|1800|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 2|Autor Necunoscut 2|9789730410001|1805|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 3|Autor Necunoscut 3|9789730410002|1810|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 4|Autor Necunoscut 4|9789730410003|1815|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 5|Autor Necunoscut 5|9789730410004|1820|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 6|Autor Necunoscut 6|9789730410005|1825|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 7|Autor Necunoscut 7|9789730410006|1830|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 8|Autor Necunoscut 8|9789730410007|1835|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 9|Autor Necunoscut 9|9789730410008|1840|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 10|Autor Necunoscut 10|9789730410009|1845|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 11|Autor Necunoscut 11|9789730410010|1850|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 12|Autor Necunoscut 12|9789730410011|1855|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 13|Autor Necunoscut 13|9789730410012|1860|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 14|Autor Necunoscut 14|9789730410013|1865|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 15|Autor Necunoscut 15|9789730410014|1870|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 16|Autor Necunoscut 16|9789730410015|1875|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 17|Autor Necunoscut 17|9789730410016|1880|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 18|Autor Necunoscut 18|9789730410017|1885|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 19|Autor Necunoscut 19|9789730410018|1890|Uzata|0|Disponibila
-CarteRara|Manuscris Vechi 20|Autor Necunoscut 20|9789730410019|1895|Uzata|0|Disponibila
+CarteFizica|FICTIUNE|Ion Vol.1|Liviu Rebreanu|9789736899614|1920|Buna|21|8|8|A1
+CarteFizica|FICTIUNE|Ion Vol.2|Liviu Rebreanu|9789736899621|1920|Buna|21|7|7|A1
+CarteFizica|FICTIUNE|Morometii Vol.1|Marin Preda|9789733606123|1955|Buna|21|12|12|A2
+CarteFizica|FICTIUNE|Morometii Vol.2|Marin Preda|9789733606130|1967|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Enigma Otiliei|George Calinescu|9789736899638|1938|Buna|21|15|15|A2
+CarteFizica|FICTIUNE|Padurea Spanzuratilor|Liviu Rebreanu|9789736899645|1922|Uzata|21|6|6|A3
+CarteFizica|FICTIUNE|Baltagul|Mihail Sadoveanu|9789733606147|1930|Buna|21|9|9|A3
+CarteFizica|FICTIUNE|Maitreyi|Mircea Eliade|9789733606154|1933|Buna|21|11|11|B1
+CarteFizica|FICTIUNE|Ultima Noapte de Dragoste|Camil Petrescu|9789733606161|1930|Buna|21|10|10|B1
+CarteFizica|FICTIUNE|Cel Mai Iubit Vol.1|Marin Preda|9789733606178|1980|Buna|21|8|8|B2
+CarteFizica|FICTIUNE|Cel Mai Iubit Vol.2|Marin Preda|9789733606185|1980|Buna|21|8|8|B2
+CarteFizica|FICTIUNE|Cel Mai Iubit Vol.3|Marin Preda|9789733606192|1980|Uzata|21|6|6|B2
+CarteFizica|FICTIUNE|Groapa|Eugen Barbu|9789733606209|1957|Uzata|21|5|5|B3
+CarteFizica|FICTIUNE|Craii de Curtea-Veche|Mateiu Caragiale|9789733606223|1929|Buna|21|7|7|B3
+CarteFizica|FICTIUNE|Harap-Alb|Ion Creanga|9789733606216|1877|Buna|14|20|20|C1
+CarteFizica|FICTIUNE|1984|George Orwell|9780451524935|1949|Buna|21|25|25|C1
+CarteFizica|FICTIUNE|Ferma Animalelor|George Orwell|9780451526342|1945|Buna|21|20|20|C2
+CarteFizica|FICTIUNE|Stapanul Inelelor: Fratia Inelului|J.R.R. Tolkien|9780261102354|1954|Buna|21|30|30|C2
+CarteFizica|FICTIUNE|Stapanul Inelelor: Cele Doua Turnuri|J.R.R. Tolkien|9780261102361|1954|Buna|21|30|30|C2
+CarteFizica|FICTIUNE|Stapanul Inelelor: Intoarcerea Regelui|J.R.R. Tolkien|9780261102378|1955|Buna|21|28|28|C3
+CarteFizica|FICTIUNE|Hobbitul|J.R.R. Tolkien|9780261102385|1937|Buna|21|35|35|C3
+CarteFizica|FICTIUNE|Dune|Frank Herbert|9780441172719|1965|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Dune Messiah|Frank Herbert|9780441172726|1969|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Harry Potter si Piatra Filozofala|J.K. Rowling|9789731800370|1997|Buna|21|40|40|D1
+CarteFizica|FICTIUNE|Harry Potter si Camera Secretelor|J.K. Rowling|9789731800387|1998|Buna|21|38|38|D2
+CarteFizica|FICTIUNE|Harry Potter si Prizonierul din Azkaban|J.K. Rowling|9789731800394|1999|Buna|21|35|35|D2
+CarteFizica|FICTIUNE|Harry Potter si Pocalul de Foc|J.K. Rowling|9789731800400|2000|Buna|21|33|33|D2
+CarteFizica|FICTIUNE|Harry Potter si Ordinul Phoenix|J.K. Rowling|9789731800417|2003|Buna|21|30|30|D3
+CarteFizica|FICTIUNE|Harry Potter si Printul Semipur|J.K. Rowling|9789731800424|2005|Buna|21|28|28|D3
+CarteFizica|FICTIUNE|Harry Potter si Talismanele Mortii|J.K. Rowling|9789731800431|2007|Noua|21|25|25|D3
+CarteFizica|FICTIUNE|Crima si Pedeapsa|F. Dostoevsky|9789733606230|1866|Buna|21|15|15|E1
+CarteFizica|FICTIUNE|Fratii Karamazov|F. Dostoevsky|9789733606254|1880|Buna|21|10|10|E1
+CarteFizica|FICTIUNE|Razboi si Pace Vol.1|Leo Tolstoy|9789733606261|1869|Buna|21|12|12|E2
+CarteFizica|FICTIUNE|Razboi si Pace Vol.2|Leo Tolstoy|9789733606278|1869|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Anna Karenina|Leo Tolstoy|9789733606285|1877|Buna|21|14|14|E2
+CarteFizica|FICTIUNE|Marele Gatsby|F.S. Fitzgerald|9780743273565|1925|Buna|21|20|20|E3
+CarteFizica|FICTIUNE|Sa Ucizi o Pasarica|Harper Lee|9780061935466|1960|Buna|21|18|18|E3
+CarteFizica|FICTIUNE|O Suta de Ani de Singuratate|G.G. Marquez|9789733606292|1967|Buna|21|15|15|F1
+CarteFizica|FICTIUNE|Maestrul si Margareta|M. Bulgakov|9789733606308|1967|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Procesul|Franz Kafka|9789733606315|1925|Buna|21|10|10|F1
+CarteFizica|FICTIUNE|Minunata Lume Noua|Aldous Huxley|9789733606329|1932|Buna|21|14|14|F2
+CarteFizica|TEHNICA|C++ Primer (5th Ed.)|Stanley Lippman|9780321714114|2012|Buna|30|8|8|G1
+CarteFizica|TEHNICA|Clean Code|Robert C. Martin|9780132350884|2008|Buna|30|10|10|G1
+CarteFizica|TEHNICA|Design Patterns|Gang of Four|9780201633610|1994|Buna|30|6|6|G2
+CarteFizica|TEHNICA|The Pragmatic Programmer|David Thomas|9780135957059|2019|Noua|30|8|8|G2
+CarteFizica|TEHNICA|Introduction to Algorithms|T.H. Cormen|9780262033848|2009|Buna|30|5|5|G2
+CarteFizica|TEHNICA|Computer Networks|A. Tanenbaum|9780132126953|2010|Buna|30|7|7|G3
+CarteFizica|TEHNICA|Operating System Concepts|A. Silberschatz|9781119800361|2018|Buna|30|6|6|G3
+CarteFizica|TEHNICA|Database System Concepts|A. Silberschatz|9780078022159|2019|Noua|30|5|5|H1
+CarteFizica|TEHNICA|AI: A Modern Approach|Stuart Russell|9780136042594|2020|Noua|30|4|4|H1
+CarteFizica|TEHNICA|Python Crash Course|Eric Matthes|9781593279288|2019|Noua|30|12|12|H1
+CarteFizica|TEHNICA|Algebra Liniara|Gh. Morosanu|9789731234578|2005|Buna|30|10|10|H2
+CarteFizica|TEHNICA|Matematica Discreta|Ioan Tomescu|9789731234585|2008|Buna|30|9|9|H2
+CarteFizica|TEHNICA|Retele de Calculatoare|Vlad Muntean|9789731234592|2015|Noua|30|7|7|H3
+CarteFizica|STIINTA|O Scurta Istorie a Timpului|Stephen Hawking|9780553380163|1988|Buna|21|10|10|F3
+CarteFizica|STIINTA|Cosmos|Carl Sagan|9780345331359|1980|Uzata|21|7|7|F3
+CarteFizica|STIINTA|Sapiens|Yuval Noah Harari|9780062316097|2011|Noua|21|15|15|F3
+CarteFizica|STIINTA|Homo Deus|Yuval Noah Harari|9780062464347|2015|Noua|21|12|12|G1
+CarteFizica|STIINTA|Gena Egoista|Richard Dawkins|9780198788607|1976|Buna|21|8|8|G2
+Revista|REVISTA|Dilema Veche Nr.1000|Redactia Dilema|9771220304001|2023|Noua|7|5|5|A1
+Revista|REVISTA|Romania Literara Nr.50|Redactia RL|9771015899050|2023|Noua|7|3|3|A2
+Revista|REVISTA|Scientific American - Ed.Speciala|Redactia SA|9781948933094|2023|Noua|7|4|4|F3
+Revista|REVISTA|Nature Vol.600|Nature Publishing|9780028661056|2022|Buna|7|3|3|H3
+CarteDigitala|DIGITALA|Clean Architecture|Robert C. Martin|9780134494166|2017|Noua|14|999|999|DIGITAL
+CarteDigitala|DIGITALA|Atomic Habits|James Clear|9780735211292|2018|Noua|14|999|999|DIGITAL
+CarteDigitala|DIGITALA|The Phoenix Project|Gene Kim|9781942788294|2013|Noua|14|999|999|DIGITAL
+CarteRara|RARA|Psaltirea in Versuri|Dosoftei|RON-RARE-001|1673|Deteriorata|0|1|1|SALA-RARA
+CarteRara|RARA|Biblia de la Blaj|Samuil Micu|RON-RARE-002|1795|Uzata|0|1|1|SALA-RARA
+CarteRara|RARA|Letopisetul Tarii Moldovei|Grigore Ureche|RON-RARE-003|1640|Deteriorata|0|1|1|SALA-RARA
