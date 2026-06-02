@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Centrală</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- LOGIN PAGE -->
+<div id="loginPage" class="login-page">
+    <div class="login-container">
+        <div class="login-logo">📚</div>
+        <h1>Biblioteca Centrală</h1>
+        <p class="login-subtitle">Sistem de Gestionare</p>
+        <div class="login-form">
+            <input type="text" id="username" placeholder="Username" />
+            <input type="password" id="password" placeholder="Parolă" />
+            <button onclick="login()">Intră în sistem</button>
+            <p id="loginError" class="error-msg"></p>
+        </div>
+    </div>
+</div>
+
+<!-- MAIN APP -->
+<div id="mainApp" class="main-app hidden">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <span>📚</span>
+            <h2>Biblioteca</h2>
+        </div>
+        <nav>
+            <a onclick="showSection('carti')" class="nav-item active" id="nav-carti">
+                📖 Cărți
+            </a>
+            <a onclick="showSection('utilizatori')" class="nav-item" id="nav-utilizatori">
+                👥 Utilizatori
+            </a>
+            <a onclick="showSection('imprumuturi')" class="nav-item" id="nav-imprumuturi">
+                🔄 Împrumuturi
+            </a>
+            <a onclick="showSection('camere')" class="nav-item" id="nav-camere">
+                🏛️ Camere
+            </a>
+        </nav>
+        <div class="sidebar-footer">
+            <span id="userInfo"></span>
+            <button onclick="logout()" class="logout-btn">Ieșire</button>
+        </div>
+    </div>
+
+    <!-- CONTENT -->
+    <div class="content">
+
+        <!-- SECTIUNE CARTI -->
+        <div id="sectiuneCarti" class="section">
+            <div class="section-header">
+                <h2>📖 Gestiune Cărți</h2>
+                <input type="text" id="searchCarti" placeholder="🔍 Caută după titlu..." oninput="filtreazaCarti()" />
+            </div>
+            <div class="table-container">
+                <table id="tabelCarti">
+                    <thead>
+                        <tr>
+                            <th>Titlu</th>
+                            <th>Autor</th>
+                            <th>ISBN</th>
+                            <th>An</th>
+                            <th>Stare</th>
+                            <th>Exemplare</th>
+                            <th>Localizare</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="bodyCarti"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- SECTIUNE UTILIZATORI -->
+        <div id="sectiuneUtilizatori" class="section hidden">
+            <div class="section-header">
+                <h2>👥 Gestiune Utilizatori</h2>
+            </div>
+            <div class="table-container">
+                <table id="tabelUtilizatori">
+                    <thead>
+                        <tr>
+                            <th>Username</th>
+                            <th>Tip</th>
+                        </tr>
+                    </thead>
+                    <tbody id="bodyUtilizatori"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- SECTIUNE IMPRUMUTURI -->
+        <div id="sectiuneImprumuturi" class="section hidden">
+            <div class="section-header">
+                <h2>🔄 Gestiune Împrumuturi</h2>
+            </div>
+            <div class="cards-grid">
+                <div class="card">
+                    <h3>📤 Împrumută Carte</h3>
+                    <input type="text" id="impUsername" placeholder="Username utilizator" />
+                    <input type="text" id="impISBN" placeholder="ISBN carte" />
+                    <button onclick="imprumuta()" class="btn-success">Împrumută</button>
+                </div>
+                <div class="card">
+                    <h3>📥 Returnează Carte</h3>
+                    <input type="text" id="retUsername" placeholder="Username utilizator" />
+                    <input type="text" id="retISBN" placeholder="ISBN carte" />
+                    <button onclick="returneaza()" class="btn-warning">Returnează</button>
+                </div>
+            </div>
+            <div id="mesajImprumut" class="mesaj"></div>
+        </div>
+
+        <!-- SECTIUNE CAMERE -->
+        <div id="sectiuneCamere" class="section hidden">
+            <div class="section-header">
+                <h2>🏛️ Camere Bibliotecă</h2>
+            </div>
+            <div class="cards-grid" id="gridCamere"></div>
+        </div>
+
+    </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
