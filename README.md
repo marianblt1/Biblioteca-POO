@@ -1,9 +1,9 @@
-# Sistem de gestionare a bibliotecii
-
+# Sistem de Gestionare a Bibliotecii
 
 **Grupa:** 3122A  
 **Student:** Baltei Marian
 
+---
 
 ## 1. Cerinta Proiectului
 
@@ -13,227 +13,284 @@ Implementarea unui sistem pentru o biblioteca virtuala, cu clase pentru carti, u
 **Cerinte obligatorii:**
 - Clase: Carte (titlu, autor, ISBN), Utilizator (nume, ID, lista imprumuturi), Biblioteca (adaugare/eliminare carti, imprumut/returnare)
 - Mostenire: Clase derivate pentru tipuri de carti si utilizatori
-- Polimorfism: Metode virtuale pentru afișare detalii
+- Polimorfism: Metode virtuale pentru afisare detalii
 - Encapsulare: Atribute private, getteri/setteri
-- Evenimente logate: împrumut/returnare
+- Evenimente logate: imprumut/returnare
 - Teste unitare pentru verificarea stocului
-- Git: Cel puțin 5 commit-uri descriptive, branch "develop"
+- Git: Cel putin 5 commit-uri descriptive, branch "develop"
 
 **Cerinte facultative:**
-- Șabloane: O clasă generică pentru stocare
-- Excepții: Tratare erori (ex: carte indisponibilă)
-- Interfață consolă cu meniu
+- Sabloane: O clasa generica pentru stocare
+- Exceptii: Tratare erori (ex: carte indisponibila)
+- Interfata consola cu meniu
 
+---
 
 ## 2. Motivare
 
-Am ales această temă deoarece o bibliotecă reprezintă un sistem complex dar bine organizat pe categorii, 
-ceea ce o face potrivită pentru a demonstra conceptele de Programare Orientată pe Obiecte. 
-Diversitatea entităților (cărți de tipuri diferite, utilizatori cu roluri diferite) 
-permite aplicarea naturală a moștenirii și polimorfismului, 
-iar gestionarea împrumuturilor adaugă o logică reală și interesantă sistemului.
+Am ales aceasta tema deoarece o biblioteca reprezinta un sistem complex dar bine organizat pe categorii, ceea ce o face potrivita pentru a demonstra conceptele de Programare Orientata pe Obiecte. Diversitatea entitatilor (carti de tipuri diferite, utilizatori cu roluri diferite) permite aplicarea naturala a mostenirii si polimorfismului, iar gestionarea imprumuturilor adauga o logica reala si interesanta sistemului.
 
+---
 
 ## 3. Structura Claselor
 
-### Clasa de bază: Carte
-| Câmp | Tip | Descriere |
-|<---->|<-->|<-------->|
-| titlu | string | Titlul cărții |
+### Clasa de baza: Carte
+| Camp | Tip | Descriere |
+|------|-----|-----------|
+| titlu | string | Titlul cartii |
 | autor | string | Numele autorului |
-| ISBN | string | Codul unic internațional |
-| anAparitie | int | Anul publicării |
-| status | string | Disponibila / Imprumutata / Rezervata |
+| ISBN | string | Codul unic international (10 sau 13 cifre) |
+| anAparitie | int | Anul publicarii |
+| status | string | Disponibila / Imprumutata / Rezervata / Doar in sala |
 | stare | string | Noua / Buna / Uzata / Deteriorata |
-| timpImprumut | int | Numărul de zile permise pentru împrumut |
+| timpImprumut | int | Numarul de zile permise (1-90) |
 
-- timpImprumut - va fi diferit pentru fiecare tip de carte — 
+### Ierarhia cartilor:
 
-- **CarteFizica** → derivă din Carte
-  - **CarteFictiune** → derivă din CarteFizica
-  - **CarteTehnica** → derivă din CarteFizica
-- **CarteDigitala** → derivă din Carte
-- **Revista** → derivă din Carte
-
+```
+Carte (baza)
+├── CarteFizica
+│   ├── CarteFictiune
+│   ├── CarteTehnica
+│   └── CarteRara
+├── CarteDigitala
+└── Revista
+```
 
 ### Clase derivate din Carte:
 
-**CarteFizica** (derivă din Carte)
-| Câmp | Tip | Descriere |
+**CarteFizica** (deriva din Carte)
+| Camp | Tip | Descriere |
 |------|-----|-----------|
-| nrExemplare | int | Numărul de exemplare disponibile |
-| localizare | string | Raftul/sectiunea din biblioteca |
+| nrExemplare | int | Numarul de exemplare disponibile |
+| localizare | string | Raftul/sectiunea [A-H][1-3] |
 
-**CarteFictiune** (derivă din CarteFizica)
-| Câmp | Tip | Descriere |
+**CarteFictiune** (deriva din CarteFizica)
+| Camp | Tip | Descriere |
 |------|-----|-----------|
 | gen | string | Fantasy, Thriller, Romance, etc. |
-| varstaminima | int | Varsta minima recomandata |
+| varstaMinima | int | Varsta minima recomandata |
 
-**CarteTehnica** (derivă din CarteFizica)
-| Câmp | Tip | Descriere |
+**CarteTehnica** (deriva din CarteFizica)
+| Camp | Tip | Descriere |
 |------|-----|-----------|
 | domeniu | string | Informatica, Matematica, Fizica, etc. |
 | nivelDificultate | string | Incepator / Intermediar / Avansat |
 
-**CarteDigitala** (derivă din Carte)
-| Câmp | Tip | Descriere |
+**CarteDigitala** (deriva din Carte)
+| Camp | Tip | Descriere |
 |------|-----|-----------|
 | format | string | PDF, EPUB, MOBI |
 | marimeFisier | float | Marimea in MB |
 
-**Revista** (derivă din Carte)
-| Câmp | Tip | Descriere |
+**Revista** (deriva din Carte)
+| Camp | Tip | Descriere |
 |------|-----|-----------|
 | numar | int | Numarul editiei |
-| periodicitate | string | Saptamanala, Lunara, Anuala |
+| periodicitate | string | Saptamanala / Lunara / Anuala |
 
+**CarteRara** (deriva din CarteFizica)
+| Camp | Tip | Descriere |
+|------|-----|-----------|
+| anEstimat | int | Anul estimat al manuscrisului |
+| origine | string | Provenienta cartii |
+| esteManuscris | bool | Manuscris sau carte rara tiparita |
 
-### Clasa de bază: Utilizator
-| Câmp | Tip | Descriere |
+---
+
+### Clasa de baza: Utilizator
+| Camp | Tip | Descriere |
 |------|-----|-----------|
 | nume | string | Numele de familie |
 | prenume | string | Prenumele |
 | id | int | Identificator unic |
 | email | string | Adresa de email |
-| telefon | string | Număr de contact |
-| tip | string | Tipul utilizatorului |
+| telefon | string | Numar de contact |
 | status | string | Activ / Penalizat / Suspendat |
-| cartiActive | int | Numărul de cărți împrumutate în prezent |
+| cartiActive | int | Numarul de carti imprumutate in prezent |
 
-### Clase derivate din Utilizator:
+### Ierarhia utilizatorilor:
 
-**UtilizatorStudent** (derivă din Utilizator)
-| Câmp | Tip | Descriere |
-|------|-----|-----------|
-| facultate | string | Facultatea la care este înscris |
-| anStudiu | int | Anul de studiu |
-| nrMatricol | string | Numărul matricol |
-
-**UtilizatorElev** (derivă din Utilizator)
-| Câmp | Tip | Descriere |
-|------|-----|-----------|
-| scoala | string | Școala la care învață |
-| clasa | string | Clasa (ex: a-9-a) |
-
-**UtilizatorAdult** (derivă din Utilizator)
-| Câmp | Tip | Descriere |
-|------|-----|-----------|
-| ocupatie | string | Ocupatia adultului |
-
-**UtilizatorProfesor** (derivă din Utilizator)
-| Câmp | Tip | Descriere |
-|------|-----|-----------|
-| materie | string | Materia predată |
-| institutie | string | Școala/Universitatea |
-
-**UtilizatorPensionar** (derivă din Utilizator)
-| Câmp | Tip | Descriere |
-|------|-----|-----------|
-| varstaPensionare | int | Vârsta la care s-a pensionat |
-
-**UtilizatorCercetator** (derivă din Utilizator)
-| Câmp | Tip | Descriere |
-|------|-----|-----------|
-| domeniuCercetare | string | Domeniul de cercetare |
-| institutie | string | Instituția de cercetare |
-
+```
+Utilizator (baza)
+├── UtilizatorStudent
+├── UtilizatorElev
+├── UtilizatorAdult
+├── UtilizatorProfesor
+├── UtilizatorPensionar
+└── UtilizatorCercetator
+```
 
 ### Clasa Biblioteca
-| Câmp | Tip | Descriere |
+| Camp | Tip | Descriere |
 |------|-----|-----------|
 | nume | string | Numele bibliotecii |
-| inventarCarti | vector<Carte*> | Lista tuturor cărților |
-| listaUtilizatori | vector<Utilizator*> | Lista tuturor utilizatorilor |
+| inventarCarti | Depozit<Carte*> | Lista tuturor cartilor |
+| listaUtilizatori | Depozit<Utilizator*> | Lista tuturor utilizatorilor |
+| cladire | Cladire* | Cladirea bibliotecii |
 
 **Metode principale:**
-- Adaugare / eliminare cărți
-- Adaugare / eliminare utilizatori
-- Împrumut carte
-- Returnare carte
-- Afișare inventar
-- Logare evenimente (împrumut/returnare)
+- Adaugare / eliminare carti si utilizatori
+- Imprumut si returnare carte
+- Cautare dupa titlu, autor, ISBN
+- Afisare inventar
+- Logare evenimente in log.txt
 
+### Clasa Camera si Cladire
 
-## 4. Structura Proiectului
+Biblioteca are o cladire cu mai multe camere:
+- **Sala de Lectura** - carti care nu pot fi scoase din incinta
+- **Depozit** - stoc de carti
+- **Receptie** - ghiseul de imprumuturi
+- **Sala Calculatoare** - resurse digitale
+- **Sala Copii** - sectiune dedicata
+
+---
+
+## 4. Functionalitati Implementate
+
+### Autentificare
+- Login cu username si parola
+- Parola criptata XOR salvata in fisier `utilizatori.dat`
+- Doua tipuri de conturi: **staff** si **normal**
+- Optiune "Ramai logat" (localStorage)
+
+### Permisiuni
+- **Staff**: acces complet (gestionare carti, utilizatori, imprumuturi, statistici)
+- **Normal**: acces limitat (cautare, imprumut/returnare, profil, wishlist)
+
+### Sistem de Exemplare
+- Fiecare carte are un numar de exemplare
+- Fiecare exemplar are un cod unic (ex: EX-00001)
+- Imprumuturile se fac per exemplar, nu per titlu
+
+### Validari
+- ISBN: exact 10 sau 13 cifre
+- Localizare raft: format [A-H][1-3] (ex: A1, B2, H3)
+- Timp imprumut: intre 1 si 90 de zile
+- Input numeric: protectie impotriva textului gresit
+
+### Tratare Erori (Exceptii)
+- `CarteIndisponibila` - carte deja imprumutata
+- `CarteNegasita` - ISBN inexistent
+- `UtilizatorNegasit` - utilizator inexistent
+- `UtilizatorSuspendat` - utilizator fara drepturi
+
+### Sabloane
+- Clasa generica `Depozit<T>` pentru stocarea cartilor si utilizatorilor
+
+### Persistenta Datelor
+- Cartile salvate automat in `date.txt` la iesire
+- Datele incarcate automat la pornire
+- Istoricul imprumuturilor salvat in localStorage (interfata web)
+
+### Interfata Grafica Web
+- Login cu imagine de fundal si efect blur
+- Navigare prin topbar orizontal
+- Dashboard cu statistici si joc interactiv
+- Gestiune carti cu cautare si filtrare pe tip
+- Gestiune utilizatori (doar staff)
+- Gestiune imprumuturi cu cod exemplar
+- Cautare avansata cu filtre multiple
+- Statistici cu filtrare interactiva pe tip
+- Anunturi expandabile
+- Profil utilizator cu schimbare parola
+- Wishlist personal
+- Istoric imprumuturi
+- Sectiune Despre biblioteca
+
+---
+
+## 5. Structura Proiectului
+
 ```
 biblioteca/
 ├── README.md
+├── Makefile
 ├── main.cpp
-├── Carte.h
-├── Carte.cpp
-├── Utilizator.h
-├── Utilizator.cpp
-├── Biblioteca.h
-└── Biblioteca.cpp
+├── seed.cpp
+├── Carte.h / Carte.cpp
+├── CarteFizica.h / CarteFizica.cpp
+├── CarteFictiune.h / CarteFictiune.cpp
+├── CarteTehnica.h / CarteTehnica.cpp
+├── CarteDigitala.h / CarteDigitala.cpp
+├── CarteRara.h / CarteRara.cpp
+├── Revista.h / Revista.cpp
+├── Utilizator.h / Utilizator.cpp
+├── UtilizatorStudent.h / UtilizatorStudent.cpp
+├── UtilizatorElev.h / UtilizatorElev.cpp
+├── UtilizatorAdult.h / UtilizatorAdult.cpp
+├── UtilizatorProfesor.h / UtilizatorProfesor.cpp
+├── UtilizatorPensionar.h / UtilizatorPensionar.cpp
+├── UtilizatorCercetator.h / UtilizatorCercetator.cpp
+├── Biblioteca.h / Biblioteca.cpp
+├── Camera.h / Camera.cpp
+├── Cladire.h / Cladire.cpp
+├── Meniu.h / Meniu.cpp
+├── Autentificare.h / Autentificare.cpp
+├── Depozit.h
+├── Exceptii.h
+├── Validare.h
+├── Teste.cpp
+├── date.txt
+├── exemplare.txt
+├── utilizatori.dat
+├── log.txt
+└── gui/
+    ├── index.html
+    ├── style.css
+    └── app.js
 ```
 
-## 5. Structura Git
+---
 
-- Branch principal: **main**
-- Branch dezvoltare: **develop**
-- Minimum 5 commit-uri descriptive
+## 6. Instructiuni Build si Run
 
-## 6. Funcționalități Implementate
+### Cerinte
+- Linux / WSL (Ubuntu)
+- g++ cu suport C++17
+- make
+- python3 (pentru interfata web)
 
-### Autentificare
-- Login cu username și parolă
-- Parolă criptată cu algoritmul XOR salvată în fișier `utilizatori.dat`
-- Două tipuri de conturi: **staff** și **normal**
-- Cont admin implicit creat la prima rulare (username: admin, parola: admin123)
+### Generare date initiale
+```bash
+g++ -o seed seed.cpp && ./seed
+```
 
-### Permisiuni
-- **Staff**: acces complet (adăugare/ștergere cărți și utilizatori, împrumuturi)
-- **Normal**: acces limitat (căutare și împrumut/returnare cărți)
-
-### Meniu Interactiv
-- Gestionare cărți (adăugare, afișare, ștergere)
-- Gestionare utilizatori (adăugare, afișare)
-- Căutare cărți (după titlu, autor, ISBN)
-- Gestionare împrumuturi (împrumut, returnare)
-
-### Validări
-- ISBN: exact 10 sau 13 cifre
-- Localizare raft: format [A-H][1-3] (ex: A1, B2, H3)
-- Timp împrumut: între 1 și 90 de zile
-- Input numeric: protecție împotriva textului introdus greșit
-
-### Persistența Datelor
-- Cărțile sunt salvate automat în `date.txt` la ieșire
-- Datele sunt încărcate automat la pornirea programului
-
-### Tratare Erori (Excepții)
-- `CarteIndisponibila` - carte deja împrumutată
-- `CarteNegasita` - ISBN inexistent
-- `UtilizatorNegasit` - ID utilizator inexistent
-- `UtilizatorSuspendat` - utilizator fără drepturi de împrumut
-
-### Șabloane
-- Clasa generică `Depozit<T>` folosită pentru stocarea cărților și utilizatorilor
-
-## 7. Instrucțiuni Build și Run
-
-### Compilare
+### Compilare aplicatie consola
 ```bash
 make
 ```
 
-### Rulare
+### Rulare aplicatie consola
 ```bash
 ./biblioteca
 ```
 
-### Rulare Teste
+### Rulare teste unitare
 ```bash
 make test
 ```
 
-### Curățare
+### Rulare interfata grafica web
+```bash
+python3 -m http.server 8080
+```
+Deschide `http://localhost:8080/gui/` in browser.
+
+### Credentiale implicite
+- **Staff:** admin / parola123
+- **Normal:** marian / parola123
+
+### Curatare
 ```bash
 make clean
 ```
 
-## 8. Structura Git
+---
+
+## 7. Structura Git
+
 - Branch principal: **main**
 - Branch dezvoltare: **develop**
-- Commit-uri descriptive pentru fiecare funcționalitate adăugată
+- Commit-uri descriptive pentru fiecare functionalitate adaugata
