@@ -16,3 +16,8 @@ Imprumut: Baltei -> Test
 Adaugata cartea: Green Mile 
 Adaugata cartea: TITLU
 Eliminata cartea: Green Mile 
+Adaugata cartea: Wow
+Adaugat utilizatorul: alexandrescu  mihai
+Imprumut: alexandrescu  -> Wow
+Adaugata cartea: Titlu Unic
+Adaugata cartea: Carte RARA

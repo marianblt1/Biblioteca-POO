@@ -10,6 +10,7 @@
 #include "Exceptii.h"
 #include "CarteFizica.h"
 #include "Cladire.h"
+#include "CarteRara.h"
 
 class Biblioteca {
 private:
@@ -33,12 +34,13 @@ public:
     void eliminaUtilizator(int idUtilizator);
     void afisareUtilizatori() const;
     void cautaCarte(int tip, std::string termen) const;
+    void cautaUtilizator(std::string termen) const;
     void salveazaDate() const;
     void incarcaDate();
 
     // Gestiune imprumuturi
-    void imprumutaCarte(int idUtilizator, int idCarte);
-    void returneazaCarte(int idUtilizator, int idCarte);
+    void imprumutaCarte(std::string identificatorUtilizator, std::string isbn);
+    void returneazaCarte(std::string identificatorUtilizator, std::string isbn);
 
     // Logare evenimente
     void logEveniment(std::string eveniment) const;

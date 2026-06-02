@@ -31,6 +31,8 @@ public:
     void setStare(std::string stare);
 
     virtual void afisareDetalii() const;
+    virtual bool poateFiImprumutata() const { return true; }
+    virtual std::string getTipCarte() const { return "CarteFizica"; }
 
     // Destructor
     virtual ~Carte() {}

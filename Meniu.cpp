@@ -3,27 +3,33 @@
 #include <string>
 #include <limits>
 #include "Validare.h"
+#include "CarteRara.h"
 
 using namespace std;
 
-Meniu::Meniu(Biblioteca& biblioteca, std::string tipUtilizator) 
+Meniu::Meniu(Biblioteca &biblioteca, std::string tipUtilizator)
     : biblioteca(biblioteca), tipUtilizator(tipUtilizator) {}
 
-void Meniu::ruleaza() {
+void Meniu::ruleaza()
+{
     int optiune;
-    do {
+    do
+    {
         cout << "\n==========================" << endl;
         cout << "   BIBLIOTECA CENTRALA    " << endl;
         cout << "   Logat ca: " << tipUtilizator << endl;
         cout << "==========================" << endl;
 
-        if (tipUtilizator == "staff") {
+        if (tipUtilizator == "staff")
+        {
             cout << "1. Gestionare Carti" << endl;
             cout << "2. Gestionare Utilizatori" << endl;
             cout << "3. Cautare Carti" << endl;
             cout << "4. Gestionare Imprumuturi" << endl;
             cout << "5. Gestionare Camere" << endl;
-        } else {
+        }
+        else
+        {
             cout << "3. Cautare Carti" << endl;
             cout << "4. Imprumut/Returnare" << endl;
         }
@@ -33,24 +39,40 @@ void Meniu::ruleaza() {
         cout << "Optiune: ";
         cin >> optiune;
 
-        if (tipUtilizator != "staff" && (optiune == 1 || optiune == 2)) {
+        if (tipUtilizator != "staff" && (optiune == 1 || optiune == 2))
+        {
             cout << "Nu ai permisiuni pentru aceasta optiune!" << endl;
             continue;
         }
 
-        switch(optiune) {
-            case 1: meniuCarti(); break;
-            case 2: meniuUtilizatori(); break;
-            case 3: meniuCautare(); break;
-            case 4: meniuImprumuturi(); break;
-            case 5: meniuCamere(); break;
-            case 0: cout << "La revedere!" << endl; break;
-            default: cout << "Optiune invalida!" << endl;
+        switch (optiune)
+        {
+        case 1:
+            meniuCarti();
+            break;
+        case 2:
+            meniuUtilizatori();
+            break;
+        case 3:
+            meniuCautare();
+            break;
+        case 4:
+            meniuImprumuturi();
+            break;
+        case 5:
+            meniuCamere();
+            break;
+        case 0:
+            cout << "La revedere!" << endl;
+            break;
+        default:
+            cout << "Optiune invalida!" << endl;
         }
-    } while(optiune != 0);
+    } while (optiune != 0);
 }
 
-void Meniu::meniuCarti() {
+void Meniu::meniuCarti()
+{
     int optiune;
     cout << "\n--- Gestionare Carti ---" << endl;
     cout << "1. Adauga carte" << endl;
@@ -61,26 +83,35 @@ void Meniu::meniuCarti() {
     cin >> optiune;
     cin.ignore();
 
-    switch(optiune) {
-        case 1: adaugaCarte(); break;
-        case 2: biblioteca.afisareCarti(); break;
-        case 3: {
-            string termen;
-            cout << "Cauta cartea de sters (dupa titlu): ";
-            getline(cin, termen);
-            biblioteca.cautaCarte(1, termen);  // afiseaza rezultatele cu ISBN
-            string isbn;
-            cout << "\nIntroduceti ISBN-ul cartii de sters: ";
-            getline(cin, isbn);
-            biblioteca.eliminaCarteISBN(isbn);
-    break;
-}
-        case 0: break;
-        default: cout << "Optiune invalida!" << endl;
+    switch (optiune)
+    {
+    case 1:
+        adaugaCarte();
+        break;
+    case 2:
+        biblioteca.afisareCarti();
+        break;
+    case 3:
+    {
+        string termen;
+        cout << "Cauta cartea de sters (dupa titlu): ";
+        getline(cin, termen);
+        biblioteca.cautaCarte(1, termen); // afiseaza rezultatele cu ISBN
+        string isbn;
+        cout << "\nIntroduceti ISBN-ul cartii de sters: ";
+        getline(cin, isbn);
+        biblioteca.eliminaCarteISBN(isbn);
+        break;
+    }
+    case 0:
+        break;
+    default:
+        cout << "Optiune invalida!" << endl;
     }
 }
 
-void Meniu::meniuUtilizatori() {
+void Meniu::meniuUtilizatori()
+{
     int optiune;
     cout << "\n--- Gestionare Utilizatori ---" << endl;
     cout << "1. Adauga utilizator" << endl;
@@ -89,15 +120,23 @@ void Meniu::meniuUtilizatori() {
     cout << "Optiune: ";
     cin >> optiune;
 
-    switch(optiune) {
-        case 1: adaugaUtilizator(); break;
-        case 2: biblioteca.afisareUtilizatori(); break;
-        case 0: break;
-        default: cout << "Optiune invalida!" << endl;
+    switch (optiune)
+    {
+    case 1:
+        adaugaUtilizator();
+        break;
+    case 2:
+        biblioteca.afisareUtilizatori();
+        break;
+    case 0:
+        break;
+    default:
+        cout << "Optiune invalida!" << endl;
     }
 }
 
-void Meniu::meniuCautare() {
+void Meniu::meniuCautare()
+{
     int optiune;
     string termen;
     cout << "\n--- Cautare Carti ---" << endl;
@@ -108,7 +147,8 @@ void Meniu::meniuCautare() {
     cout << "Optiune: ";
     cin >> optiune;
 
-    if(optiune >= 1 && optiune <= 3) {
+    if (optiune >= 1 && optiune <= 3)
+    {
         cout << "Termen cautare: ";
         cin.ignore();
         getline(cin, termen);
@@ -116,7 +156,8 @@ void Meniu::meniuCautare() {
     }
 }
 
-void Meniu::meniuImprumuturi() {
+void Meniu::meniuImprumuturi()
+{
     int optiune;
     cout << "\n--- Gestionare Imprumuturi ---" << endl;
     cout << "1. Imprumuta carte" << endl;
@@ -124,43 +165,61 @@ void Meniu::meniuImprumuturi() {
     cout << "0. Inapoi" << endl;
     cout << "Optiune: ";
     cin >> optiune;
+    cin.ignore();
 
-    int idUtilizator, idCarte;
-    switch(optiune) {
-        case 1:
-            cout << "ID Utilizator: ";
-            cin >> idUtilizator;
-            cout << "ID Carte: ";
-            cin >> idCarte;
-            try {
-                biblioteca.imprumutaCarte(idUtilizator, idCarte);
-            } catch (exception& e) {
-                cout << "Eroare: " << e.what() << endl;
-            }
-            break;
-        case 2:
-            cout << "ID Utilizator: ";
-            cin >> idUtilizator;
-            cout << "ID Carte: ";
-            cin >> idCarte;
-            try {
-                biblioteca.returneazaCarte(idUtilizator, idCarte);
-            } catch (exception& e) {
-                cout << "Eroare: " << e.what() << endl;
-            }
-            break;
-        case 0: break;
-        default: cout << "Optiune invalida!" << endl;
+    string identificatorUtilizator, isbn;
+    switch (optiune)
+    {
+    case 1:
+        cout << "Cauta cartea (dupa titlu): ";
+        getline(cin, isbn);
+        biblioteca.cautaCarte(1, isbn);
+        cout << "\nCauta utilizator (dupa nume): ";
+        getline(cin, identificatorUtilizator);
+        biblioteca.cautaUtilizator(identificatorUtilizator);
+        cout << "\nEmail sau nume utilizator: ";
+        getline(cin, identificatorUtilizator);
+        cout << "ISBN carte: ";
+        getline(cin, isbn);
+        try
+        {
+            biblioteca.imprumutaCarte(identificatorUtilizator, isbn);
+        }
+        catch (exception &e)
+        {
+            cout << "Eroare: " << e.what() << endl;
+        }
+        break;
+    case 2:
+        cout << "Email sau nume utilizator: ";
+        getline(cin, identificatorUtilizator);
+        cout << "ISBN carte: ";
+        getline(cin, isbn);
+        try
+        {
+            biblioteca.returneazaCarte(identificatorUtilizator, isbn);
+        }
+        catch (exception &e)
+        {
+            cout << "Eroare: " << e.what() << endl;
+        }
+        break;
+    case 0:
+        break;
+    default:
+        cout << "Optiune invalida!" << endl;
     }
 }
 
-void Meniu::adaugaCarte() {
+void Meniu::adaugaCarte()
+{
     int tip;
     cout << "\nTip carte:" << endl;
     cout << "1. Carte Fictiune" << endl;
     cout << "2. Carte Tehnica" << endl;
     cout << "3. Carte Digitala" << endl;
     cout << "4. Revista" << endl;
+    cout << "5. Carte Rara/Manuscris" << endl;
     cout << "Optiune: ";
     cin >> tip;
     cin.ignore();
@@ -168,65 +227,116 @@ void Meniu::adaugaCarte() {
     string titlu, autor, isbn, stare;
     int anAparitie, timpImprumut;
 
-    cout << "Titlu: "; getline(cin, titlu);
-    cout << "Autor: "; getline(cin, autor);
-    do {
-    cout << "ISBN (10 sau 13 cifre): "; getline(cin, isbn);
-    if (!Validare::ISBN(isbn))
-        cout << "ISBN invalid! Trebuie sa aiba exact 10 sau 13 cifre!" << endl;
+    cout << "Titlu: ";
+    getline(cin, titlu);
+    cout << "Autor: ";
+    getline(cin, autor);
+    do
+    {
+        cout << "ISBN (10 sau 13 cifre): ";
+        getline(cin, isbn);
+        if (!Validare::ISBN(isbn))
+            cout << "ISBN invalid! Trebuie sa aiba exact 10 sau 13 cifre!" << endl;
     } while (!Validare::ISBN(isbn));
 
     anAparitie = Validare::citesteInt("An aparitie: ");
-    cout << "Stare (Noua/Buna/Uzata/Deteriorata): "; getline(cin, stare);
+    cout << "Stare (Noua/Buna/Uzata/Deteriorata): ";
+    getline(cin, stare);
 
+    if (tip != 5) {
     do {
-    timpImprumut = Validare::citesteInt("Timp imprumut (1-90 zile): ");
-    if (!Validare::timpImprumut(timpImprumut))
-        cout << "Timp invalid! Trebuie sa fie intre 1 si 90 de zile!" << endl;
+        timpImprumut = Validare::citesteInt("Timp imprumut (1-90 zile): ");
+        if (!Validare::timpImprumut(timpImprumut))
+            cout << "Timp invalid! Trebuie sa fie intre 1 si 90 de zile!" << endl;
     } while (!Validare::timpImprumut(timpImprumut));
+} else {
+    timpImprumut = 0;
+}
 
-    if(tip == 1) {
+    if (tip == 1)
+    {
         string localizare, gen;
         int nrExemplare, varstaMinima;
         nrExemplare = Validare::citesteInt("Nr exemplare: ");
-        do {
-        cout << "Localizare (ex: A1, B2, H3): "; getline(cin, localizare);
-        if (!Validare::localizare(localizare))
-        cout << "Localizare invalida! Foloseste format [A-H][1-3]!" << endl;
+        do
+        {
+            cout << "Localizare (ex: A1, B2, H3): ";
+            getline(cin, localizare);
+            if (!Validare::localizare(localizare))
+                cout << "Localizare invalida! Foloseste format [A-H][1-3]!" << endl;
         } while (!Validare::localizare(localizare));
-        cout << "Gen (Fantasy/Thriller/Romance/etc): "; getline(cin, gen);
+        cout << "Gen (Fantasy/Thriller/Romance/etc): ";
+        getline(cin, gen);
         varstaMinima = Validare::citesteInt("Varsta minima: ");
-        biblioteca.adaugaCarte(new CarteFictiune(titlu, autor, isbn, anAparitie, 
-                               stare, timpImprumut, nrExemplare, localizare, gen, varstaMinima));
-    } else if(tip == 2) {
+        biblioteca.adaugaCarte(new CarteFictiune(titlu, autor, isbn, anAparitie,
+                                                 stare, timpImprumut, nrExemplare, localizare, gen, varstaMinima));
+    }
+    else if (tip == 2)
+    {
         string localizare, domeniu, nivel;
         int nrExemplare;
-        cout << "Nr exemplare: "; cin >> nrExemplare;
+        cout << "Nr exemplare: ";
+        cin >> nrExemplare;
         cin.ignore();
-        cout << "Localizare (raft): "; getline(cin, localizare);
-        cout << "Domeniu: "; getline(cin, domeniu);
-        cout << "Nivel (Incepator/Intermediar/Avansat): "; getline(cin, nivel);
+        cout << "Localizare (raft): ";
+        getline(cin, localizare);
+        cout << "Domeniu: ";
+        getline(cin, domeniu);
+        cout << "Nivel (Incepator/Intermediar/Avansat): ";
+        getline(cin, nivel);
         biblioteca.adaugaCarte(new CarteTehnica(titlu, autor, isbn, anAparitie,
-                               stare, timpImprumut, nrExemplare, localizare, domeniu, nivel));
-    } else if(tip == 3) {
+                                                stare, timpImprumut, nrExemplare, localizare, domeniu, nivel));
+    }
+    else if (tip == 3)
+    {
         string format;
         float marime;
-        cout << "Format (PDF/EPUB/MOBI): "; getline(cin, format);
-        cout << "Marime fisier (MB): "; cin >> marime;
+        cout << "Format (PDF/EPUB/MOBI): ";
+        getline(cin, format);
+        cout << "Marime fisier (MB): ";
+        cin >> marime;
         biblioteca.adaugaCarte(new CarteDigitala(titlu, autor, isbn, anAparitie,
-                               stare, timpImprumut, format, marime));
-    } else if(tip == 4) {
+                                                 stare, timpImprumut, format, marime));
+    }
+    else if (tip == 4)
+    {
         string periodicitate;
         int numar;
-        cout << "Numar editie: "; cin >> numar;
+        cout << "Numar editie: ";
+        cin >> numar;
         cin.ignore();
-        cout << "Periodicitate (Saptamanala/Lunara/Anuala): "; getline(cin, periodicitate);
+        cout << "Periodicitate (Saptamanala/Lunara/Anuala): ";
+        getline(cin, periodicitate);
         biblioteca.adaugaCarte(new Revista(titlu, autor, isbn, anAparitie,
-                               stare, timpImprumut, numar, periodicitate));
+                                           stare, timpImprumut, numar, periodicitate));
+    }
+    else if (tip == 5)
+    {
+        string localizare, origine;
+        int nrExemplare, anEstimat;
+        bool esteManuscris;
+        int manuscrisInt;
+        nrExemplare = Validare::citesteInt("Nr exemplare: ");
+        do
+        {
+            cout << "Localizare (ex: A1, B2, H3): ";
+            getline(cin, localizare);
+            if (!Validare::localizare(localizare))
+                cout << "Localizare invalida! Foloseste format [A-H][1-3]!" << endl;
+        } while (!Validare::localizare(localizare));
+        anEstimat = anAparitie;
+        cout << "Origine: ";
+        getline(cin, origine);
+        manuscrisInt = Validare::citesteInt("Este manuscris? (1-Da, 0-Nu): ");
+        esteManuscris = (manuscrisInt == 1);
+        biblioteca.adaugaCarte(new CarteRara(titlu, autor, isbn, anAparitie,
+                                             stare, 0, nrExemplare, localizare,
+                                             anEstimat, origine, esteManuscris));
     }
 }
 
-void Meniu::adaugaUtilizator() {
+void Meniu::adaugaUtilizator()
+{
     int tip;
     cout << "\nTip utilizator:" << endl;
     cout << "1. Student" << endl;
@@ -242,54 +352,82 @@ void Meniu::adaugaUtilizator() {
     string nume, prenume, email, telefon;
     int id;
 
-    cout << "Nume: "; getline(cin, nume);
-    cout << "Prenume: "; getline(cin, prenume);
-    cout << "ID: "; cin >> id;
+    cout << "Nume: ";
+    getline(cin, nume);
+    cout << "Prenume: ";
+    getline(cin, prenume);
+    cout << "ID: ";
+    cin >> id;
     cin.ignore();
-    cout << "Email: "; getline(cin, email);
-    cout << "Telefon: "; getline(cin, telefon);
+    cout << "Email: ";
+    getline(cin, email);
+    cout << "Telefon: ";
+    getline(cin, telefon);
 
-    if(tip == 1) {
+    if (tip == 1)
+    {
         string facultate, nrMatricol;
         int anStudiu;
-        cout << "Facultate: "; getline(cin, facultate);
-        cout << "An studiu: "; cin >> anStudiu;
+        cout << "Facultate: ";
+        getline(cin, facultate);
+        cout << "An studiu: ";
+        cin >> anStudiu;
         cin.ignore();
-        cout << "Nr matricol: "; getline(cin, nrMatricol);
-        biblioteca.adaugaUtilizator(new UtilizatorStudent(nume, prenume, id, 
-                                    email, telefon, facultate, anStudiu, nrMatricol));
-    } else if(tip == 2) {
+        cout << "Nr matricol: ";
+        getline(cin, nrMatricol);
+        biblioteca.adaugaUtilizator(new UtilizatorStudent(nume, prenume, id,
+                                                          email, telefon, facultate, anStudiu, nrMatricol));
+    }
+    else if (tip == 2)
+    {
         string scoala, clasa;
-        cout << "Scoala: "; getline(cin, scoala);
-        cout << "Clasa: "; getline(cin, clasa);
+        cout << "Scoala: ";
+        getline(cin, scoala);
+        cout << "Clasa: ";
+        getline(cin, clasa);
         biblioteca.adaugaUtilizator(new UtilizatorElev(nume, prenume, id,
-                                    email, telefon, scoala, clasa));
-    } else if(tip == 3) {
+                                                       email, telefon, scoala, clasa));
+    }
+    else if (tip == 3)
+    {
         string ocupatie;
-        cout << "Ocupatie: "; getline(cin, ocupatie);
+        cout << "Ocupatie: ";
+        getline(cin, ocupatie);
         biblioteca.adaugaUtilizator(new UtilizatorAdult(nume, prenume, id,
-                                    email, telefon, ocupatie));
-    } else if(tip == 4) {
+                                                        email, telefon, ocupatie));
+    }
+    else if (tip == 4)
+    {
         string materie, institutie;
-        cout << "Materie: "; getline(cin, materie);
-        cout << "Institutie: "; getline(cin, institutie);
+        cout << "Materie: ";
+        getline(cin, materie);
+        cout << "Institutie: ";
+        getline(cin, institutie);
         biblioteca.adaugaUtilizator(new UtilizatorProfesor(nume, prenume, id,
-                                    email, telefon, materie, institutie));
-    } else if(tip == 5) {
+                                                           email, telefon, materie, institutie));
+    }
+    else if (tip == 5)
+    {
         int varsta;
-        cout << "Varsta pensionare: "; cin >> varsta;
+        cout << "Varsta pensionare: ";
+        cin >> varsta;
         biblioteca.adaugaUtilizator(new UtilizatorPensionar(nume, prenume, id,
-                                    email, telefon, varsta));
-    } else if(tip == 6) {
+                                                            email, telefon, varsta));
+    }
+    else if (tip == 6)
+    {
         string domeniu, institutie;
-        cout << "Domeniu cercetare: "; getline(cin, domeniu);
-        cout << "Institutie: "; getline(cin, institutie);
+        cout << "Domeniu cercetare: ";
+        getline(cin, domeniu);
+        cout << "Institutie: ";
+        getline(cin, institutie);
         biblioteca.adaugaUtilizator(new UtilizatorCercetator(nume, prenume, id,
-                                    email, telefon, domeniu, institutie));
+                                                             email, telefon, domeniu, institutie));
     }
 }
 
-void Meniu::meniuCamere() {
+void Meniu::meniuCamere()
+{
     int optiune;
     cout << "\n--- Gestionare Camere ---" << endl;
     cout << "1. Afiseaza toate camerele" << endl;
@@ -300,36 +438,45 @@ void Meniu::meniuCamere() {
     cin >> optiune;
     cin.ignore();
 
-    switch(optiune) {
-        case 1:
-            if (biblioteca.getCladire() != nullptr)
-                biblioteca.getCladire()->afisareCamere();
-            else
-                cout << "Nu exista o cladire configurata." << endl;
-            break;
-        case 2: {
-            if (biblioteca.getCladire() == nullptr) {
-                cout << "Nu exista o cladire configurata." << endl;
-                break;
-            }
-            string nume, program;
-            int tip, capacitate;
-            cout << "Nume camera: "; getline(cin, nume);
-            cout << "Tip (1-Lectura, 2-Depozit, 3-Receptie, 4-Calculatoare, 5-Copii): ";
-            tip = Validare::citesteInt("");
-            capacitate = Validare::citesteInt("Capacitate: ");
-            cout << "Program (ex: 08:00 - 20:00): "; getline(cin, program);
-            TipCamera tipCamera = static_cast<TipCamera>(tip - 1);
-            biblioteca.getCladire()->adaugaCamera(new Camera(nume, tipCamera, capacitate, program));
+    switch (optiune)
+    {
+    case 1:
+        if (biblioteca.getCladire() != nullptr)
+            biblioteca.getCladire()->afisareCamere();
+        else
+            cout << "Nu exista o cladire configurata." << endl;
+        break;
+    case 2:
+    {
+        if (biblioteca.getCladire() == nullptr)
+        {
+            cout << "Nu exista o cladire configurata." << endl;
             break;
         }
-        case 3: {
-            string isbn;
-            cout << "ISBN carte: "; getline(cin, isbn);
-            biblioteca.localizazeCarteInCladire(isbn);
-            break;
-        }
-        case 0: break;
-        default: cout << "Optiune invalida!" << endl;
+        string nume, program;
+        int tip, capacitate;
+        cout << "Nume camera: ";
+        getline(cin, nume);
+        cout << "Tip (1-Lectura, 2-Depozit, 3-Receptie, 4-Calculatoare, 5-Copii): ";
+        tip = Validare::citesteInt("");
+        capacitate = Validare::citesteInt("Capacitate: ");
+        cout << "Program (ex: 08:00 - 20:00): ";
+        getline(cin, program);
+        TipCamera tipCamera = static_cast<TipCamera>(tip - 1);
+        biblioteca.getCladire()->adaugaCamera(new Camera(nume, tipCamera, capacitate, program));
+        break;
+    }
+    case 3:
+    {
+        string isbn;
+        cout << "ISBN carte: ";
+        getline(cin, isbn);
+        biblioteca.localizazeCarteInCladire(isbn);
+        break;
+    }
+    case 0:
+        break;
+    default:
+        cout << "Optiune invalida!" << endl;
     }
 }
