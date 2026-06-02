@@ -1,69 +1,2010 @@
 CarteFizica|FICTIUNE|Ion Vol.1|Liviu Rebreanu|9789736899614|1920|Buna|21|8|8|A1
-CarteFizica|FICTIUNE|Ion Vol.2|Liviu Rebreanu|9789736899621|1920|Buna|21|7|7|A1
+CarteFizica|FICTIUNE|Ion Vol.2|Liviu Rebreanu|9789736899621|1920|Buna|21|7|7|A2
 CarteFizica|FICTIUNE|Morometii Vol.1|Marin Preda|9789733606123|1955|Buna|21|12|12|A2
-CarteFizica|FICTIUNE|Morometii Vol.2|Marin Preda|9789733606130|1967|Buna|21|10|10|A2
-CarteFizica|FICTIUNE|Enigma Otiliei|George Calinescu|9789736899638|1938|Buna|21|15|15|A2
-CarteFizica|FICTIUNE|Padurea Spanzuratilor|Liviu Rebreanu|9789736899645|1922|Uzata|21|6|6|A3
-CarteFizica|FICTIUNE|Baltagul|Mihail Sadoveanu|9789733606147|1930|Buna|21|9|9|A3
-CarteFizica|FICTIUNE|Maitreyi|Mircea Eliade|9789733606154|1933|Buna|21|11|11|B1
-CarteFizica|FICTIUNE|Ultima Noapte de Dragoste|Camil Petrescu|9789733606161|1930|Buna|21|10|10|B1
-CarteFizica|FICTIUNE|Cel Mai Iubit Vol.1|Marin Preda|9789733606178|1980|Buna|21|8|8|B2
-CarteFizica|FICTIUNE|Cel Mai Iubit Vol.2|Marin Preda|9789733606185|1980|Buna|21|8|8|B2
-CarteFizica|FICTIUNE|Cel Mai Iubit Vol.3|Marin Preda|9789733606192|1980|Uzata|21|6|6|B2
-CarteFizica|FICTIUNE|Groapa|Eugen Barbu|9789733606209|1957|Uzata|21|5|5|B3
-CarteFizica|FICTIUNE|Craii de Curtea-Veche|Mateiu Caragiale|9789733606223|1929|Buna|21|7|7|B3
-CarteFizica|FICTIUNE|Harap-Alb|Ion Creanga|9789733606216|1877|Buna|14|20|20|C1
+CarteFizica|FICTIUNE|Morometii Vol.2|Marin Preda|9789733606130|1967|Buna|21|10|10|A3
+CarteFizica|FICTIUNE|Enigma Otiliei|George Calinescu|9789736899638|1938|Buna|21|15|15|B1
+CarteFizica|FICTIUNE|Padurea Spanzuratilor|Liviu Rebreanu|9789736899645|1922|Uzata|21|6|6|B1
+CarteFizica|FICTIUNE|Baltagul|Mihail Sadoveanu|9789733606147|1930|Buna|21|9|9|B2
+CarteFizica|FICTIUNE|Maitreyi|Mircea Eliade|9789733606154|1933|Buna|21|11|11|B2
+CarteFizica|FICTIUNE|Ultima Noapte de Dragoste|Camil Petrescu|9789733606161|1930|Buna|21|10|10|B3
 CarteFizica|FICTIUNE|1984|George Orwell|9780451524935|1949|Buna|21|25|25|C1
-CarteFizica|FICTIUNE|Ferma Animalelor|George Orwell|9780451526342|1945|Buna|21|20|20|C2
+CarteFizica|FICTIUNE|Ferma Animalelor|George Orwell|9780451526342|1945|Buna|21|20|20|C1
 CarteFizica|FICTIUNE|Stapanul Inelelor: Fratia Inelului|J.R.R. Tolkien|9780261102354|1954|Buna|21|30|30|C2
 CarteFizica|FICTIUNE|Stapanul Inelelor: Cele Doua Turnuri|J.R.R. Tolkien|9780261102361|1954|Buna|21|30|30|C2
 CarteFizica|FICTIUNE|Stapanul Inelelor: Intoarcerea Regelui|J.R.R. Tolkien|9780261102378|1955|Buna|21|28|28|C3
 CarteFizica|FICTIUNE|Hobbitul|J.R.R. Tolkien|9780261102385|1937|Buna|21|35|35|C3
-CarteFizica|FICTIUNE|Dune|Frank Herbert|9780441172719|1965|Buna|21|18|18|D1
-CarteFizica|FICTIUNE|Dune Messiah|Frank Herbert|9780441172726|1969|Buna|21|12|12|D1
 CarteFizica|FICTIUNE|Harry Potter si Piatra Filozofala|J.K. Rowling|9789731800370|1997|Buna|21|40|40|D1
-CarteFizica|FICTIUNE|Harry Potter si Camera Secretelor|J.K. Rowling|9789731800387|1998|Buna|21|38|38|D2
+CarteFizica|FICTIUNE|Harry Potter si Camera Secretelor|J.K. Rowling|9789731800387|1998|Buna|21|38|38|D1
 CarteFizica|FICTIUNE|Harry Potter si Prizonierul din Azkaban|J.K. Rowling|9789731800394|1999|Buna|21|35|35|D2
 CarteFizica|FICTIUNE|Harry Potter si Pocalul de Foc|J.K. Rowling|9789731800400|2000|Buna|21|33|33|D2
 CarteFizica|FICTIUNE|Harry Potter si Ordinul Phoenix|J.K. Rowling|9789731800417|2003|Buna|21|30|30|D3
 CarteFizica|FICTIUNE|Harry Potter si Printul Semipur|J.K. Rowling|9789731800424|2005|Buna|21|28|28|D3
-CarteFizica|FICTIUNE|Harry Potter si Talismanele Mortii|J.K. Rowling|9789731800431|2007|Noua|21|25|25|D3
+CarteFizica|FICTIUNE|Harry Potter si Talismanele Mortii|J.K. Rowling|9789731800431|2007|Noua|21|25|25|E1
 CarteFizica|FICTIUNE|Crima si Pedeapsa|F. Dostoevsky|9789733606230|1866|Buna|21|15|15|E1
-CarteFizica|FICTIUNE|Fratii Karamazov|F. Dostoevsky|9789733606254|1880|Buna|21|10|10|E1
-CarteFizica|FICTIUNE|Razboi si Pace Vol.1|Leo Tolstoy|9789733606261|1869|Buna|21|12|12|E2
-CarteFizica|FICTIUNE|Razboi si Pace Vol.2|Leo Tolstoy|9789733606278|1869|Buna|21|10|10|E2
-CarteFizica|FICTIUNE|Anna Karenina|Leo Tolstoy|9789733606285|1877|Buna|21|14|14|E2
-CarteFizica|FICTIUNE|Marele Gatsby|F.S. Fitzgerald|9780743273565|1925|Buna|21|20|20|E3
-CarteFizica|FICTIUNE|Sa Ucizi o Pasarica|Harper Lee|9780061935466|1960|Buna|21|18|18|E3
-CarteFizica|FICTIUNE|O Suta de Ani de Singuratate|G.G. Marquez|9789733606292|1967|Buna|21|15|15|F1
-CarteFizica|FICTIUNE|Maestrul si Margareta|M. Bulgakov|9789733606308|1967|Buna|21|12|12|F1
-CarteFizica|FICTIUNE|Procesul|Franz Kafka|9789733606315|1925|Buna|21|10|10|F1
-CarteFizica|FICTIUNE|Minunata Lume Noua|Aldous Huxley|9789733606329|1932|Buna|21|14|14|F2
-CarteFizica|TEHNICA|C++ Primer (5th Ed.)|Stanley Lippman|9780321714114|2012|Buna|30|8|8|G1
-CarteFizica|TEHNICA|Clean Code|Robert C. Martin|9780132350884|2008|Buna|30|10|10|G1
-CarteFizica|TEHNICA|Design Patterns|Gang of Four|9780201633610|1994|Buna|30|6|6|G2
-CarteFizica|TEHNICA|The Pragmatic Programmer|David Thomas|9780135957059|2019|Noua|30|8|8|G2
-CarteFizica|TEHNICA|Introduction to Algorithms|T.H. Cormen|9780262033848|2009|Buna|30|5|5|G2
-CarteFizica|TEHNICA|Computer Networks|A. Tanenbaum|9780132126953|2010|Buna|30|7|7|G3
-CarteFizica|TEHNICA|Operating System Concepts|A. Silberschatz|9781119800361|2018|Buna|30|6|6|G3
-CarteFizica|TEHNICA|Database System Concepts|A. Silberschatz|9780078022159|2019|Noua|30|5|5|H1
-CarteFizica|TEHNICA|AI: A Modern Approach|Stuart Russell|9780136042594|2020|Noua|30|4|4|H1
-CarteFizica|TEHNICA|Python Crash Course|Eric Matthes|9781593279288|2019|Noua|30|12|12|H1
-CarteFizica|TEHNICA|Algebra Liniara|Gh. Morosanu|9789731234578|2005|Buna|30|10|10|H2
-CarteFizica|TEHNICA|Matematica Discreta|Ioan Tomescu|9789731234585|2008|Buna|30|9|9|H2
-CarteFizica|TEHNICA|Retele de Calculatoare|Vlad Muntean|9789731234592|2015|Noua|30|7|7|H3
-CarteFizica|STIINTA|O Scurta Istorie a Timpului|Stephen Hawking|9780553380163|1988|Buna|21|10|10|F3
-CarteFizica|STIINTA|Cosmos|Carl Sagan|9780345331359|1980|Uzata|21|7|7|F3
-CarteFizica|STIINTA|Sapiens|Yuval Noah Harari|9780062316097|2011|Noua|21|15|15|F3
-CarteFizica|STIINTA|Homo Deus|Yuval Noah Harari|9780062464347|2015|Noua|21|12|12|G1
-CarteFizica|STIINTA|Gena Egoista|Richard Dawkins|9780198788607|1976|Buna|21|8|8|G2
+CarteFizica|FICTIUNE|Fratii Karamazov|F. Dostoevsky|9789733606254|1880|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Idiotul|F. Dostoevsky|9789733606261|1869|Buna|21|9|9|E2
+CarteFizica|FICTIUNE|Razboi si Pace Vol.1|Leo Tolstoy|9789733606275|1869|Buna|21|12|12|E3
+CarteFizica|FICTIUNE|Razboi si Pace Vol.2|Leo Tolstoy|9789733606282|1869|Buna|21|10|10|E3
+CarteFizica|FICTIUNE|Anna Karenina|Leo Tolstoy|9789733606299|1877|Buna|21|14|14|F1
+CarteFizica|FICTIUNE|Marele Gatsby|F.S. Fitzgerald|9780743273565|1925|Buna|21|20|20|F1
+CarteFizica|FICTIUNE|Sa Ucizi o Pasarica|Harper Lee|9780061935466|1960|Buna|21|18|18|F2
+CarteFizica|FICTIUNE|O Suta de Ani de Singuratate|G.G. Marquez|9789733606312|1967|Buna|21|15|15|F2
+CarteFizica|FICTIUNE|Maestrul si Margareta|M. Bulgakov|9789733606336|1967|Buna|21|12|12|F3
+CarteFizica|FICTIUNE|Procesul|Franz Kafka|9789733606343|1925|Buna|21|10|10|F3
+CarteFizica|FICTIUNE|Metamorfoza|Franz Kafka|9789733606350|1915|Buna|21|14|14|G1
+CarteFizica|FICTIUNE|Minunata Lume Noua|Aldous Huxley|9789733606367|1932|Buna|21|14|14|G1
+CarteFizica|FICTIUNE|Fahrenheit 451|Ray Bradbury|9781451673319|1953|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|It|Stephen King|9781501156700|1986|Buna|21|22|22|G2
+CarteFizica|FICTIUNE|The Shining|Stephen King|9780385121675|1977|Buna|21|20|20|G3
+CarteFizica|FICTIUNE|Carrie|Stephen King|9780385086950|1974|Buna|21|18|18|G3
+CarteFizica|FICTIUNE|Misery|Stephen King|9780450417399|1987|Buna|21|15|15|H1
+CarteFizica|FICTIUNE|The Stand|Stephen King|9780385121682|1978|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Doctor Sleep|Stephen King|9781476779072|2013|Noua|21|14|14|H2
+CarteFizica|FICTIUNE|A Game of Thrones|George R.R. Martin|9780553103540|1996|Buna|21|25|25|H2
+CarteFizica|FICTIUNE|A Clash of Kings|George R.R. Martin|9780553108033|1998|Buna|21|22|22|H3
+CarteFizica|FICTIUNE|A Storm of Swords|George R.R. Martin|9780553106633|2000|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Si nu a mai ramas niciunul|Agatha Christie|9780007136834|1939|Buna|21|20|20|A1
+CarteFizica|FICTIUNE|Crima din Orient Express|Agatha Christie|9780007119318|1934|Buna|21|22|22|A2
+CarteFizica|FICTIUNE|Alchimistul|Paulo Coelho|9789736899508|1988|Buna|21|30|30|A3
+CarteFizica|FICTIUNE|Veronika Decide sa Moara|Paulo Coelho|9789736899515|1998|Buna|21|22|22|B1
+CarteFizica|FICTIUNE|Strainul|Albert Camus|9789733606411|1942|Buna|21|18|18|B2
+CarteFizica|FICTIUNE|Ciuma|Albert Camus|9789733606428|1947|Buna|21|16|16|B3
+CarteFizica|FICTIUNE|Mizerabilii Vol.1|Victor Hugo|9789733606466|1862|Buna|21|12|12|C1
+CarteFizica|FICTIUNE|Mizerabilii Vol.2|Victor Hugo|9789733606473|1862|Buna|21|11|11|C2
+CarteFizica|FICTIUNE|Hamlet|William Shakespeare|9789733606527|1603|Buna|21|20|20|C3
+CarteFizica|FICTIUNE|Romeo si Julieta|William Shakespeare|9789733606534|1597|Buna|21|22|22|D1
+CarteFizica|FICTIUNE|Batranul si Marea|Ernest Hemingway|9780684801223|1952|Buna|21|18|18|D2
+CarteFizica|FICTIUNE|Fructele Maniei|John Steinbeck|9780143039433|1939|Buna|21|15|15|D3
+CarteFizica|FICTIUNE|Codul lui Da Vinci|Dan Brown|9780385504201|2003|Buna|21|28|28|E1
+CarteFizica|FICTIUNE|Ingeri si Demoni|Dan Brown|9780671027360|2000|Buna|21|24|24|E2
+CarteFizica|FICTIUNE|Inferno|Dan Brown|9780385537858|2013|Noua|21|20|20|E3
+CarteFizica|FICTIUNE|Numele Trandafirului|Umberto Eco|9789733606664|1980|Buna|21|15|15|F1
+CarteFizica|FICTIUNE|Norwegian Wood|Haruki Murakami|9780375704024|1987|Buna|21|18|18|F2
+CarteFizica|FICTIUNE|Fundatia|Isaac Asimov|9780553293357|1951|Buna|21|15|15|F3
+CarteFizica|FICTIUNE|2001: O Odisee Spatiala|Arthur C. Clarke|9780451457998|1968|Buna|21|14|14|G1
+CarteFizica|FICTIUNE|Ocolul Pamantului in 80 de Zile|Jules Verne|9789733606732|1872|Buna|21|18|18|G2
+CarteFizica|FICTIUNE|20000 de Leghe sub Mari|Jules Verne|9789733606725|1870|Buna|21|16|16|G3
+CarteFizica|FICTIUNE|Barbati care urasc femeile|Stieg Larsson|9789736899706|2005|Buna|21|20|20|H1
+CarteFizica|FICTIUNE|Insupportabila Usurinta a Fiintei|Milan Kundera|9789733606688|1984|Buna|21|16|16|H2
+CarteFizica|FICTIUNE|Contele de Monte Cristo Vol.1|Alexandre Dumas|9789733606602|1844|Buna|21|15|15|H3
+CarteFizica|FICTIUNE|Contele de Monte Cristo Vol.2|Alexandre Dumas|9789733606619|1844|Buna|21|14|14|A1
+CarteFizica|FICTIUNE|Siddhartha|Hermann Hesse|9789733606596|1922|Buna|21|14|14|A2
+CarteFizica|TEHNICA|C++ Primer 5th Ed.|Stanley Lippman|9780321714114|2012|Buna|30|8|8|A1
+CarteFizica|TEHNICA|Clean Code|Robert C. Martin|9780132350884|2008|Buna|30|10|10|A2
+CarteFizica|TEHNICA|Design Patterns|Gang of Four|9780201633610|1994|Buna|30|6|6|A3
+CarteFizica|TEHNICA|The Pragmatic Programmer|David Thomas|9780135957059|2019|Noua|30|8|8|B1
+CarteFizica|TEHNICA|Introduction to Algorithms|T.H. Cormen|9780262033848|2009|Buna|30|5|5|B2
+CarteFizica|TEHNICA|Python Crash Course|Eric Matthes|9781593279288|2019|Noua|30|12|12|B3
+CarteFizica|TEHNICA|Clean Architecture|Robert C. Martin|9780134494166|2017|Noua|30|7|7|C1
+CarteFizica|STIINTA|O Scurta Istorie a Timpului|Stephen Hawking|9780553380163|1988|Buna|21|10|10|C2
+CarteFizica|STIINTA|Sapiens|Yuval Noah Harari|9780062316097|2011|Noua|21|15|15|C3
+CarteFizica|STIINTA|Homo Deus|Yuval Noah Harari|9780062464347|2015|Noua|21|12|12|D1
+CarteFizica|STIINTA|Cosmos|Carl Sagan|9780345331359|1980|Uzata|21|7|7|D2
 Revista|REVISTA|Dilema Veche Nr.1000|Redactia Dilema|9771220304001|2023|Noua|7|5|5|A1
 Revista|REVISTA|Romania Literara Nr.50|Redactia RL|9771015899050|2023|Noua|7|3|3|A2
-Revista|REVISTA|Scientific American - Ed.Speciala|Redactia SA|9781948933094|2023|Noua|7|4|4|F3
-Revista|REVISTA|Nature Vol.600|Nature Publishing|9780028661056|2022|Buna|7|3|3|H3
-CarteDigitala|DIGITALA|Clean Architecture|Robert C. Martin|9780134494166|2017|Noua|14|999|999|DIGITAL
+Revista|REVISTA|National Geographic Romania|Nat Geo|9770258890001|2024|Noua|7|6|6|A3
 CarteDigitala|DIGITALA|Atomic Habits|James Clear|9780735211292|2018|Noua|14|999|999|DIGITAL
-CarteDigitala|DIGITALA|The Phoenix Project|Gene Kim|9781942788294|2013|Noua|14|999|999|DIGITAL
+CarteDigitala|DIGITALA|Deep Work|Cal Newport|9781455586691|2016|Noua|14|999|999|DIGITAL
 CarteRara|RARA|Psaltirea in Versuri|Dosoftei|RON-RARE-001|1673|Deteriorata|0|1|1|SALA-RARA
 CarteRara|RARA|Biblia de la Blaj|Samuil Micu|RON-RARE-002|1795|Uzata|0|1|1|SALA-RARA
 CarteRara|RARA|Letopisetul Tarii Moldovei|Grigore Ureche|RON-RARE-003|1640|Deteriorata|0|1|1|SALA-RARA
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.1|Victor Hugo|9780300000|1850|Noua|21|3|3|A1
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.1|Charles Dickens|9780300001|1851|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.1|Leo Tolstoy|9780300002|1852|Buna|21|5|5|A3
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.1|F. Dostoevsky|9780300003|1853|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.1|Franz Kafka|9780300004|1854|Uzata|21|7|7|B2
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.1|Albert Camus|9780300005|1855|Noua|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 6|Ernest Hemingway|9780300006|1856|Buna|30|9|9|C1
+CarteFizica|STIINTA|Studii Stiintifice 7|F.S. Fitzgerald|9780300007|1857|Buna|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 8|John Steinbeck|9780300008|1858|Buna|30|11|11|C3
+CarteFizica|REVISTA|Revista Academica Nr.9|Aldous Huxley|9780300009|1859|Uzata|7|12|12|D1
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.1|George Orwell|9780300010|1860|Noua|21|13|13|D2
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.1|Ray Bradbury|9780300011|1861|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.1|Kurt Vonnegut|9780300012|1862|Buna|21|15|15|E1
+CarteFizica|FICTIUNE|Jack London - Opere Vol.1|Jack London|9780300013|1863|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.1|Mark Twain|9780300014|1864|Uzata|21|17|17|E3
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.1|Oscar Wilde|9780300015|1865|Noua|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 16|Thomas Hardy|9780300016|1866|Buna|30|19|19|F2
+CarteFizica|STIINTA|Studii Stiintifice 17|Jane Austen|9780300017|1867|Buna|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 18|Emily Bronte|9780300018|1868|Buna|30|3|3|G1
+CarteFizica|REVISTA|Revista Academica Nr.19|Charlotte Bronte|9780300019|1869|Uzata|7|4|4|G2
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.1|Thomas Mann|9780300020|1870|Noua|21|5|5|G3
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.1|Hermann Hesse|9780300021|1871|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.1|Stefan Zweig|9780300022|1872|Buna|21|7|7|H2
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.1|Gunter Grass|9780300023|1873|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.1|Boris Pasternak|9780300024|1874|Uzata|21|9|9|A1
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.1|Ivan Turgenev|9780300025|1875|Noua|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 26|Anton Chekhov|9780300026|1876|Buna|30|11|11|A3
+CarteFizica|STIINTA|Studii Stiintifice 27|Maxim Gorky|9780300027|1877|Buna|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 28|Gustave Flaubert|9780300028|1878|Buna|30|13|13|B2
+CarteFizica|REVISTA|Revista Academica Nr.29|Emile Zola|9780300029|1879|Uzata|7|14|14|B3
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.1|Marcel Proust|9780300030|1880|Noua|21|15|15|C1
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.1|Honore de Balzac|9780300031|1881|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.1|Stendhal|9780300032|1882|Buna|21|17|17|C3
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.1|Alexandre Dumas|9780300033|1883|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.1|Guy de Maupassant|9780300034|1884|Uzata|21|19|19|D2
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.1|Antoine de Saint-Exupery|9780300035|1885|Noua|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 36|Jorge Luis Borges|9780300036|1886|Buna|30|3|3|E1
+CarteFizica|STIINTA|Studii Stiintifice 37|Mario Vargas Llosa|9780300037|1887|Buna|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 38|Isabel Allende|9780300038|1888|Buna|30|5|5|E3
+CarteFizica|REVISTA|Revista Academica Nr.39|Naguib Mahfouz|9780300039|1889|Uzata|7|6|6|F1
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.1|Orhan Pamuk|9780300040|1890|Noua|21|7|7|F2
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.1|Haruki Murakami|9780300041|1891|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.1|Yasunari Kawabata|9780300042|1892|Buna|21|9|9|G1
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.1|Yukio Mishima|9780300043|1893|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.1|Chinua Achebe|9780300044|1894|Uzata|21|11|11|G3
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.1|J.M. Coetzee|9780300045|1895|Noua|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 46|Toni Morrison|9780300046|1896|Buna|30|13|13|H2
+CarteFizica|STIINTA|Studii Stiintifice 47|Maya Angelou|9780300047|1897|Buna|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 48|William Faulkner|9780300048|1898|Buna|30|15|15|A1
+CarteFizica|REVISTA|Revista Academica Nr.49|Truman Capote|9780300049|1899|Uzata|7|16|16|A2
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.1|Umberto Eco|9780300050|1900|Noua|21|17|17|A3
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.1|Italo Calvino|9780300051|1901|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.1|Primo Levi|9780300052|1902|Buna|21|19|19|B2
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.1|Vladimir Nabokov|9780300053|1903|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.1|Alexander Pushkin|9780300054|1904|Uzata|21|3|3|C1
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.1|Nikolai Gogol|9780300055|1905|Noua|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 56|Milan Kundera|9780300056|1906|Buna|30|5|5|C3
+CarteFizica|STIINTA|Studii Stiintifice 57|Patrick Modiano|9780300057|1907|Buna|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 58|Michel Houellebecq|9780300058|1908|Buna|30|7|7|D2
+CarteFizica|REVISTA|Revista Academica Nr.59|Marguerite Duras|9780300059|1909|Uzata|7|8|8|D3
+CarteFizica|FICTIUNE|Colette - Opere Vol.1|Colette|9780300060|1910|Noua|21|9|9|E1
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.1|Romain Rolland|9780300061|1911|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.1|Andre Gide|9780300062|1912|Buna|21|11|11|E3
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.1|Simone de Beauvoir|9780300063|1913|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.1|Federico Garcia Lorca|9780300064|1914|Uzata|21|13|13|F2
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.1|Pablo Neruda|9780300065|1915|Noua|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 66|Carlos Fuentes|9780300066|1916|Buna|30|15|15|G1
+CarteFizica|STIINTA|Studii Stiintifice 67|Julio Cortazar|9780300067|1917|Buna|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 68|Roberto Bolano|9780300068|1918|Buna|30|17|17|G3
+CarteFizica|REVISTA|Revista Academica Nr.69|Khalil Gibran|9780300069|1919|Uzata|7|18|18|H1
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.1|Amos Oz|9780300070|1920|Noua|21|19|19|H2
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.1|Kenzaburo Oe|9780300071|1921|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.1|Kobo Abe|9780300072|1922|Buna|21|3|3|A1
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.1|Soseki Natsume|9780300073|1923|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.1|Samuel Beckett|9780300074|1924|Uzata|21|5|5|A3
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.1|James Joyce|9780300075|1925|Noua|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 76|Oscar Wilde|9780300076|1926|Buna|30|7|7|B2
+CarteFizica|STIINTA|Studii Stiintifice 77|Bernard Shaw|9780300077|1927|Buna|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 78|Dylan Thomas|9780300078|1928|Buna|30|9|9|C1
+CarteFizica|REVISTA|Revista Academica Nr.79|Graham Greene|9780300079|1929|Uzata|7|10|10|C2
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.1|Evelyn Waugh|9780300080|1930|Noua|21|11|11|C3
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.1|George Bernard Shaw|9780300081|1931|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.1|H.G. Wells|9780300082|1932|Buna|21|13|13|D2
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.1|Arthur Conan Doyle|9780300083|1933|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.1|Bram Stoker|9780300084|1934|Uzata|21|15|15|E1
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.1|Mary Shelley|9780300085|1935|Noua|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 86|Jonathan Swift|9780300086|1936|Buna|30|17|17|E3
+CarteFizica|STIINTA|Studii Stiintifice 87|Daniel Defoe|9780300087|1937|Buna|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 88|Henry Fielding|9780300088|1938|Buna|30|19|19|F2
+CarteFizica|REVISTA|Revista Academica Nr.89|Laurence Sterne|9780300089|1939|Uzata|7|20|20|F3
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.1|Samuel Richardson|9780300090|1940|Noua|21|3|3|G1
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.1|William Thackeray|9780300091|1941|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.1|Anthony Trollope|9780300092|1942|Buna|21|5|5|G3
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.1|George Meredith|9780300093|1943|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.1|Thomas Hardy|9780300094|1944|Uzata|21|7|7|H2
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.1|Joseph Conrad|9780300095|1945|Noua|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 96|D.H. Lawrence|9780300096|1946|Buna|30|9|9|A1
+CarteFizica|STIINTA|Studii Stiintifice 97|Virginia Woolf|9780300097|1947|Buna|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 98|E.M. Forster|9780300098|1948|Buna|30|11|11|A3
+CarteFizica|REVISTA|Revista Academica Nr.99|Aldous Huxley|9780300099|1949|Uzata|7|12|12|B1
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.2|Victor Hugo|9780300100|1950|Noua|21|13|13|B2
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.2|Charles Dickens|9780300101|1951|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.2|Leo Tolstoy|9780300102|1952|Buna|21|15|15|C1
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.2|F. Dostoevsky|9780300103|1953|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.2|Franz Kafka|9780300104|1954|Uzata|21|17|17|C3
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.2|Albert Camus|9780300105|1955|Noua|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 106|Ernest Hemingway|9780300106|1956|Buna|30|19|19|D2
+CarteFizica|STIINTA|Studii Stiintifice 107|F.S. Fitzgerald|9780300107|1957|Buna|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 108|John Steinbeck|9780300108|1958|Buna|30|3|3|E1
+CarteFizica|REVISTA|Revista Academica Nr.109|Aldous Huxley|9780300109|1959|Uzata|7|4|4|E2
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.2|George Orwell|9780300110|1960|Noua|21|5|5|E3
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.2|Ray Bradbury|9780300111|1961|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.2|Kurt Vonnegut|9780300112|1962|Buna|21|7|7|F2
+CarteFizica|FICTIUNE|Jack London - Opere Vol.2|Jack London|9780300113|1963|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.2|Mark Twain|9780300114|1964|Uzata|21|9|9|G1
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.2|Oscar Wilde|9780300115|1965|Noua|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 116|Thomas Hardy|9780300116|1966|Buna|30|11|11|G3
+CarteFizica|STIINTA|Studii Stiintifice 117|Jane Austen|9780300117|1967|Buna|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 118|Emily Bronte|9780300118|1968|Buna|30|13|13|H2
+CarteFizica|REVISTA|Revista Academica Nr.119|Charlotte Bronte|9780300119|1969|Uzata|7|14|14|H3
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.2|Thomas Mann|9780300120|1970|Noua|21|15|15|A1
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.2|Hermann Hesse|9780300121|1971|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.2|Stefan Zweig|9780300122|1972|Buna|21|17|17|A3
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.2|Gunter Grass|9780300123|1973|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.2|Boris Pasternak|9780300124|1974|Uzata|21|19|19|B2
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.2|Ivan Turgenev|9780300125|1975|Noua|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 126|Anton Chekhov|9780300126|1976|Buna|30|3|3|C1
+CarteFizica|STIINTA|Studii Stiintifice 127|Maxim Gorky|9780300127|1977|Buna|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 128|Gustave Flaubert|9780300128|1978|Buna|30|5|5|C3
+CarteFizica|REVISTA|Revista Academica Nr.129|Emile Zola|9780300129|1979|Uzata|7|6|6|D1
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.2|Marcel Proust|9780300130|1980|Noua|21|7|7|D2
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.2|Honore de Balzac|9780300131|1981|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.2|Stendhal|9780300132|1982|Buna|21|9|9|E1
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.2|Alexandre Dumas|9780300133|1983|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.2|Guy de Maupassant|9780300134|1984|Uzata|21|11|11|E3
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.2|Antoine de Saint-Exupery|9780300135|1985|Noua|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 136|Jorge Luis Borges|9780300136|1986|Buna|30|13|13|F2
+CarteFizica|STIINTA|Studii Stiintifice 137|Mario Vargas Llosa|9780300137|1987|Buna|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 138|Isabel Allende|9780300138|1988|Buna|30|15|15|G1
+CarteFizica|REVISTA|Revista Academica Nr.139|Naguib Mahfouz|9780300139|1989|Uzata|7|16|16|G2
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.2|Orhan Pamuk|9780300140|1990|Noua|21|17|17|G3
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.2|Haruki Murakami|9780300141|1991|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.2|Yasunari Kawabata|9780300142|1992|Buna|21|19|19|H2
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.2|Yukio Mishima|9780300143|1993|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.2|Chinua Achebe|9780300144|1994|Uzata|21|3|3|A1
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.2|J.M. Coetzee|9780300145|1995|Noua|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 146|Toni Morrison|9780300146|1996|Buna|30|5|5|A3
+CarteFizica|STIINTA|Studii Stiintifice 147|Maya Angelou|9780300147|1997|Buna|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 148|William Faulkner|9780300148|1998|Buna|30|7|7|B2
+CarteFizica|REVISTA|Revista Academica Nr.149|Truman Capote|9780300149|1999|Uzata|7|8|8|B3
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.2|Umberto Eco|9780300150|2000|Noua|21|9|9|C1
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.2|Italo Calvino|9780300151|2001|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.2|Primo Levi|9780300152|2002|Buna|21|11|11|C3
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.2|Vladimir Nabokov|9780300153|2003|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.2|Alexander Pushkin|9780300154|2004|Uzata|21|13|13|D2
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.2|Nikolai Gogol|9780300155|2005|Noua|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 156|Milan Kundera|9780300156|2006|Buna|30|15|15|E1
+CarteFizica|STIINTA|Studii Stiintifice 157|Patrick Modiano|9780300157|2007|Buna|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 158|Michel Houellebecq|9780300158|2008|Buna|30|17|17|E3
+CarteFizica|REVISTA|Revista Academica Nr.159|Marguerite Duras|9780300159|2009|Uzata|7|18|18|F1
+CarteFizica|FICTIUNE|Colette - Opere Vol.2|Colette|9780300160|2010|Noua|21|19|19|F2
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.2|Romain Rolland|9780300161|2011|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.2|Andre Gide|9780300162|2012|Buna|21|3|3|G1
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.2|Simone de Beauvoir|9780300163|2013|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.2|Federico Garcia Lorca|9780300164|2014|Uzata|21|5|5|G3
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.2|Pablo Neruda|9780300165|2015|Noua|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 166|Carlos Fuentes|9780300166|2016|Buna|30|7|7|H2
+CarteFizica|STIINTA|Studii Stiintifice 167|Julio Cortazar|9780300167|2017|Buna|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 168|Roberto Bolano|9780300168|2018|Buna|30|9|9|A1
+CarteFizica|REVISTA|Revista Academica Nr.169|Khalil Gibran|9780300169|2019|Uzata|7|10|10|A2
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.2|Amos Oz|9780300170|1850|Noua|21|11|11|A3
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.2|Kenzaburo Oe|9780300171|1851|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.2|Kobo Abe|9780300172|1852|Buna|21|13|13|B2
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.2|Soseki Natsume|9780300173|1853|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.2|Samuel Beckett|9780300174|1854|Uzata|21|15|15|C1
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.2|James Joyce|9780300175|1855|Noua|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 176|Oscar Wilde|9780300176|1856|Buna|30|17|17|C3
+CarteFizica|STIINTA|Studii Stiintifice 177|Bernard Shaw|9780300177|1857|Buna|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 178|Dylan Thomas|9780300178|1858|Buna|30|19|19|D2
+CarteFizica|REVISTA|Revista Academica Nr.179|Graham Greene|9780300179|1859|Uzata|7|20|20|D3
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.2|Evelyn Waugh|9780300180|1860|Noua|21|3|3|E1
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.2|George Bernard Shaw|9780300181|1861|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.2|H.G. Wells|9780300182|1862|Buna|21|5|5|E3
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.2|Arthur Conan Doyle|9780300183|1863|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.2|Bram Stoker|9780300184|1864|Uzata|21|7|7|F2
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.2|Mary Shelley|9780300185|1865|Noua|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 186|Jonathan Swift|9780300186|1866|Buna|30|9|9|G1
+CarteFizica|STIINTA|Studii Stiintifice 187|Daniel Defoe|9780300187|1867|Buna|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 188|Henry Fielding|9780300188|1868|Buna|30|11|11|G3
+CarteFizica|REVISTA|Revista Academica Nr.189|Laurence Sterne|9780300189|1869|Uzata|7|12|12|H1
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.2|Samuel Richardson|9780300190|1870|Noua|21|13|13|H2
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.2|William Thackeray|9780300191|1871|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.2|Anthony Trollope|9780300192|1872|Buna|21|15|15|A1
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.2|George Meredith|9780300193|1873|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.2|Thomas Hardy|9780300194|1874|Uzata|21|17|17|A3
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.2|Joseph Conrad|9780300195|1875|Noua|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 196|D.H. Lawrence|9780300196|1876|Buna|30|19|19|B2
+CarteFizica|STIINTA|Studii Stiintifice 197|Virginia Woolf|9780300197|1877|Buna|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 198|E.M. Forster|9780300198|1878|Buna|30|3|3|C1
+CarteFizica|REVISTA|Revista Academica Nr.199|Aldous Huxley|9780300199|1879|Uzata|7|4|4|C2
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.3|Victor Hugo|9780300200|1880|Noua|21|5|5|C3
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.3|Charles Dickens|9780300201|1881|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.3|Leo Tolstoy|9780300202|1882|Buna|21|7|7|D2
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.3|F. Dostoevsky|9780300203|1883|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.3|Franz Kafka|9780300204|1884|Uzata|21|9|9|E1
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.3|Albert Camus|9780300205|1885|Noua|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 206|Ernest Hemingway|9780300206|1886|Buna|30|11|11|E3
+CarteFizica|STIINTA|Studii Stiintifice 207|F.S. Fitzgerald|9780300207|1887|Buna|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 208|John Steinbeck|9780300208|1888|Buna|30|13|13|F2
+CarteFizica|REVISTA|Revista Academica Nr.209|Aldous Huxley|9780300209|1889|Uzata|7|14|14|F3
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.3|George Orwell|9780300210|1890|Noua|21|15|15|G1
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.3|Ray Bradbury|9780300211|1891|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.3|Kurt Vonnegut|9780300212|1892|Buna|21|17|17|G3
+CarteFizica|FICTIUNE|Jack London - Opere Vol.3|Jack London|9780300213|1893|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.3|Mark Twain|9780300214|1894|Uzata|21|19|19|H2
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.3|Oscar Wilde|9780300215|1895|Noua|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 216|Thomas Hardy|9780300216|1896|Buna|30|3|3|A1
+CarteFizica|STIINTA|Studii Stiintifice 217|Jane Austen|9780300217|1897|Buna|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 218|Emily Bronte|9780300218|1898|Buna|30|5|5|A3
+CarteFizica|REVISTA|Revista Academica Nr.219|Charlotte Bronte|9780300219|1899|Uzata|7|6|6|B1
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.3|Thomas Mann|9780300220|1900|Noua|21|7|7|B2
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.3|Hermann Hesse|9780300221|1901|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.3|Stefan Zweig|9780300222|1902|Buna|21|9|9|C1
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.3|Gunter Grass|9780300223|1903|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.3|Boris Pasternak|9780300224|1904|Uzata|21|11|11|C3
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.3|Ivan Turgenev|9780300225|1905|Noua|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 226|Anton Chekhov|9780300226|1906|Buna|30|13|13|D2
+CarteFizica|STIINTA|Studii Stiintifice 227|Maxim Gorky|9780300227|1907|Buna|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 228|Gustave Flaubert|9780300228|1908|Buna|30|15|15|E1
+CarteFizica|REVISTA|Revista Academica Nr.229|Emile Zola|9780300229|1909|Uzata|7|16|16|E2
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.3|Marcel Proust|9780300230|1910|Noua|21|17|17|E3
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.3|Honore de Balzac|9780300231|1911|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.3|Stendhal|9780300232|1912|Buna|21|19|19|F2
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.3|Alexandre Dumas|9780300233|1913|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.3|Guy de Maupassant|9780300234|1914|Uzata|21|3|3|G1
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.3|Antoine de Saint-Exupery|9780300235|1915|Noua|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 236|Jorge Luis Borges|9780300236|1916|Buna|30|5|5|G3
+CarteFizica|STIINTA|Studii Stiintifice 237|Mario Vargas Llosa|9780300237|1917|Buna|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 238|Isabel Allende|9780300238|1918|Buna|30|7|7|H2
+CarteFizica|REVISTA|Revista Academica Nr.239|Naguib Mahfouz|9780300239|1919|Uzata|7|8|8|H3
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.3|Orhan Pamuk|9780300240|1920|Noua|21|9|9|A1
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.3|Haruki Murakami|9780300241|1921|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.3|Yasunari Kawabata|9780300242|1922|Buna|21|11|11|A3
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.3|Yukio Mishima|9780300243|1923|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.3|Chinua Achebe|9780300244|1924|Uzata|21|13|13|B2
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.3|J.M. Coetzee|9780300245|1925|Noua|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 246|Toni Morrison|9780300246|1926|Buna|30|15|15|C1
+CarteFizica|STIINTA|Studii Stiintifice 247|Maya Angelou|9780300247|1927|Buna|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 248|William Faulkner|9780300248|1928|Buna|30|17|17|C3
+CarteFizica|REVISTA|Revista Academica Nr.249|Truman Capote|9780300249|1929|Uzata|7|18|18|D1
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.3|Umberto Eco|9780300250|1930|Noua|21|19|19|D2
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.3|Italo Calvino|9780300251|1931|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.3|Primo Levi|9780300252|1932|Buna|21|3|3|E1
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.3|Vladimir Nabokov|9780300253|1933|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.3|Alexander Pushkin|9780300254|1934|Uzata|21|5|5|E3
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.3|Nikolai Gogol|9780300255|1935|Noua|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 256|Milan Kundera|9780300256|1936|Buna|30|7|7|F2
+CarteFizica|STIINTA|Studii Stiintifice 257|Patrick Modiano|9780300257|1937|Buna|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 258|Michel Houellebecq|9780300258|1938|Buna|30|9|9|G1
+CarteFizica|REVISTA|Revista Academica Nr.259|Marguerite Duras|9780300259|1939|Uzata|7|10|10|G2
+CarteFizica|FICTIUNE|Colette - Opere Vol.3|Colette|9780300260|1940|Noua|21|11|11|G3
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.3|Romain Rolland|9780300261|1941|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.3|Andre Gide|9780300262|1942|Buna|21|13|13|H2
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.3|Simone de Beauvoir|9780300263|1943|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.3|Federico Garcia Lorca|9780300264|1944|Uzata|21|15|15|A1
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.3|Pablo Neruda|9780300265|1945|Noua|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 266|Carlos Fuentes|9780300266|1946|Buna|30|17|17|A3
+CarteFizica|STIINTA|Studii Stiintifice 267|Julio Cortazar|9780300267|1947|Buna|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 268|Roberto Bolano|9780300268|1948|Buna|30|19|19|B2
+CarteFizica|REVISTA|Revista Academica Nr.269|Khalil Gibran|9780300269|1949|Uzata|7|20|20|B3
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.3|Amos Oz|9780300270|1950|Noua|21|3|3|C1
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.3|Kenzaburo Oe|9780300271|1951|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.3|Kobo Abe|9780300272|1952|Buna|21|5|5|C3
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.3|Soseki Natsume|9780300273|1953|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.3|Samuel Beckett|9780300274|1954|Uzata|21|7|7|D2
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.3|James Joyce|9780300275|1955|Noua|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 276|Oscar Wilde|9780300276|1956|Buna|30|9|9|E1
+CarteFizica|STIINTA|Studii Stiintifice 277|Bernard Shaw|9780300277|1957|Buna|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 278|Dylan Thomas|9780300278|1958|Buna|30|11|11|E3
+CarteFizica|REVISTA|Revista Academica Nr.279|Graham Greene|9780300279|1959|Uzata|7|12|12|F1
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.3|Evelyn Waugh|9780300280|1960|Noua|21|13|13|F2
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.3|George Bernard Shaw|9780300281|1961|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.3|H.G. Wells|9780300282|1962|Buna|21|15|15|G1
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.3|Arthur Conan Doyle|9780300283|1963|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.3|Bram Stoker|9780300284|1964|Uzata|21|17|17|G3
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.3|Mary Shelley|9780300285|1965|Noua|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 286|Jonathan Swift|9780300286|1966|Buna|30|19|19|H2
+CarteFizica|STIINTA|Studii Stiintifice 287|Daniel Defoe|9780300287|1967|Buna|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 288|Henry Fielding|9780300288|1968|Buna|30|3|3|A1
+CarteFizica|REVISTA|Revista Academica Nr.289|Laurence Sterne|9780300289|1969|Uzata|7|4|4|A2
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.3|Samuel Richardson|9780300290|1970|Noua|21|5|5|A3
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.3|William Thackeray|9780300291|1971|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.3|Anthony Trollope|9780300292|1972|Buna|21|7|7|B2
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.3|George Meredith|9780300293|1973|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.3|Thomas Hardy|9780300294|1974|Uzata|21|9|9|C1
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.3|Joseph Conrad|9780300295|1975|Noua|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 296|D.H. Lawrence|9780300296|1976|Buna|30|11|11|C3
+CarteFizica|STIINTA|Studii Stiintifice 297|Virginia Woolf|9780300297|1977|Buna|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 298|E.M. Forster|9780300298|1978|Buna|30|13|13|D2
+CarteFizica|REVISTA|Revista Academica Nr.299|Aldous Huxley|9780300299|1979|Uzata|7|14|14|D3
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.4|Victor Hugo|9780300300|1980|Noua|21|15|15|E1
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.4|Charles Dickens|9780300301|1981|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.4|Leo Tolstoy|9780300302|1982|Buna|21|17|17|E3
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.4|F. Dostoevsky|9780300303|1983|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.4|Franz Kafka|9780300304|1984|Uzata|21|19|19|F2
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.4|Albert Camus|9780300305|1985|Noua|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 306|Ernest Hemingway|9780300306|1986|Buna|30|3|3|G1
+CarteFizica|STIINTA|Studii Stiintifice 307|F.S. Fitzgerald|9780300307|1987|Buna|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 308|John Steinbeck|9780300308|1988|Buna|30|5|5|G3
+CarteFizica|REVISTA|Revista Academica Nr.309|Aldous Huxley|9780300309|1989|Uzata|7|6|6|H1
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.4|George Orwell|9780300310|1990|Noua|21|7|7|H2
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.4|Ray Bradbury|9780300311|1991|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.4|Kurt Vonnegut|9780300312|1992|Buna|21|9|9|A1
+CarteFizica|FICTIUNE|Jack London - Opere Vol.4|Jack London|9780300313|1993|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.4|Mark Twain|9780300314|1994|Uzata|21|11|11|A3
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.4|Oscar Wilde|9780300315|1995|Noua|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 316|Thomas Hardy|9780300316|1996|Buna|30|13|13|B2
+CarteFizica|STIINTA|Studii Stiintifice 317|Jane Austen|9780300317|1997|Buna|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 318|Emily Bronte|9780300318|1998|Buna|30|15|15|C1
+CarteFizica|REVISTA|Revista Academica Nr.319|Charlotte Bronte|9780300319|1999|Uzata|7|16|16|C2
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.4|Thomas Mann|9780300320|2000|Noua|21|17|17|C3
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.4|Hermann Hesse|9780300321|2001|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.4|Stefan Zweig|9780300322|2002|Buna|21|19|19|D2
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.4|Gunter Grass|9780300323|2003|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.4|Boris Pasternak|9780300324|2004|Uzata|21|3|3|E1
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.4|Ivan Turgenev|9780300325|2005|Noua|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 326|Anton Chekhov|9780300326|2006|Buna|30|5|5|E3
+CarteFizica|STIINTA|Studii Stiintifice 327|Maxim Gorky|9780300327|2007|Buna|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 328|Gustave Flaubert|9780300328|2008|Buna|30|7|7|F2
+CarteFizica|REVISTA|Revista Academica Nr.329|Emile Zola|9780300329|2009|Uzata|7|8|8|F3
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.4|Marcel Proust|9780300330|2010|Noua|21|9|9|G1
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.4|Honore de Balzac|9780300331|2011|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.4|Stendhal|9780300332|2012|Buna|21|11|11|G3
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.4|Alexandre Dumas|9780300333|2013|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.4|Guy de Maupassant|9780300334|2014|Uzata|21|13|13|H2
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.4|Antoine de Saint-Exupery|9780300335|2015|Noua|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 336|Jorge Luis Borges|9780300336|2016|Buna|30|15|15|A1
+CarteFizica|STIINTA|Studii Stiintifice 337|Mario Vargas Llosa|9780300337|2017|Buna|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 338|Isabel Allende|9780300338|2018|Buna|30|17|17|A3
+CarteFizica|REVISTA|Revista Academica Nr.339|Naguib Mahfouz|9780300339|2019|Uzata|7|18|18|B1
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.4|Orhan Pamuk|9780300340|1850|Noua|21|19|19|B2
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.4|Haruki Murakami|9780300341|1851|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.4|Yasunari Kawabata|9780300342|1852|Buna|21|3|3|C1
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.4|Yukio Mishima|9780300343|1853|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.4|Chinua Achebe|9780300344|1854|Uzata|21|5|5|C3
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.4|J.M. Coetzee|9780300345|1855|Noua|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 346|Toni Morrison|9780300346|1856|Buna|30|7|7|D2
+CarteFizica|STIINTA|Studii Stiintifice 347|Maya Angelou|9780300347|1857|Buna|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 348|William Faulkner|9780300348|1858|Buna|30|9|9|E1
+CarteFizica|REVISTA|Revista Academica Nr.349|Truman Capote|9780300349|1859|Uzata|7|10|10|E2
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.4|Umberto Eco|9780300350|1860|Noua|21|11|11|E3
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.4|Italo Calvino|9780300351|1861|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.4|Primo Levi|9780300352|1862|Buna|21|13|13|F2
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.4|Vladimir Nabokov|9780300353|1863|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.4|Alexander Pushkin|9780300354|1864|Uzata|21|15|15|G1
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.4|Nikolai Gogol|9780300355|1865|Noua|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 356|Milan Kundera|9780300356|1866|Buna|30|17|17|G3
+CarteFizica|STIINTA|Studii Stiintifice 357|Patrick Modiano|9780300357|1867|Buna|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 358|Michel Houellebecq|9780300358|1868|Buna|30|19|19|H2
+CarteFizica|REVISTA|Revista Academica Nr.359|Marguerite Duras|9780300359|1869|Uzata|7|20|20|H3
+CarteFizica|FICTIUNE|Colette - Opere Vol.4|Colette|9780300360|1870|Noua|21|3|3|A1
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.4|Romain Rolland|9780300361|1871|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.4|Andre Gide|9780300362|1872|Buna|21|5|5|A3
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.4|Simone de Beauvoir|9780300363|1873|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.4|Federico Garcia Lorca|9780300364|1874|Uzata|21|7|7|B2
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.4|Pablo Neruda|9780300365|1875|Noua|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 366|Carlos Fuentes|9780300366|1876|Buna|30|9|9|C1
+CarteFizica|STIINTA|Studii Stiintifice 367|Julio Cortazar|9780300367|1877|Buna|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 368|Roberto Bolano|9780300368|1878|Buna|30|11|11|C3
+CarteFizica|REVISTA|Revista Academica Nr.369|Khalil Gibran|9780300369|1879|Uzata|7|12|12|D1
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.4|Amos Oz|9780300370|1880|Noua|21|13|13|D2
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.4|Kenzaburo Oe|9780300371|1881|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.4|Kobo Abe|9780300372|1882|Buna|21|15|15|E1
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.4|Soseki Natsume|9780300373|1883|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.4|Samuel Beckett|9780300374|1884|Uzata|21|17|17|E3
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.4|James Joyce|9780300375|1885|Noua|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 376|Oscar Wilde|9780300376|1886|Buna|30|19|19|F2
+CarteFizica|STIINTA|Studii Stiintifice 377|Bernard Shaw|9780300377|1887|Buna|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 378|Dylan Thomas|9780300378|1888|Buna|30|3|3|G1
+CarteFizica|REVISTA|Revista Academica Nr.379|Graham Greene|9780300379|1889|Uzata|7|4|4|G2
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.4|Evelyn Waugh|9780300380|1890|Noua|21|5|5|G3
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.4|George Bernard Shaw|9780300381|1891|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.4|H.G. Wells|9780300382|1892|Buna|21|7|7|H2
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.4|Arthur Conan Doyle|9780300383|1893|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.4|Bram Stoker|9780300384|1894|Uzata|21|9|9|A1
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.4|Mary Shelley|9780300385|1895|Noua|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 386|Jonathan Swift|9780300386|1896|Buna|30|11|11|A3
+CarteFizica|STIINTA|Studii Stiintifice 387|Daniel Defoe|9780300387|1897|Buna|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 388|Henry Fielding|9780300388|1898|Buna|30|13|13|B2
+CarteFizica|REVISTA|Revista Academica Nr.389|Laurence Sterne|9780300389|1899|Uzata|7|14|14|B3
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.4|Samuel Richardson|9780300390|1900|Noua|21|15|15|C1
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.4|William Thackeray|9780300391|1901|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.4|Anthony Trollope|9780300392|1902|Buna|21|17|17|C3
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.4|George Meredith|9780300393|1903|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.4|Thomas Hardy|9780300394|1904|Uzata|21|19|19|D2
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.4|Joseph Conrad|9780300395|1905|Noua|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 396|D.H. Lawrence|9780300396|1906|Buna|30|3|3|E1
+CarteFizica|STIINTA|Studii Stiintifice 397|Virginia Woolf|9780300397|1907|Buna|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 398|E.M. Forster|9780300398|1908|Buna|30|5|5|E3
+CarteFizica|REVISTA|Revista Academica Nr.399|Aldous Huxley|9780300399|1909|Uzata|7|6|6|F1
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.5|Victor Hugo|9780300400|1910|Noua|21|7|7|F2
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.5|Charles Dickens|9780300401|1911|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.5|Leo Tolstoy|9780300402|1912|Buna|21|9|9|G1
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.5|F. Dostoevsky|9780300403|1913|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.5|Franz Kafka|9780300404|1914|Uzata|21|11|11|G3
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.5|Albert Camus|9780300405|1915|Noua|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 406|Ernest Hemingway|9780300406|1916|Buna|30|13|13|H2
+CarteFizica|STIINTA|Studii Stiintifice 407|F.S. Fitzgerald|9780300407|1917|Buna|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 408|John Steinbeck|9780300408|1918|Buna|30|15|15|A1
+CarteFizica|REVISTA|Revista Academica Nr.409|Aldous Huxley|9780300409|1919|Uzata|7|16|16|A2
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.5|George Orwell|9780300410|1920|Noua|21|17|17|A3
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.5|Ray Bradbury|9780300411|1921|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.5|Kurt Vonnegut|9780300412|1922|Buna|21|19|19|B2
+CarteFizica|FICTIUNE|Jack London - Opere Vol.5|Jack London|9780300413|1923|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.5|Mark Twain|9780300414|1924|Uzata|21|3|3|C1
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.5|Oscar Wilde|9780300415|1925|Noua|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 416|Thomas Hardy|9780300416|1926|Buna|30|5|5|C3
+CarteFizica|STIINTA|Studii Stiintifice 417|Jane Austen|9780300417|1927|Buna|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 418|Emily Bronte|9780300418|1928|Buna|30|7|7|D2
+CarteFizica|REVISTA|Revista Academica Nr.419|Charlotte Bronte|9780300419|1929|Uzata|7|8|8|D3
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.5|Thomas Mann|9780300420|1930|Noua|21|9|9|E1
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.5|Hermann Hesse|9780300421|1931|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.5|Stefan Zweig|9780300422|1932|Buna|21|11|11|E3
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.5|Gunter Grass|9780300423|1933|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.5|Boris Pasternak|9780300424|1934|Uzata|21|13|13|F2
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.5|Ivan Turgenev|9780300425|1935|Noua|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 426|Anton Chekhov|9780300426|1936|Buna|30|15|15|G1
+CarteFizica|STIINTA|Studii Stiintifice 427|Maxim Gorky|9780300427|1937|Buna|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 428|Gustave Flaubert|9780300428|1938|Buna|30|17|17|G3
+CarteFizica|REVISTA|Revista Academica Nr.429|Emile Zola|9780300429|1939|Uzata|7|18|18|H1
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.5|Marcel Proust|9780300430|1940|Noua|21|19|19|H2
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.5|Honore de Balzac|9780300431|1941|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.5|Stendhal|9780300432|1942|Buna|21|3|3|A1
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.5|Alexandre Dumas|9780300433|1943|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.5|Guy de Maupassant|9780300434|1944|Uzata|21|5|5|A3
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.5|Antoine de Saint-Exupery|9780300435|1945|Noua|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 436|Jorge Luis Borges|9780300436|1946|Buna|30|7|7|B2
+CarteFizica|STIINTA|Studii Stiintifice 437|Mario Vargas Llosa|9780300437|1947|Buna|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 438|Isabel Allende|9780300438|1948|Buna|30|9|9|C1
+CarteFizica|REVISTA|Revista Academica Nr.439|Naguib Mahfouz|9780300439|1949|Uzata|7|10|10|C2
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.5|Orhan Pamuk|9780300440|1950|Noua|21|11|11|C3
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.5|Haruki Murakami|9780300441|1951|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.5|Yasunari Kawabata|9780300442|1952|Buna|21|13|13|D2
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.5|Yukio Mishima|9780300443|1953|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.5|Chinua Achebe|9780300444|1954|Uzata|21|15|15|E1
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.5|J.M. Coetzee|9780300445|1955|Noua|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 446|Toni Morrison|9780300446|1956|Buna|30|17|17|E3
+CarteFizica|STIINTA|Studii Stiintifice 447|Maya Angelou|9780300447|1957|Buna|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 448|William Faulkner|9780300448|1958|Buna|30|19|19|F2
+CarteFizica|REVISTA|Revista Academica Nr.449|Truman Capote|9780300449|1959|Uzata|7|20|20|F3
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.5|Umberto Eco|9780300450|1960|Noua|21|3|3|G1
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.5|Italo Calvino|9780300451|1961|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.5|Primo Levi|9780300452|1962|Buna|21|5|5|G3
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.5|Vladimir Nabokov|9780300453|1963|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.5|Alexander Pushkin|9780300454|1964|Uzata|21|7|7|H2
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.5|Nikolai Gogol|9780300455|1965|Noua|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 456|Milan Kundera|9780300456|1966|Buna|30|9|9|A1
+CarteFizica|STIINTA|Studii Stiintifice 457|Patrick Modiano|9780300457|1967|Buna|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 458|Michel Houellebecq|9780300458|1968|Buna|30|11|11|A3
+CarteFizica|REVISTA|Revista Academica Nr.459|Marguerite Duras|9780300459|1969|Uzata|7|12|12|B1
+CarteFizica|FICTIUNE|Colette - Opere Vol.5|Colette|9780300460|1970|Noua|21|13|13|B2
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.5|Romain Rolland|9780300461|1971|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.5|Andre Gide|9780300462|1972|Buna|21|15|15|C1
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.5|Simone de Beauvoir|9780300463|1973|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.5|Federico Garcia Lorca|9780300464|1974|Uzata|21|17|17|C3
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.5|Pablo Neruda|9780300465|1975|Noua|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 466|Carlos Fuentes|9780300466|1976|Buna|30|19|19|D2
+CarteFizica|STIINTA|Studii Stiintifice 467|Julio Cortazar|9780300467|1977|Buna|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 468|Roberto Bolano|9780300468|1978|Buna|30|3|3|E1
+CarteFizica|REVISTA|Revista Academica Nr.469|Khalil Gibran|9780300469|1979|Uzata|7|4|4|E2
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.5|Amos Oz|9780300470|1980|Noua|21|5|5|E3
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.5|Kenzaburo Oe|9780300471|1981|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.5|Kobo Abe|9780300472|1982|Buna|21|7|7|F2
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.5|Soseki Natsume|9780300473|1983|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.5|Samuel Beckett|9780300474|1984|Uzata|21|9|9|G1
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.5|James Joyce|9780300475|1985|Noua|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 476|Oscar Wilde|9780300476|1986|Buna|30|11|11|G3
+CarteFizica|STIINTA|Studii Stiintifice 477|Bernard Shaw|9780300477|1987|Buna|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 478|Dylan Thomas|9780300478|1988|Buna|30|13|13|H2
+CarteFizica|REVISTA|Revista Academica Nr.479|Graham Greene|9780300479|1989|Uzata|7|14|14|H3
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.5|Evelyn Waugh|9780300480|1990|Noua|21|15|15|A1
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.5|George Bernard Shaw|9780300481|1991|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.5|H.G. Wells|9780300482|1992|Buna|21|17|17|A3
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.5|Arthur Conan Doyle|9780300483|1993|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.5|Bram Stoker|9780300484|1994|Uzata|21|19|19|B2
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.5|Mary Shelley|9780300485|1995|Noua|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 486|Jonathan Swift|9780300486|1996|Buna|30|3|3|C1
+CarteFizica|STIINTA|Studii Stiintifice 487|Daniel Defoe|9780300487|1997|Buna|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 488|Henry Fielding|9780300488|1998|Buna|30|5|5|C3
+CarteFizica|REVISTA|Revista Academica Nr.489|Laurence Sterne|9780300489|1999|Uzata|7|6|6|D1
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.5|Samuel Richardson|9780300490|2000|Noua|21|7|7|D2
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.5|William Thackeray|9780300491|2001|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.5|Anthony Trollope|9780300492|2002|Buna|21|9|9|E1
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.5|George Meredith|9780300493|2003|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.5|Thomas Hardy|9780300494|2004|Uzata|21|11|11|E3
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.5|Joseph Conrad|9780300495|2005|Noua|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 496|D.H. Lawrence|9780300496|2006|Buna|30|13|13|F2
+CarteFizica|STIINTA|Studii Stiintifice 497|Virginia Woolf|9780300497|2007|Buna|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 498|E.M. Forster|9780300498|2008|Buna|30|15|15|G1
+CarteFizica|REVISTA|Revista Academica Nr.499|Aldous Huxley|9780300499|2009|Uzata|7|16|16|G2
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.6|Victor Hugo|9780300500|2010|Noua|21|17|17|G3
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.6|Charles Dickens|9780300501|2011|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.6|Leo Tolstoy|9780300502|2012|Buna|21|19|19|H2
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.6|F. Dostoevsky|9780300503|2013|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.6|Franz Kafka|9780300504|2014|Uzata|21|3|3|A1
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.6|Albert Camus|9780300505|2015|Noua|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 506|Ernest Hemingway|9780300506|2016|Buna|30|5|5|A3
+CarteFizica|STIINTA|Studii Stiintifice 507|F.S. Fitzgerald|9780300507|2017|Buna|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 508|John Steinbeck|9780300508|2018|Buna|30|7|7|B2
+CarteFizica|REVISTA|Revista Academica Nr.509|Aldous Huxley|9780300509|2019|Uzata|7|8|8|B3
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.6|George Orwell|9780300510|1850|Noua|21|9|9|C1
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.6|Ray Bradbury|9780300511|1851|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.6|Kurt Vonnegut|9780300512|1852|Buna|21|11|11|C3
+CarteFizica|FICTIUNE|Jack London - Opere Vol.6|Jack London|9780300513|1853|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.6|Mark Twain|9780300514|1854|Uzata|21|13|13|D2
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.6|Oscar Wilde|9780300515|1855|Noua|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 516|Thomas Hardy|9780300516|1856|Buna|30|15|15|E1
+CarteFizica|STIINTA|Studii Stiintifice 517|Jane Austen|9780300517|1857|Buna|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 518|Emily Bronte|9780300518|1858|Buna|30|17|17|E3
+CarteFizica|REVISTA|Revista Academica Nr.519|Charlotte Bronte|9780300519|1859|Uzata|7|18|18|F1
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.6|Thomas Mann|9780300520|1860|Noua|21|19|19|F2
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.6|Hermann Hesse|9780300521|1861|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.6|Stefan Zweig|9780300522|1862|Buna|21|3|3|G1
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.6|Gunter Grass|9780300523|1863|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.6|Boris Pasternak|9780300524|1864|Uzata|21|5|5|G3
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.6|Ivan Turgenev|9780300525|1865|Noua|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 526|Anton Chekhov|9780300526|1866|Buna|30|7|7|H2
+CarteFizica|STIINTA|Studii Stiintifice 527|Maxim Gorky|9780300527|1867|Buna|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 528|Gustave Flaubert|9780300528|1868|Buna|30|9|9|A1
+CarteFizica|REVISTA|Revista Academica Nr.529|Emile Zola|9780300529|1869|Uzata|7|10|10|A2
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.6|Marcel Proust|9780300530|1870|Noua|21|11|11|A3
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.6|Honore de Balzac|9780300531|1871|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.6|Stendhal|9780300532|1872|Buna|21|13|13|B2
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.6|Alexandre Dumas|9780300533|1873|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.6|Guy de Maupassant|9780300534|1874|Uzata|21|15|15|C1
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.6|Antoine de Saint-Exupery|9780300535|1875|Noua|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 536|Jorge Luis Borges|9780300536|1876|Buna|30|17|17|C3
+CarteFizica|STIINTA|Studii Stiintifice 537|Mario Vargas Llosa|9780300537|1877|Buna|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 538|Isabel Allende|9780300538|1878|Buna|30|19|19|D2
+CarteFizica|REVISTA|Revista Academica Nr.539|Naguib Mahfouz|9780300539|1879|Uzata|7|20|20|D3
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.6|Orhan Pamuk|9780300540|1880|Noua|21|3|3|E1
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.6|Haruki Murakami|9780300541|1881|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.6|Yasunari Kawabata|9780300542|1882|Buna|21|5|5|E3
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.6|Yukio Mishima|9780300543|1883|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.6|Chinua Achebe|9780300544|1884|Uzata|21|7|7|F2
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.6|J.M. Coetzee|9780300545|1885|Noua|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 546|Toni Morrison|9780300546|1886|Buna|30|9|9|G1
+CarteFizica|STIINTA|Studii Stiintifice 547|Maya Angelou|9780300547|1887|Buna|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 548|William Faulkner|9780300548|1888|Buna|30|11|11|G3
+CarteFizica|REVISTA|Revista Academica Nr.549|Truman Capote|9780300549|1889|Uzata|7|12|12|H1
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.6|Umberto Eco|9780300550|1890|Noua|21|13|13|H2
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.6|Italo Calvino|9780300551|1891|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.6|Primo Levi|9780300552|1892|Buna|21|15|15|A1
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.6|Vladimir Nabokov|9780300553|1893|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.6|Alexander Pushkin|9780300554|1894|Uzata|21|17|17|A3
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.6|Nikolai Gogol|9780300555|1895|Noua|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 556|Milan Kundera|9780300556|1896|Buna|30|19|19|B2
+CarteFizica|STIINTA|Studii Stiintifice 557|Patrick Modiano|9780300557|1897|Buna|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 558|Michel Houellebecq|9780300558|1898|Buna|30|3|3|C1
+CarteFizica|REVISTA|Revista Academica Nr.559|Marguerite Duras|9780300559|1899|Uzata|7|4|4|C2
+CarteFizica|FICTIUNE|Colette - Opere Vol.6|Colette|9780300560|1900|Noua|21|5|5|C3
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.6|Romain Rolland|9780300561|1901|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.6|Andre Gide|9780300562|1902|Buna|21|7|7|D2
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.6|Simone de Beauvoir|9780300563|1903|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.6|Federico Garcia Lorca|9780300564|1904|Uzata|21|9|9|E1
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.6|Pablo Neruda|9780300565|1905|Noua|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 566|Carlos Fuentes|9780300566|1906|Buna|30|11|11|E3
+CarteFizica|STIINTA|Studii Stiintifice 567|Julio Cortazar|9780300567|1907|Buna|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 568|Roberto Bolano|9780300568|1908|Buna|30|13|13|F2
+CarteFizica|REVISTA|Revista Academica Nr.569|Khalil Gibran|9780300569|1909|Uzata|7|14|14|F3
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.6|Amos Oz|9780300570|1910|Noua|21|15|15|G1
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.6|Kenzaburo Oe|9780300571|1911|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.6|Kobo Abe|9780300572|1912|Buna|21|17|17|G3
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.6|Soseki Natsume|9780300573|1913|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.6|Samuel Beckett|9780300574|1914|Uzata|21|19|19|H2
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.6|James Joyce|9780300575|1915|Noua|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 576|Oscar Wilde|9780300576|1916|Buna|30|3|3|A1
+CarteFizica|STIINTA|Studii Stiintifice 577|Bernard Shaw|9780300577|1917|Buna|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 578|Dylan Thomas|9780300578|1918|Buna|30|5|5|A3
+CarteFizica|REVISTA|Revista Academica Nr.579|Graham Greene|9780300579|1919|Uzata|7|6|6|B1
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.6|Evelyn Waugh|9780300580|1920|Noua|21|7|7|B2
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.6|George Bernard Shaw|9780300581|1921|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.6|H.G. Wells|9780300582|1922|Buna|21|9|9|C1
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.6|Arthur Conan Doyle|9780300583|1923|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.6|Bram Stoker|9780300584|1924|Uzata|21|11|11|C3
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.6|Mary Shelley|9780300585|1925|Noua|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 586|Jonathan Swift|9780300586|1926|Buna|30|13|13|D2
+CarteFizica|STIINTA|Studii Stiintifice 587|Daniel Defoe|9780300587|1927|Buna|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 588|Henry Fielding|9780300588|1928|Buna|30|15|15|E1
+CarteFizica|REVISTA|Revista Academica Nr.589|Laurence Sterne|9780300589|1929|Uzata|7|16|16|E2
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.6|Samuel Richardson|9780300590|1930|Noua|21|17|17|E3
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.6|William Thackeray|9780300591|1931|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.6|Anthony Trollope|9780300592|1932|Buna|21|19|19|F2
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.6|George Meredith|9780300593|1933|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.6|Thomas Hardy|9780300594|1934|Uzata|21|3|3|G1
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.6|Joseph Conrad|9780300595|1935|Noua|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 596|D.H. Lawrence|9780300596|1936|Buna|30|5|5|G3
+CarteFizica|STIINTA|Studii Stiintifice 597|Virginia Woolf|9780300597|1937|Buna|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 598|E.M. Forster|9780300598|1938|Buna|30|7|7|H2
+CarteFizica|REVISTA|Revista Academica Nr.599|Aldous Huxley|9780300599|1939|Uzata|7|8|8|H3
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.7|Victor Hugo|9780300600|1940|Noua|21|9|9|A1
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.7|Charles Dickens|9780300601|1941|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.7|Leo Tolstoy|9780300602|1942|Buna|21|11|11|A3
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.7|F. Dostoevsky|9780300603|1943|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.7|Franz Kafka|9780300604|1944|Uzata|21|13|13|B2
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.7|Albert Camus|9780300605|1945|Noua|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 606|Ernest Hemingway|9780300606|1946|Buna|30|15|15|C1
+CarteFizica|STIINTA|Studii Stiintifice 607|F.S. Fitzgerald|9780300607|1947|Buna|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 608|John Steinbeck|9780300608|1948|Buna|30|17|17|C3
+CarteFizica|REVISTA|Revista Academica Nr.609|Aldous Huxley|9780300609|1949|Uzata|7|18|18|D1
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.7|George Orwell|9780300610|1950|Noua|21|19|19|D2
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.7|Ray Bradbury|9780300611|1951|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.7|Kurt Vonnegut|9780300612|1952|Buna|21|3|3|E1
+CarteFizica|FICTIUNE|Jack London - Opere Vol.7|Jack London|9780300613|1953|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.7|Mark Twain|9780300614|1954|Uzata|21|5|5|E3
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.7|Oscar Wilde|9780300615|1955|Noua|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 616|Thomas Hardy|9780300616|1956|Buna|30|7|7|F2
+CarteFizica|STIINTA|Studii Stiintifice 617|Jane Austen|9780300617|1957|Buna|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 618|Emily Bronte|9780300618|1958|Buna|30|9|9|G1
+CarteFizica|REVISTA|Revista Academica Nr.619|Charlotte Bronte|9780300619|1959|Uzata|7|10|10|G2
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.7|Thomas Mann|9780300620|1960|Noua|21|11|11|G3
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.7|Hermann Hesse|9780300621|1961|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.7|Stefan Zweig|9780300622|1962|Buna|21|13|13|H2
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.7|Gunter Grass|9780300623|1963|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.7|Boris Pasternak|9780300624|1964|Uzata|21|15|15|A1
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.7|Ivan Turgenev|9780300625|1965|Noua|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 626|Anton Chekhov|9780300626|1966|Buna|30|17|17|A3
+CarteFizica|STIINTA|Studii Stiintifice 627|Maxim Gorky|9780300627|1967|Buna|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 628|Gustave Flaubert|9780300628|1968|Buna|30|19|19|B2
+CarteFizica|REVISTA|Revista Academica Nr.629|Emile Zola|9780300629|1969|Uzata|7|20|20|B3
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.7|Marcel Proust|9780300630|1970|Noua|21|3|3|C1
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.7|Honore de Balzac|9780300631|1971|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.7|Stendhal|9780300632|1972|Buna|21|5|5|C3
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.7|Alexandre Dumas|9780300633|1973|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.7|Guy de Maupassant|9780300634|1974|Uzata|21|7|7|D2
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.7|Antoine de Saint-Exupery|9780300635|1975|Noua|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 636|Jorge Luis Borges|9780300636|1976|Buna|30|9|9|E1
+CarteFizica|STIINTA|Studii Stiintifice 637|Mario Vargas Llosa|9780300637|1977|Buna|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 638|Isabel Allende|9780300638|1978|Buna|30|11|11|E3
+CarteFizica|REVISTA|Revista Academica Nr.639|Naguib Mahfouz|9780300639|1979|Uzata|7|12|12|F1
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.7|Orhan Pamuk|9780300640|1980|Noua|21|13|13|F2
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.7|Haruki Murakami|9780300641|1981|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.7|Yasunari Kawabata|9780300642|1982|Buna|21|15|15|G1
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.7|Yukio Mishima|9780300643|1983|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.7|Chinua Achebe|9780300644|1984|Uzata|21|17|17|G3
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.7|J.M. Coetzee|9780300645|1985|Noua|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 646|Toni Morrison|9780300646|1986|Buna|30|19|19|H2
+CarteFizica|STIINTA|Studii Stiintifice 647|Maya Angelou|9780300647|1987|Buna|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 648|William Faulkner|9780300648|1988|Buna|30|3|3|A1
+CarteFizica|REVISTA|Revista Academica Nr.649|Truman Capote|9780300649|1989|Uzata|7|4|4|A2
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.7|Umberto Eco|9780300650|1990|Noua|21|5|5|A3
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.7|Italo Calvino|9780300651|1991|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.7|Primo Levi|9780300652|1992|Buna|21|7|7|B2
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.7|Vladimir Nabokov|9780300653|1993|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.7|Alexander Pushkin|9780300654|1994|Uzata|21|9|9|C1
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.7|Nikolai Gogol|9780300655|1995|Noua|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 656|Milan Kundera|9780300656|1996|Buna|30|11|11|C3
+CarteFizica|STIINTA|Studii Stiintifice 657|Patrick Modiano|9780300657|1997|Buna|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 658|Michel Houellebecq|9780300658|1998|Buna|30|13|13|D2
+CarteFizica|REVISTA|Revista Academica Nr.659|Marguerite Duras|9780300659|1999|Uzata|7|14|14|D3
+CarteFizica|FICTIUNE|Colette - Opere Vol.7|Colette|9780300660|2000|Noua|21|15|15|E1
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.7|Romain Rolland|9780300661|2001|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.7|Andre Gide|9780300662|2002|Buna|21|17|17|E3
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.7|Simone de Beauvoir|9780300663|2003|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.7|Federico Garcia Lorca|9780300664|2004|Uzata|21|19|19|F2
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.7|Pablo Neruda|9780300665|2005|Noua|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 666|Carlos Fuentes|9780300666|2006|Buna|30|3|3|G1
+CarteFizica|STIINTA|Studii Stiintifice 667|Julio Cortazar|9780300667|2007|Buna|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 668|Roberto Bolano|9780300668|2008|Buna|30|5|5|G3
+CarteFizica|REVISTA|Revista Academica Nr.669|Khalil Gibran|9780300669|2009|Uzata|7|6|6|H1
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.7|Amos Oz|9780300670|2010|Noua|21|7|7|H2
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.7|Kenzaburo Oe|9780300671|2011|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.7|Kobo Abe|9780300672|2012|Buna|21|9|9|A1
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.7|Soseki Natsume|9780300673|2013|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.7|Samuel Beckett|9780300674|2014|Uzata|21|11|11|A3
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.7|James Joyce|9780300675|2015|Noua|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 676|Oscar Wilde|9780300676|2016|Buna|30|13|13|B2
+CarteFizica|STIINTA|Studii Stiintifice 677|Bernard Shaw|9780300677|2017|Buna|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 678|Dylan Thomas|9780300678|2018|Buna|30|15|15|C1
+CarteFizica|REVISTA|Revista Academica Nr.679|Graham Greene|9780300679|2019|Uzata|7|16|16|C2
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.7|Evelyn Waugh|9780300680|1850|Noua|21|17|17|C3
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.7|George Bernard Shaw|9780300681|1851|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.7|H.G. Wells|9780300682|1852|Buna|21|19|19|D2
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.7|Arthur Conan Doyle|9780300683|1853|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.7|Bram Stoker|9780300684|1854|Uzata|21|3|3|E1
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.7|Mary Shelley|9780300685|1855|Noua|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 686|Jonathan Swift|9780300686|1856|Buna|30|5|5|E3
+CarteFizica|STIINTA|Studii Stiintifice 687|Daniel Defoe|9780300687|1857|Buna|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 688|Henry Fielding|9780300688|1858|Buna|30|7|7|F2
+CarteFizica|REVISTA|Revista Academica Nr.689|Laurence Sterne|9780300689|1859|Uzata|7|8|8|F3
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.7|Samuel Richardson|9780300690|1860|Noua|21|9|9|G1
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.7|William Thackeray|9780300691|1861|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.7|Anthony Trollope|9780300692|1862|Buna|21|11|11|G3
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.7|George Meredith|9780300693|1863|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.7|Thomas Hardy|9780300694|1864|Uzata|21|13|13|H2
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.7|Joseph Conrad|9780300695|1865|Noua|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 696|D.H. Lawrence|9780300696|1866|Buna|30|15|15|A1
+CarteFizica|STIINTA|Studii Stiintifice 697|Virginia Woolf|9780300697|1867|Buna|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 698|E.M. Forster|9780300698|1868|Buna|30|17|17|A3
+CarteFizica|REVISTA|Revista Academica Nr.699|Aldous Huxley|9780300699|1869|Uzata|7|18|18|B1
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.8|Victor Hugo|9780300700|1870|Noua|21|19|19|B2
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.8|Charles Dickens|9780300701|1871|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.8|Leo Tolstoy|9780300702|1872|Buna|21|3|3|C1
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.8|F. Dostoevsky|9780300703|1873|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.8|Franz Kafka|9780300704|1874|Uzata|21|5|5|C3
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.8|Albert Camus|9780300705|1875|Noua|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 706|Ernest Hemingway|9780300706|1876|Buna|30|7|7|D2
+CarteFizica|STIINTA|Studii Stiintifice 707|F.S. Fitzgerald|9780300707|1877|Buna|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 708|John Steinbeck|9780300708|1878|Buna|30|9|9|E1
+CarteFizica|REVISTA|Revista Academica Nr.709|Aldous Huxley|9780300709|1879|Uzata|7|10|10|E2
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.8|George Orwell|9780300710|1880|Noua|21|11|11|E3
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.8|Ray Bradbury|9780300711|1881|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.8|Kurt Vonnegut|9780300712|1882|Buna|21|13|13|F2
+CarteFizica|FICTIUNE|Jack London - Opere Vol.8|Jack London|9780300713|1883|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.8|Mark Twain|9780300714|1884|Uzata|21|15|15|G1
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.8|Oscar Wilde|9780300715|1885|Noua|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 716|Thomas Hardy|9780300716|1886|Buna|30|17|17|G3
+CarteFizica|STIINTA|Studii Stiintifice 717|Jane Austen|9780300717|1887|Buna|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 718|Emily Bronte|9780300718|1888|Buna|30|19|19|H2
+CarteFizica|REVISTA|Revista Academica Nr.719|Charlotte Bronte|9780300719|1889|Uzata|7|20|20|H3
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.8|Thomas Mann|9780300720|1890|Noua|21|3|3|A1
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.8|Hermann Hesse|9780300721|1891|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.8|Stefan Zweig|9780300722|1892|Buna|21|5|5|A3
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.8|Gunter Grass|9780300723|1893|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.8|Boris Pasternak|9780300724|1894|Uzata|21|7|7|B2
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.8|Ivan Turgenev|9780300725|1895|Noua|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 726|Anton Chekhov|9780300726|1896|Buna|30|9|9|C1
+CarteFizica|STIINTA|Studii Stiintifice 727|Maxim Gorky|9780300727|1897|Buna|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 728|Gustave Flaubert|9780300728|1898|Buna|30|11|11|C3
+CarteFizica|REVISTA|Revista Academica Nr.729|Emile Zola|9780300729|1899|Uzata|7|12|12|D1
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.8|Marcel Proust|9780300730|1900|Noua|21|13|13|D2
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.8|Honore de Balzac|9780300731|1901|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.8|Stendhal|9780300732|1902|Buna|21|15|15|E1
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.8|Alexandre Dumas|9780300733|1903|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.8|Guy de Maupassant|9780300734|1904|Uzata|21|17|17|E3
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.8|Antoine de Saint-Exupery|9780300735|1905|Noua|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 736|Jorge Luis Borges|9780300736|1906|Buna|30|19|19|F2
+CarteFizica|STIINTA|Studii Stiintifice 737|Mario Vargas Llosa|9780300737|1907|Buna|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 738|Isabel Allende|9780300738|1908|Buna|30|3|3|G1
+CarteFizica|REVISTA|Revista Academica Nr.739|Naguib Mahfouz|9780300739|1909|Uzata|7|4|4|G2
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.8|Orhan Pamuk|9780300740|1910|Noua|21|5|5|G3
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.8|Haruki Murakami|9780300741|1911|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.8|Yasunari Kawabata|9780300742|1912|Buna|21|7|7|H2
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.8|Yukio Mishima|9780300743|1913|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.8|Chinua Achebe|9780300744|1914|Uzata|21|9|9|A1
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.8|J.M. Coetzee|9780300745|1915|Noua|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 746|Toni Morrison|9780300746|1916|Buna|30|11|11|A3
+CarteFizica|STIINTA|Studii Stiintifice 747|Maya Angelou|9780300747|1917|Buna|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 748|William Faulkner|9780300748|1918|Buna|30|13|13|B2
+CarteFizica|REVISTA|Revista Academica Nr.749|Truman Capote|9780300749|1919|Uzata|7|14|14|B3
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.8|Umberto Eco|9780300750|1920|Noua|21|15|15|C1
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.8|Italo Calvino|9780300751|1921|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.8|Primo Levi|9780300752|1922|Buna|21|17|17|C3
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.8|Vladimir Nabokov|9780300753|1923|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.8|Alexander Pushkin|9780300754|1924|Uzata|21|19|19|D2
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.8|Nikolai Gogol|9780300755|1925|Noua|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 756|Milan Kundera|9780300756|1926|Buna|30|3|3|E1
+CarteFizica|STIINTA|Studii Stiintifice 757|Patrick Modiano|9780300757|1927|Buna|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 758|Michel Houellebecq|9780300758|1928|Buna|30|5|5|E3
+CarteFizica|REVISTA|Revista Academica Nr.759|Marguerite Duras|9780300759|1929|Uzata|7|6|6|F1
+CarteFizica|FICTIUNE|Colette - Opere Vol.8|Colette|9780300760|1930|Noua|21|7|7|F2
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.8|Romain Rolland|9780300761|1931|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.8|Andre Gide|9780300762|1932|Buna|21|9|9|G1
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.8|Simone de Beauvoir|9780300763|1933|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.8|Federico Garcia Lorca|9780300764|1934|Uzata|21|11|11|G3
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.8|Pablo Neruda|9780300765|1935|Noua|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 766|Carlos Fuentes|9780300766|1936|Buna|30|13|13|H2
+CarteFizica|STIINTA|Studii Stiintifice 767|Julio Cortazar|9780300767|1937|Buna|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 768|Roberto Bolano|9780300768|1938|Buna|30|15|15|A1
+CarteFizica|REVISTA|Revista Academica Nr.769|Khalil Gibran|9780300769|1939|Uzata|7|16|16|A2
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.8|Amos Oz|9780300770|1940|Noua|21|17|17|A3
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.8|Kenzaburo Oe|9780300771|1941|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.8|Kobo Abe|9780300772|1942|Buna|21|19|19|B2
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.8|Soseki Natsume|9780300773|1943|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.8|Samuel Beckett|9780300774|1944|Uzata|21|3|3|C1
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.8|James Joyce|9780300775|1945|Noua|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 776|Oscar Wilde|9780300776|1946|Buna|30|5|5|C3
+CarteFizica|STIINTA|Studii Stiintifice 777|Bernard Shaw|9780300777|1947|Buna|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 778|Dylan Thomas|9780300778|1948|Buna|30|7|7|D2
+CarteFizica|REVISTA|Revista Academica Nr.779|Graham Greene|9780300779|1949|Uzata|7|8|8|D3
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.8|Evelyn Waugh|9780300780|1950|Noua|21|9|9|E1
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.8|George Bernard Shaw|9780300781|1951|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.8|H.G. Wells|9780300782|1952|Buna|21|11|11|E3
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.8|Arthur Conan Doyle|9780300783|1953|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.8|Bram Stoker|9780300784|1954|Uzata|21|13|13|F2
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.8|Mary Shelley|9780300785|1955|Noua|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 786|Jonathan Swift|9780300786|1956|Buna|30|15|15|G1
+CarteFizica|STIINTA|Studii Stiintifice 787|Daniel Defoe|9780300787|1957|Buna|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 788|Henry Fielding|9780300788|1958|Buna|30|17|17|G3
+CarteFizica|REVISTA|Revista Academica Nr.789|Laurence Sterne|9780300789|1959|Uzata|7|18|18|H1
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.8|Samuel Richardson|9780300790|1960|Noua|21|19|19|H2
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.8|William Thackeray|9780300791|1961|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.8|Anthony Trollope|9780300792|1962|Buna|21|3|3|A1
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.8|George Meredith|9780300793|1963|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.8|Thomas Hardy|9780300794|1964|Uzata|21|5|5|A3
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.8|Joseph Conrad|9780300795|1965|Noua|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 796|D.H. Lawrence|9780300796|1966|Buna|30|7|7|B2
+CarteFizica|STIINTA|Studii Stiintifice 797|Virginia Woolf|9780300797|1967|Buna|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 798|E.M. Forster|9780300798|1968|Buna|30|9|9|C1
+CarteFizica|REVISTA|Revista Academica Nr.799|Aldous Huxley|9780300799|1969|Uzata|7|10|10|C2
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.9|Victor Hugo|9780300800|1970|Noua|21|11|11|C3
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.9|Charles Dickens|9780300801|1971|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.9|Leo Tolstoy|9780300802|1972|Buna|21|13|13|D2
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.9|F. Dostoevsky|9780300803|1973|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.9|Franz Kafka|9780300804|1974|Uzata|21|15|15|E1
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.9|Albert Camus|9780300805|1975|Noua|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 806|Ernest Hemingway|9780300806|1976|Buna|30|17|17|E3
+CarteFizica|STIINTA|Studii Stiintifice 807|F.S. Fitzgerald|9780300807|1977|Buna|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 808|John Steinbeck|9780300808|1978|Buna|30|19|19|F2
+CarteFizica|REVISTA|Revista Academica Nr.809|Aldous Huxley|9780300809|1979|Uzata|7|20|20|F3
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.9|George Orwell|9780300810|1980|Noua|21|3|3|G1
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.9|Ray Bradbury|9780300811|1981|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.9|Kurt Vonnegut|9780300812|1982|Buna|21|5|5|G3
+CarteFizica|FICTIUNE|Jack London - Opere Vol.9|Jack London|9780300813|1983|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.9|Mark Twain|9780300814|1984|Uzata|21|7|7|H2
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.9|Oscar Wilde|9780300815|1985|Noua|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 816|Thomas Hardy|9780300816|1986|Buna|30|9|9|A1
+CarteFizica|STIINTA|Studii Stiintifice 817|Jane Austen|9780300817|1987|Buna|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 818|Emily Bronte|9780300818|1988|Buna|30|11|11|A3
+CarteFizica|REVISTA|Revista Academica Nr.819|Charlotte Bronte|9780300819|1989|Uzata|7|12|12|B1
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.9|Thomas Mann|9780300820|1990|Noua|21|13|13|B2
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.9|Hermann Hesse|9780300821|1991|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.9|Stefan Zweig|9780300822|1992|Buna|21|15|15|C1
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.9|Gunter Grass|9780300823|1993|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.9|Boris Pasternak|9780300824|1994|Uzata|21|17|17|C3
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.9|Ivan Turgenev|9780300825|1995|Noua|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 826|Anton Chekhov|9780300826|1996|Buna|30|19|19|D2
+CarteFizica|STIINTA|Studii Stiintifice 827|Maxim Gorky|9780300827|1997|Buna|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 828|Gustave Flaubert|9780300828|1998|Buna|30|3|3|E1
+CarteFizica|REVISTA|Revista Academica Nr.829|Emile Zola|9780300829|1999|Uzata|7|4|4|E2
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.9|Marcel Proust|9780300830|2000|Noua|21|5|5|E3
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.9|Honore de Balzac|9780300831|2001|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.9|Stendhal|9780300832|2002|Buna|21|7|7|F2
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.9|Alexandre Dumas|9780300833|2003|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.9|Guy de Maupassant|9780300834|2004|Uzata|21|9|9|G1
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.9|Antoine de Saint-Exupery|9780300835|2005|Noua|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 836|Jorge Luis Borges|9780300836|2006|Buna|30|11|11|G3
+CarteFizica|STIINTA|Studii Stiintifice 837|Mario Vargas Llosa|9780300837|2007|Buna|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 838|Isabel Allende|9780300838|2008|Buna|30|13|13|H2
+CarteFizica|REVISTA|Revista Academica Nr.839|Naguib Mahfouz|9780300839|2009|Uzata|7|14|14|H3
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.9|Orhan Pamuk|9780300840|2010|Noua|21|15|15|A1
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.9|Haruki Murakami|9780300841|2011|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.9|Yasunari Kawabata|9780300842|2012|Buna|21|17|17|A3
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.9|Yukio Mishima|9780300843|2013|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.9|Chinua Achebe|9780300844|2014|Uzata|21|19|19|B2
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.9|J.M. Coetzee|9780300845|2015|Noua|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 846|Toni Morrison|9780300846|2016|Buna|30|3|3|C1
+CarteFizica|STIINTA|Studii Stiintifice 847|Maya Angelou|9780300847|2017|Buna|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 848|William Faulkner|9780300848|2018|Buna|30|5|5|C3
+CarteFizica|REVISTA|Revista Academica Nr.849|Truman Capote|9780300849|2019|Uzata|7|6|6|D1
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.9|Umberto Eco|9780300850|1850|Noua|21|7|7|D2
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.9|Italo Calvino|9780300851|1851|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.9|Primo Levi|9780300852|1852|Buna|21|9|9|E1
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.9|Vladimir Nabokov|9780300853|1853|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.9|Alexander Pushkin|9780300854|1854|Uzata|21|11|11|E3
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.9|Nikolai Gogol|9780300855|1855|Noua|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 856|Milan Kundera|9780300856|1856|Buna|30|13|13|F2
+CarteFizica|STIINTA|Studii Stiintifice 857|Patrick Modiano|9780300857|1857|Buna|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 858|Michel Houellebecq|9780300858|1858|Buna|30|15|15|G1
+CarteFizica|REVISTA|Revista Academica Nr.859|Marguerite Duras|9780300859|1859|Uzata|7|16|16|G2
+CarteFizica|FICTIUNE|Colette - Opere Vol.9|Colette|9780300860|1860|Noua|21|17|17|G3
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.9|Romain Rolland|9780300861|1861|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.9|Andre Gide|9780300862|1862|Buna|21|19|19|H2
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.9|Simone de Beauvoir|9780300863|1863|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.9|Federico Garcia Lorca|9780300864|1864|Uzata|21|3|3|A1
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.9|Pablo Neruda|9780300865|1865|Noua|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 866|Carlos Fuentes|9780300866|1866|Buna|30|5|5|A3
+CarteFizica|STIINTA|Studii Stiintifice 867|Julio Cortazar|9780300867|1867|Buna|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 868|Roberto Bolano|9780300868|1868|Buna|30|7|7|B2
+CarteFizica|REVISTA|Revista Academica Nr.869|Khalil Gibran|9780300869|1869|Uzata|7|8|8|B3
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.9|Amos Oz|9780300870|1870|Noua|21|9|9|C1
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.9|Kenzaburo Oe|9780300871|1871|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.9|Kobo Abe|9780300872|1872|Buna|21|11|11|C3
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.9|Soseki Natsume|9780300873|1873|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.9|Samuel Beckett|9780300874|1874|Uzata|21|13|13|D2
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.9|James Joyce|9780300875|1875|Noua|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 876|Oscar Wilde|9780300876|1876|Buna|30|15|15|E1
+CarteFizica|STIINTA|Studii Stiintifice 877|Bernard Shaw|9780300877|1877|Buna|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 878|Dylan Thomas|9780300878|1878|Buna|30|17|17|E3
+CarteFizica|REVISTA|Revista Academica Nr.879|Graham Greene|9780300879|1879|Uzata|7|18|18|F1
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.9|Evelyn Waugh|9780300880|1880|Noua|21|19|19|F2
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.9|George Bernard Shaw|9780300881|1881|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.9|H.G. Wells|9780300882|1882|Buna|21|3|3|G1
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.9|Arthur Conan Doyle|9780300883|1883|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.9|Bram Stoker|9780300884|1884|Uzata|21|5|5|G3
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.9|Mary Shelley|9780300885|1885|Noua|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 886|Jonathan Swift|9780300886|1886|Buna|30|7|7|H2
+CarteFizica|STIINTA|Studii Stiintifice 887|Daniel Defoe|9780300887|1887|Buna|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 888|Henry Fielding|9780300888|1888|Buna|30|9|9|A1
+CarteFizica|REVISTA|Revista Academica Nr.889|Laurence Sterne|9780300889|1889|Uzata|7|10|10|A2
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.9|Samuel Richardson|9780300890|1890|Noua|21|11|11|A3
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.9|William Thackeray|9780300891|1891|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.9|Anthony Trollope|9780300892|1892|Buna|21|13|13|B2
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.9|George Meredith|9780300893|1893|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.9|Thomas Hardy|9780300894|1894|Uzata|21|15|15|C1
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.9|Joseph Conrad|9780300895|1895|Noua|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 896|D.H. Lawrence|9780300896|1896|Buna|30|17|17|C3
+CarteFizica|STIINTA|Studii Stiintifice 897|Virginia Woolf|9780300897|1897|Buna|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 898|E.M. Forster|9780300898|1898|Buna|30|19|19|D2
+CarteFizica|REVISTA|Revista Academica Nr.899|Aldous Huxley|9780300899|1899|Uzata|7|20|20|D3
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.10|Victor Hugo|9780300900|1900|Noua|21|3|3|E1
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.10|Charles Dickens|9780300901|1901|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.10|Leo Tolstoy|9780300902|1902|Buna|21|5|5|E3
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.10|F. Dostoevsky|9780300903|1903|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.10|Franz Kafka|9780300904|1904|Uzata|21|7|7|F2
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.10|Albert Camus|9780300905|1905|Noua|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 906|Ernest Hemingway|9780300906|1906|Buna|30|9|9|G1
+CarteFizica|STIINTA|Studii Stiintifice 907|F.S. Fitzgerald|9780300907|1907|Buna|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 908|John Steinbeck|9780300908|1908|Buna|30|11|11|G3
+CarteFizica|REVISTA|Revista Academica Nr.909|Aldous Huxley|9780300909|1909|Uzata|7|12|12|H1
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.10|George Orwell|9780300910|1910|Noua|21|13|13|H2
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.10|Ray Bradbury|9780300911|1911|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.10|Kurt Vonnegut|9780300912|1912|Buna|21|15|15|A1
+CarteFizica|FICTIUNE|Jack London - Opere Vol.10|Jack London|9780300913|1913|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.10|Mark Twain|9780300914|1914|Uzata|21|17|17|A3
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.10|Oscar Wilde|9780300915|1915|Noua|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 916|Thomas Hardy|9780300916|1916|Buna|30|19|19|B2
+CarteFizica|STIINTA|Studii Stiintifice 917|Jane Austen|9780300917|1917|Buna|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 918|Emily Bronte|9780300918|1918|Buna|30|3|3|C1
+CarteFizica|REVISTA|Revista Academica Nr.919|Charlotte Bronte|9780300919|1919|Uzata|7|4|4|C2
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.10|Thomas Mann|9780300920|1920|Noua|21|5|5|C3
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.10|Hermann Hesse|9780300921|1921|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.10|Stefan Zweig|9780300922|1922|Buna|21|7|7|D2
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.10|Gunter Grass|9780300923|1923|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.10|Boris Pasternak|9780300924|1924|Uzata|21|9|9|E1
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.10|Ivan Turgenev|9780300925|1925|Noua|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 926|Anton Chekhov|9780300926|1926|Buna|30|11|11|E3
+CarteFizica|STIINTA|Studii Stiintifice 927|Maxim Gorky|9780300927|1927|Buna|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 928|Gustave Flaubert|9780300928|1928|Buna|30|13|13|F2
+CarteFizica|REVISTA|Revista Academica Nr.929|Emile Zola|9780300929|1929|Uzata|7|14|14|F3
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.10|Marcel Proust|9780300930|1930|Noua|21|15|15|G1
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.10|Honore de Balzac|9780300931|1931|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.10|Stendhal|9780300932|1932|Buna|21|17|17|G3
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.10|Alexandre Dumas|9780300933|1933|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.10|Guy de Maupassant|9780300934|1934|Uzata|21|19|19|H2
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.10|Antoine de Saint-Exupery|9780300935|1935|Noua|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 936|Jorge Luis Borges|9780300936|1936|Buna|30|3|3|A1
+CarteFizica|STIINTA|Studii Stiintifice 937|Mario Vargas Llosa|9780300937|1937|Buna|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 938|Isabel Allende|9780300938|1938|Buna|30|5|5|A3
+CarteFizica|REVISTA|Revista Academica Nr.939|Naguib Mahfouz|9780300939|1939|Uzata|7|6|6|B1
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.10|Orhan Pamuk|9780300940|1940|Noua|21|7|7|B2
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.10|Haruki Murakami|9780300941|1941|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.10|Yasunari Kawabata|9780300942|1942|Buna|21|9|9|C1
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.10|Yukio Mishima|9780300943|1943|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.10|Chinua Achebe|9780300944|1944|Uzata|21|11|11|C3
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.10|J.M. Coetzee|9780300945|1945|Noua|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 946|Toni Morrison|9780300946|1946|Buna|30|13|13|D2
+CarteFizica|STIINTA|Studii Stiintifice 947|Maya Angelou|9780300947|1947|Buna|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 948|William Faulkner|9780300948|1948|Buna|30|15|15|E1
+CarteFizica|REVISTA|Revista Academica Nr.949|Truman Capote|9780300949|1949|Uzata|7|16|16|E2
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.10|Umberto Eco|9780300950|1950|Noua|21|17|17|E3
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.10|Italo Calvino|9780300951|1951|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.10|Primo Levi|9780300952|1952|Buna|21|19|19|F2
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.10|Vladimir Nabokov|9780300953|1953|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.10|Alexander Pushkin|9780300954|1954|Uzata|21|3|3|G1
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.10|Nikolai Gogol|9780300955|1955|Noua|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 956|Milan Kundera|9780300956|1956|Buna|30|5|5|G3
+CarteFizica|STIINTA|Studii Stiintifice 957|Patrick Modiano|9780300957|1957|Buna|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 958|Michel Houellebecq|9780300958|1958|Buna|30|7|7|H2
+CarteFizica|REVISTA|Revista Academica Nr.959|Marguerite Duras|9780300959|1959|Uzata|7|8|8|H3
+CarteFizica|FICTIUNE|Colette - Opere Vol.10|Colette|9780300960|1960|Noua|21|9|9|A1
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.10|Romain Rolland|9780300961|1961|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.10|Andre Gide|9780300962|1962|Buna|21|11|11|A3
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.10|Simone de Beauvoir|9780300963|1963|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.10|Federico Garcia Lorca|9780300964|1964|Uzata|21|13|13|B2
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.10|Pablo Neruda|9780300965|1965|Noua|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 966|Carlos Fuentes|9780300966|1966|Buna|30|15|15|C1
+CarteFizica|STIINTA|Studii Stiintifice 967|Julio Cortazar|9780300967|1967|Buna|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 968|Roberto Bolano|9780300968|1968|Buna|30|17|17|C3
+CarteFizica|REVISTA|Revista Academica Nr.969|Khalil Gibran|9780300969|1969|Uzata|7|18|18|D1
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.10|Amos Oz|9780300970|1970|Noua|21|19|19|D2
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.10|Kenzaburo Oe|9780300971|1971|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.10|Kobo Abe|9780300972|1972|Buna|21|3|3|E1
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.10|Soseki Natsume|9780300973|1973|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.10|Samuel Beckett|9780300974|1974|Uzata|21|5|5|E3
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.10|James Joyce|9780300975|1975|Noua|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 976|Oscar Wilde|9780300976|1976|Buna|30|7|7|F2
+CarteFizica|STIINTA|Studii Stiintifice 977|Bernard Shaw|9780300977|1977|Buna|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 978|Dylan Thomas|9780300978|1978|Buna|30|9|9|G1
+CarteFizica|REVISTA|Revista Academica Nr.979|Graham Greene|9780300979|1979|Uzata|7|10|10|G2
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.10|Evelyn Waugh|9780300980|1980|Noua|21|11|11|G3
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.10|George Bernard Shaw|9780300981|1981|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.10|H.G. Wells|9780300982|1982|Buna|21|13|13|H2
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.10|Arthur Conan Doyle|9780300983|1983|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.10|Bram Stoker|9780300984|1984|Uzata|21|15|15|A1
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.10|Mary Shelley|9780300985|1985|Noua|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 986|Jonathan Swift|9780300986|1986|Buna|30|17|17|A3
+CarteFizica|STIINTA|Studii Stiintifice 987|Daniel Defoe|9780300987|1987|Buna|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 988|Henry Fielding|9780300988|1988|Buna|30|19|19|B2
+CarteFizica|REVISTA|Revista Academica Nr.989|Laurence Sterne|9780300989|1989|Uzata|7|20|20|B3
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.10|Samuel Richardson|9780300990|1990|Noua|21|3|3|C1
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.10|William Thackeray|9780300991|1991|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.10|Anthony Trollope|9780300992|1992|Buna|21|5|5|C3
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.10|George Meredith|9780300993|1993|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.10|Thomas Hardy|9780300994|1994|Uzata|21|7|7|D2
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.10|Joseph Conrad|9780300995|1995|Noua|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 996|D.H. Lawrence|9780300996|1996|Buna|30|9|9|E1
+CarteFizica|STIINTA|Studii Stiintifice 997|Virginia Woolf|9780300997|1997|Buna|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 998|E.M. Forster|9780300998|1998|Buna|30|11|11|E3
+CarteFizica|REVISTA|Revista Academica Nr.999|Aldous Huxley|9780300999|1999|Uzata|7|12|12|F1
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.11|Victor Hugo|9780301000|2000|Noua|21|13|13|F2
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.11|Charles Dickens|9780301001|2001|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.11|Leo Tolstoy|9780301002|2002|Buna|21|15|15|G1
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.11|F. Dostoevsky|9780301003|2003|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.11|Franz Kafka|9780301004|2004|Uzata|21|17|17|G3
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.11|Albert Camus|9780301005|2005|Noua|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 1006|Ernest Hemingway|9780301006|2006|Buna|30|19|19|H2
+CarteFizica|STIINTA|Studii Stiintifice 1007|F.S. Fitzgerald|9780301007|2007|Buna|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 1008|John Steinbeck|9780301008|2008|Buna|30|3|3|A1
+CarteFizica|REVISTA|Revista Academica Nr.1009|Aldous Huxley|9780301009|2009|Uzata|7|4|4|A2
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.11|George Orwell|9780301010|2010|Noua|21|5|5|A3
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.11|Ray Bradbury|9780301011|2011|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.11|Kurt Vonnegut|9780301012|2012|Buna|21|7|7|B2
+CarteFizica|FICTIUNE|Jack London - Opere Vol.11|Jack London|9780301013|2013|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.11|Mark Twain|9780301014|2014|Uzata|21|9|9|C1
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.11|Oscar Wilde|9780301015|2015|Noua|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 1016|Thomas Hardy|9780301016|2016|Buna|30|11|11|C3
+CarteFizica|STIINTA|Studii Stiintifice 1017|Jane Austen|9780301017|2017|Buna|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 1018|Emily Bronte|9780301018|2018|Buna|30|13|13|D2
+CarteFizica|REVISTA|Revista Academica Nr.1019|Charlotte Bronte|9780301019|2019|Uzata|7|14|14|D3
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.11|Thomas Mann|9780301020|1850|Noua|21|15|15|E1
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.11|Hermann Hesse|9780301021|1851|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.11|Stefan Zweig|9780301022|1852|Buna|21|17|17|E3
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.11|Gunter Grass|9780301023|1853|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.11|Boris Pasternak|9780301024|1854|Uzata|21|19|19|F2
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.11|Ivan Turgenev|9780301025|1855|Noua|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 1026|Anton Chekhov|9780301026|1856|Buna|30|3|3|G1
+CarteFizica|STIINTA|Studii Stiintifice 1027|Maxim Gorky|9780301027|1857|Buna|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 1028|Gustave Flaubert|9780301028|1858|Buna|30|5|5|G3
+CarteFizica|REVISTA|Revista Academica Nr.1029|Emile Zola|9780301029|1859|Uzata|7|6|6|H1
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.11|Marcel Proust|9780301030|1860|Noua|21|7|7|H2
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.11|Honore de Balzac|9780301031|1861|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.11|Stendhal|9780301032|1862|Buna|21|9|9|A1
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.11|Alexandre Dumas|9780301033|1863|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.11|Guy de Maupassant|9780301034|1864|Uzata|21|11|11|A3
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.11|Antoine de Saint-Exupery|9780301035|1865|Noua|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 1036|Jorge Luis Borges|9780301036|1866|Buna|30|13|13|B2
+CarteFizica|STIINTA|Studii Stiintifice 1037|Mario Vargas Llosa|9780301037|1867|Buna|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 1038|Isabel Allende|9780301038|1868|Buna|30|15|15|C1
+CarteFizica|REVISTA|Revista Academica Nr.1039|Naguib Mahfouz|9780301039|1869|Uzata|7|16|16|C2
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.11|Orhan Pamuk|9780301040|1870|Noua|21|17|17|C3
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.11|Haruki Murakami|9780301041|1871|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.11|Yasunari Kawabata|9780301042|1872|Buna|21|19|19|D2
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.11|Yukio Mishima|9780301043|1873|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.11|Chinua Achebe|9780301044|1874|Uzata|21|3|3|E1
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.11|J.M. Coetzee|9780301045|1875|Noua|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 1046|Toni Morrison|9780301046|1876|Buna|30|5|5|E3
+CarteFizica|STIINTA|Studii Stiintifice 1047|Maya Angelou|9780301047|1877|Buna|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 1048|William Faulkner|9780301048|1878|Buna|30|7|7|F2
+CarteFizica|REVISTA|Revista Academica Nr.1049|Truman Capote|9780301049|1879|Uzata|7|8|8|F3
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.11|Umberto Eco|9780301050|1880|Noua|21|9|9|G1
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.11|Italo Calvino|9780301051|1881|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.11|Primo Levi|9780301052|1882|Buna|21|11|11|G3
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.11|Vladimir Nabokov|9780301053|1883|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.11|Alexander Pushkin|9780301054|1884|Uzata|21|13|13|H2
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.11|Nikolai Gogol|9780301055|1885|Noua|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 1056|Milan Kundera|9780301056|1886|Buna|30|15|15|A1
+CarteFizica|STIINTA|Studii Stiintifice 1057|Patrick Modiano|9780301057|1887|Buna|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 1058|Michel Houellebecq|9780301058|1888|Buna|30|17|17|A3
+CarteFizica|REVISTA|Revista Academica Nr.1059|Marguerite Duras|9780301059|1889|Uzata|7|18|18|B1
+CarteFizica|FICTIUNE|Colette - Opere Vol.11|Colette|9780301060|1890|Noua|21|19|19|B2
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.11|Romain Rolland|9780301061|1891|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.11|Andre Gide|9780301062|1892|Buna|21|3|3|C1
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.11|Simone de Beauvoir|9780301063|1893|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.11|Federico Garcia Lorca|9780301064|1894|Uzata|21|5|5|C3
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.11|Pablo Neruda|9780301065|1895|Noua|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 1066|Carlos Fuentes|9780301066|1896|Buna|30|7|7|D2
+CarteFizica|STIINTA|Studii Stiintifice 1067|Julio Cortazar|9780301067|1897|Buna|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 1068|Roberto Bolano|9780301068|1898|Buna|30|9|9|E1
+CarteFizica|REVISTA|Revista Academica Nr.1069|Khalil Gibran|9780301069|1899|Uzata|7|10|10|E2
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.11|Amos Oz|9780301070|1900|Noua|21|11|11|E3
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.11|Kenzaburo Oe|9780301071|1901|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.11|Kobo Abe|9780301072|1902|Buna|21|13|13|F2
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.11|Soseki Natsume|9780301073|1903|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.11|Samuel Beckett|9780301074|1904|Uzata|21|15|15|G1
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.11|James Joyce|9780301075|1905|Noua|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 1076|Oscar Wilde|9780301076|1906|Buna|30|17|17|G3
+CarteFizica|STIINTA|Studii Stiintifice 1077|Bernard Shaw|9780301077|1907|Buna|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 1078|Dylan Thomas|9780301078|1908|Buna|30|19|19|H2
+CarteFizica|REVISTA|Revista Academica Nr.1079|Graham Greene|9780301079|1909|Uzata|7|20|20|H3
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.11|Evelyn Waugh|9780301080|1910|Noua|21|3|3|A1
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.11|George Bernard Shaw|9780301081|1911|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.11|H.G. Wells|9780301082|1912|Buna|21|5|5|A3
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.11|Arthur Conan Doyle|9780301083|1913|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.11|Bram Stoker|9780301084|1914|Uzata|21|7|7|B2
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.11|Mary Shelley|9780301085|1915|Noua|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 1086|Jonathan Swift|9780301086|1916|Buna|30|9|9|C1
+CarteFizica|STIINTA|Studii Stiintifice 1087|Daniel Defoe|9780301087|1917|Buna|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 1088|Henry Fielding|9780301088|1918|Buna|30|11|11|C3
+CarteFizica|REVISTA|Revista Academica Nr.1089|Laurence Sterne|9780301089|1919|Uzata|7|12|12|D1
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.11|Samuel Richardson|9780301090|1920|Noua|21|13|13|D2
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.11|William Thackeray|9780301091|1921|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.11|Anthony Trollope|9780301092|1922|Buna|21|15|15|E1
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.11|George Meredith|9780301093|1923|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.11|Thomas Hardy|9780301094|1924|Uzata|21|17|17|E3
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.11|Joseph Conrad|9780301095|1925|Noua|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 1096|D.H. Lawrence|9780301096|1926|Buna|30|19|19|F2
+CarteFizica|STIINTA|Studii Stiintifice 1097|Virginia Woolf|9780301097|1927|Buna|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 1098|E.M. Forster|9780301098|1928|Buna|30|3|3|G1
+CarteFizica|REVISTA|Revista Academica Nr.1099|Aldous Huxley|9780301099|1929|Uzata|7|4|4|G2
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.12|Victor Hugo|9780301100|1930|Noua|21|5|5|G3
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.12|Charles Dickens|9780301101|1931|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.12|Leo Tolstoy|9780301102|1932|Buna|21|7|7|H2
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.12|F. Dostoevsky|9780301103|1933|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.12|Franz Kafka|9780301104|1934|Uzata|21|9|9|A1
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.12|Albert Camus|9780301105|1935|Noua|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 1106|Ernest Hemingway|9780301106|1936|Buna|30|11|11|A3
+CarteFizica|STIINTA|Studii Stiintifice 1107|F.S. Fitzgerald|9780301107|1937|Buna|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 1108|John Steinbeck|9780301108|1938|Buna|30|13|13|B2
+CarteFizica|REVISTA|Revista Academica Nr.1109|Aldous Huxley|9780301109|1939|Uzata|7|14|14|B3
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.12|George Orwell|9780301110|1940|Noua|21|15|15|C1
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.12|Ray Bradbury|9780301111|1941|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.12|Kurt Vonnegut|9780301112|1942|Buna|21|17|17|C3
+CarteFizica|FICTIUNE|Jack London - Opere Vol.12|Jack London|9780301113|1943|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.12|Mark Twain|9780301114|1944|Uzata|21|19|19|D2
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.12|Oscar Wilde|9780301115|1945|Noua|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 1116|Thomas Hardy|9780301116|1946|Buna|30|3|3|E1
+CarteFizica|STIINTA|Studii Stiintifice 1117|Jane Austen|9780301117|1947|Buna|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 1118|Emily Bronte|9780301118|1948|Buna|30|5|5|E3
+CarteFizica|REVISTA|Revista Academica Nr.1119|Charlotte Bronte|9780301119|1949|Uzata|7|6|6|F1
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.12|Thomas Mann|9780301120|1950|Noua|21|7|7|F2
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.12|Hermann Hesse|9780301121|1951|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.12|Stefan Zweig|9780301122|1952|Buna|21|9|9|G1
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.12|Gunter Grass|9780301123|1953|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.12|Boris Pasternak|9780301124|1954|Uzata|21|11|11|G3
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.12|Ivan Turgenev|9780301125|1955|Noua|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 1126|Anton Chekhov|9780301126|1956|Buna|30|13|13|H2
+CarteFizica|STIINTA|Studii Stiintifice 1127|Maxim Gorky|9780301127|1957|Buna|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 1128|Gustave Flaubert|9780301128|1958|Buna|30|15|15|A1
+CarteFizica|REVISTA|Revista Academica Nr.1129|Emile Zola|9780301129|1959|Uzata|7|16|16|A2
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.12|Marcel Proust|9780301130|1960|Noua|21|17|17|A3
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.12|Honore de Balzac|9780301131|1961|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.12|Stendhal|9780301132|1962|Buna|21|19|19|B2
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.12|Alexandre Dumas|9780301133|1963|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.12|Guy de Maupassant|9780301134|1964|Uzata|21|3|3|C1
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.12|Antoine de Saint-Exupery|9780301135|1965|Noua|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 1136|Jorge Luis Borges|9780301136|1966|Buna|30|5|5|C3
+CarteFizica|STIINTA|Studii Stiintifice 1137|Mario Vargas Llosa|9780301137|1967|Buna|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 1138|Isabel Allende|9780301138|1968|Buna|30|7|7|D2
+CarteFizica|REVISTA|Revista Academica Nr.1139|Naguib Mahfouz|9780301139|1969|Uzata|7|8|8|D3
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.12|Orhan Pamuk|9780301140|1970|Noua|21|9|9|E1
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.12|Haruki Murakami|9780301141|1971|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.12|Yasunari Kawabata|9780301142|1972|Buna|21|11|11|E3
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.12|Yukio Mishima|9780301143|1973|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.12|Chinua Achebe|9780301144|1974|Uzata|21|13|13|F2
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.12|J.M. Coetzee|9780301145|1975|Noua|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 1146|Toni Morrison|9780301146|1976|Buna|30|15|15|G1
+CarteFizica|STIINTA|Studii Stiintifice 1147|Maya Angelou|9780301147|1977|Buna|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 1148|William Faulkner|9780301148|1978|Buna|30|17|17|G3
+CarteFizica|REVISTA|Revista Academica Nr.1149|Truman Capote|9780301149|1979|Uzata|7|18|18|H1
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.12|Umberto Eco|9780301150|1980|Noua|21|19|19|H2
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.12|Italo Calvino|9780301151|1981|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.12|Primo Levi|9780301152|1982|Buna|21|3|3|A1
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.12|Vladimir Nabokov|9780301153|1983|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.12|Alexander Pushkin|9780301154|1984|Uzata|21|5|5|A3
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.12|Nikolai Gogol|9780301155|1985|Noua|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 1156|Milan Kundera|9780301156|1986|Buna|30|7|7|B2
+CarteFizica|STIINTA|Studii Stiintifice 1157|Patrick Modiano|9780301157|1987|Buna|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 1158|Michel Houellebecq|9780301158|1988|Buna|30|9|9|C1
+CarteFizica|REVISTA|Revista Academica Nr.1159|Marguerite Duras|9780301159|1989|Uzata|7|10|10|C2
+CarteFizica|FICTIUNE|Colette - Opere Vol.12|Colette|9780301160|1990|Noua|21|11|11|C3
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.12|Romain Rolland|9780301161|1991|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.12|Andre Gide|9780301162|1992|Buna|21|13|13|D2
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.12|Simone de Beauvoir|9780301163|1993|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.12|Federico Garcia Lorca|9780301164|1994|Uzata|21|15|15|E1
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.12|Pablo Neruda|9780301165|1995|Noua|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 1166|Carlos Fuentes|9780301166|1996|Buna|30|17|17|E3
+CarteFizica|STIINTA|Studii Stiintifice 1167|Julio Cortazar|9780301167|1997|Buna|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 1168|Roberto Bolano|9780301168|1998|Buna|30|19|19|F2
+CarteFizica|REVISTA|Revista Academica Nr.1169|Khalil Gibran|9780301169|1999|Uzata|7|20|20|F3
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.12|Amos Oz|9780301170|2000|Noua|21|3|3|G1
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.12|Kenzaburo Oe|9780301171|2001|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.12|Kobo Abe|9780301172|2002|Buna|21|5|5|G3
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.12|Soseki Natsume|9780301173|2003|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.12|Samuel Beckett|9780301174|2004|Uzata|21|7|7|H2
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.12|James Joyce|9780301175|2005|Noua|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 1176|Oscar Wilde|9780301176|2006|Buna|30|9|9|A1
+CarteFizica|STIINTA|Studii Stiintifice 1177|Bernard Shaw|9780301177|2007|Buna|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 1178|Dylan Thomas|9780301178|2008|Buna|30|11|11|A3
+CarteFizica|REVISTA|Revista Academica Nr.1179|Graham Greene|9780301179|2009|Uzata|7|12|12|B1
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.12|Evelyn Waugh|9780301180|2010|Noua|21|13|13|B2
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.12|George Bernard Shaw|9780301181|2011|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.12|H.G. Wells|9780301182|2012|Buna|21|15|15|C1
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.12|Arthur Conan Doyle|9780301183|2013|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.12|Bram Stoker|9780301184|2014|Uzata|21|17|17|C3
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.12|Mary Shelley|9780301185|2015|Noua|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 1186|Jonathan Swift|9780301186|2016|Buna|30|19|19|D2
+CarteFizica|STIINTA|Studii Stiintifice 1187|Daniel Defoe|9780301187|2017|Buna|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 1188|Henry Fielding|9780301188|2018|Buna|30|3|3|E1
+CarteFizica|REVISTA|Revista Academica Nr.1189|Laurence Sterne|9780301189|2019|Uzata|7|4|4|E2
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.12|Samuel Richardson|9780301190|1850|Noua|21|5|5|E3
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.12|William Thackeray|9780301191|1851|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.12|Anthony Trollope|9780301192|1852|Buna|21|7|7|F2
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.12|George Meredith|9780301193|1853|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.12|Thomas Hardy|9780301194|1854|Uzata|21|9|9|G1
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.12|Joseph Conrad|9780301195|1855|Noua|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 1196|D.H. Lawrence|9780301196|1856|Buna|30|11|11|G3
+CarteFizica|STIINTA|Studii Stiintifice 1197|Virginia Woolf|9780301197|1857|Buna|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 1198|E.M. Forster|9780301198|1858|Buna|30|13|13|H2
+CarteFizica|REVISTA|Revista Academica Nr.1199|Aldous Huxley|9780301199|1859|Uzata|7|14|14|H3
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.13|Victor Hugo|9780301200|1860|Noua|21|15|15|A1
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.13|Charles Dickens|9780301201|1861|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.13|Leo Tolstoy|9780301202|1862|Buna|21|17|17|A3
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.13|F. Dostoevsky|9780301203|1863|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.13|Franz Kafka|9780301204|1864|Uzata|21|19|19|B2
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.13|Albert Camus|9780301205|1865|Noua|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 1206|Ernest Hemingway|9780301206|1866|Buna|30|3|3|C1
+CarteFizica|STIINTA|Studii Stiintifice 1207|F.S. Fitzgerald|9780301207|1867|Buna|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 1208|John Steinbeck|9780301208|1868|Buna|30|5|5|C3
+CarteFizica|REVISTA|Revista Academica Nr.1209|Aldous Huxley|9780301209|1869|Uzata|7|6|6|D1
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.13|George Orwell|9780301210|1870|Noua|21|7|7|D2
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.13|Ray Bradbury|9780301211|1871|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.13|Kurt Vonnegut|9780301212|1872|Buna|21|9|9|E1
+CarteFizica|FICTIUNE|Jack London - Opere Vol.13|Jack London|9780301213|1873|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.13|Mark Twain|9780301214|1874|Uzata|21|11|11|E3
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.13|Oscar Wilde|9780301215|1875|Noua|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 1216|Thomas Hardy|9780301216|1876|Buna|30|13|13|F2
+CarteFizica|STIINTA|Studii Stiintifice 1217|Jane Austen|9780301217|1877|Buna|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 1218|Emily Bronte|9780301218|1878|Buna|30|15|15|G1
+CarteFizica|REVISTA|Revista Academica Nr.1219|Charlotte Bronte|9780301219|1879|Uzata|7|16|16|G2
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.13|Thomas Mann|9780301220|1880|Noua|21|17|17|G3
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.13|Hermann Hesse|9780301221|1881|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.13|Stefan Zweig|9780301222|1882|Buna|21|19|19|H2
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.13|Gunter Grass|9780301223|1883|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.13|Boris Pasternak|9780301224|1884|Uzata|21|3|3|A1
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.13|Ivan Turgenev|9780301225|1885|Noua|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 1226|Anton Chekhov|9780301226|1886|Buna|30|5|5|A3
+CarteFizica|STIINTA|Studii Stiintifice 1227|Maxim Gorky|9780301227|1887|Buna|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 1228|Gustave Flaubert|9780301228|1888|Buna|30|7|7|B2
+CarteFizica|REVISTA|Revista Academica Nr.1229|Emile Zola|9780301229|1889|Uzata|7|8|8|B3
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.13|Marcel Proust|9780301230|1890|Noua|21|9|9|C1
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.13|Honore de Balzac|9780301231|1891|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.13|Stendhal|9780301232|1892|Buna|21|11|11|C3
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.13|Alexandre Dumas|9780301233|1893|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.13|Guy de Maupassant|9780301234|1894|Uzata|21|13|13|D2
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.13|Antoine de Saint-Exupery|9780301235|1895|Noua|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 1236|Jorge Luis Borges|9780301236|1896|Buna|30|15|15|E1
+CarteFizica|STIINTA|Studii Stiintifice 1237|Mario Vargas Llosa|9780301237|1897|Buna|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 1238|Isabel Allende|9780301238|1898|Buna|30|17|17|E3
+CarteFizica|REVISTA|Revista Academica Nr.1239|Naguib Mahfouz|9780301239|1899|Uzata|7|18|18|F1
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.13|Orhan Pamuk|9780301240|1900|Noua|21|19|19|F2
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.13|Haruki Murakami|9780301241|1901|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.13|Yasunari Kawabata|9780301242|1902|Buna|21|3|3|G1
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.13|Yukio Mishima|9780301243|1903|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.13|Chinua Achebe|9780301244|1904|Uzata|21|5|5|G3
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.13|J.M. Coetzee|9780301245|1905|Noua|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 1246|Toni Morrison|9780301246|1906|Buna|30|7|7|H2
+CarteFizica|STIINTA|Studii Stiintifice 1247|Maya Angelou|9780301247|1907|Buna|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 1248|William Faulkner|9780301248|1908|Buna|30|9|9|A1
+CarteFizica|REVISTA|Revista Academica Nr.1249|Truman Capote|9780301249|1909|Uzata|7|10|10|A2
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.13|Umberto Eco|9780301250|1910|Noua|21|11|11|A3
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.13|Italo Calvino|9780301251|1911|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.13|Primo Levi|9780301252|1912|Buna|21|13|13|B2
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.13|Vladimir Nabokov|9780301253|1913|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.13|Alexander Pushkin|9780301254|1914|Uzata|21|15|15|C1
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.13|Nikolai Gogol|9780301255|1915|Noua|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 1256|Milan Kundera|9780301256|1916|Buna|30|17|17|C3
+CarteFizica|STIINTA|Studii Stiintifice 1257|Patrick Modiano|9780301257|1917|Buna|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 1258|Michel Houellebecq|9780301258|1918|Buna|30|19|19|D2
+CarteFizica|REVISTA|Revista Academica Nr.1259|Marguerite Duras|9780301259|1919|Uzata|7|20|20|D3
+CarteFizica|FICTIUNE|Colette - Opere Vol.13|Colette|9780301260|1920|Noua|21|3|3|E1
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.13|Romain Rolland|9780301261|1921|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.13|Andre Gide|9780301262|1922|Buna|21|5|5|E3
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.13|Simone de Beauvoir|9780301263|1923|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.13|Federico Garcia Lorca|9780301264|1924|Uzata|21|7|7|F2
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.13|Pablo Neruda|9780301265|1925|Noua|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 1266|Carlos Fuentes|9780301266|1926|Buna|30|9|9|G1
+CarteFizica|STIINTA|Studii Stiintifice 1267|Julio Cortazar|9780301267|1927|Buna|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 1268|Roberto Bolano|9780301268|1928|Buna|30|11|11|G3
+CarteFizica|REVISTA|Revista Academica Nr.1269|Khalil Gibran|9780301269|1929|Uzata|7|12|12|H1
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.13|Amos Oz|9780301270|1930|Noua|21|13|13|H2
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.13|Kenzaburo Oe|9780301271|1931|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.13|Kobo Abe|9780301272|1932|Buna|21|15|15|A1
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.13|Soseki Natsume|9780301273|1933|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.13|Samuel Beckett|9780301274|1934|Uzata|21|17|17|A3
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.13|James Joyce|9780301275|1935|Noua|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 1276|Oscar Wilde|9780301276|1936|Buna|30|19|19|B2
+CarteFizica|STIINTA|Studii Stiintifice 1277|Bernard Shaw|9780301277|1937|Buna|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 1278|Dylan Thomas|9780301278|1938|Buna|30|3|3|C1
+CarteFizica|REVISTA|Revista Academica Nr.1279|Graham Greene|9780301279|1939|Uzata|7|4|4|C2
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.13|Evelyn Waugh|9780301280|1940|Noua|21|5|5|C3
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.13|George Bernard Shaw|9780301281|1941|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.13|H.G. Wells|9780301282|1942|Buna|21|7|7|D2
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.13|Arthur Conan Doyle|9780301283|1943|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.13|Bram Stoker|9780301284|1944|Uzata|21|9|9|E1
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.13|Mary Shelley|9780301285|1945|Noua|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 1286|Jonathan Swift|9780301286|1946|Buna|30|11|11|E3
+CarteFizica|STIINTA|Studii Stiintifice 1287|Daniel Defoe|9780301287|1947|Buna|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 1288|Henry Fielding|9780301288|1948|Buna|30|13|13|F2
+CarteFizica|REVISTA|Revista Academica Nr.1289|Laurence Sterne|9780301289|1949|Uzata|7|14|14|F3
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.13|Samuel Richardson|9780301290|1950|Noua|21|15|15|G1
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.13|William Thackeray|9780301291|1951|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.13|Anthony Trollope|9780301292|1952|Buna|21|17|17|G3
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.13|George Meredith|9780301293|1953|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.13|Thomas Hardy|9780301294|1954|Uzata|21|19|19|H2
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.13|Joseph Conrad|9780301295|1955|Noua|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 1296|D.H. Lawrence|9780301296|1956|Buna|30|3|3|A1
+CarteFizica|STIINTA|Studii Stiintifice 1297|Virginia Woolf|9780301297|1957|Buna|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 1298|E.M. Forster|9780301298|1958|Buna|30|5|5|A3
+CarteFizica|REVISTA|Revista Academica Nr.1299|Aldous Huxley|9780301299|1959|Uzata|7|6|6|B1
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.14|Victor Hugo|9780301300|1960|Noua|21|7|7|B2
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.14|Charles Dickens|9780301301|1961|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.14|Leo Tolstoy|9780301302|1962|Buna|21|9|9|C1
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.14|F. Dostoevsky|9780301303|1963|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.14|Franz Kafka|9780301304|1964|Uzata|21|11|11|C3
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.14|Albert Camus|9780301305|1965|Noua|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 1306|Ernest Hemingway|9780301306|1966|Buna|30|13|13|D2
+CarteFizica|STIINTA|Studii Stiintifice 1307|F.S. Fitzgerald|9780301307|1967|Buna|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 1308|John Steinbeck|9780301308|1968|Buna|30|15|15|E1
+CarteFizica|REVISTA|Revista Academica Nr.1309|Aldous Huxley|9780301309|1969|Uzata|7|16|16|E2
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.14|George Orwell|9780301310|1970|Noua|21|17|17|E3
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.14|Ray Bradbury|9780301311|1971|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.14|Kurt Vonnegut|9780301312|1972|Buna|21|19|19|F2
+CarteFizica|FICTIUNE|Jack London - Opere Vol.14|Jack London|9780301313|1973|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.14|Mark Twain|9780301314|1974|Uzata|21|3|3|G1
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.14|Oscar Wilde|9780301315|1975|Noua|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 1316|Thomas Hardy|9780301316|1976|Buna|30|5|5|G3
+CarteFizica|STIINTA|Studii Stiintifice 1317|Jane Austen|9780301317|1977|Buna|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 1318|Emily Bronte|9780301318|1978|Buna|30|7|7|H2
+CarteFizica|REVISTA|Revista Academica Nr.1319|Charlotte Bronte|9780301319|1979|Uzata|7|8|8|H3
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.14|Thomas Mann|9780301320|1980|Noua|21|9|9|A1
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.14|Hermann Hesse|9780301321|1981|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.14|Stefan Zweig|9780301322|1982|Buna|21|11|11|A3
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.14|Gunter Grass|9780301323|1983|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.14|Boris Pasternak|9780301324|1984|Uzata|21|13|13|B2
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.14|Ivan Turgenev|9780301325|1985|Noua|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 1326|Anton Chekhov|9780301326|1986|Buna|30|15|15|C1
+CarteFizica|STIINTA|Studii Stiintifice 1327|Maxim Gorky|9780301327|1987|Buna|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 1328|Gustave Flaubert|9780301328|1988|Buna|30|17|17|C3
+CarteFizica|REVISTA|Revista Academica Nr.1329|Emile Zola|9780301329|1989|Uzata|7|18|18|D1
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.14|Marcel Proust|9780301330|1990|Noua|21|19|19|D2
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.14|Honore de Balzac|9780301331|1991|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.14|Stendhal|9780301332|1992|Buna|21|3|3|E1
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.14|Alexandre Dumas|9780301333|1993|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.14|Guy de Maupassant|9780301334|1994|Uzata|21|5|5|E3
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.14|Antoine de Saint-Exupery|9780301335|1995|Noua|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 1336|Jorge Luis Borges|9780301336|1996|Buna|30|7|7|F2
+CarteFizica|STIINTA|Studii Stiintifice 1337|Mario Vargas Llosa|9780301337|1997|Buna|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 1338|Isabel Allende|9780301338|1998|Buna|30|9|9|G1
+CarteFizica|REVISTA|Revista Academica Nr.1339|Naguib Mahfouz|9780301339|1999|Uzata|7|10|10|G2
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.14|Orhan Pamuk|9780301340|2000|Noua|21|11|11|G3
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.14|Haruki Murakami|9780301341|2001|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.14|Yasunari Kawabata|9780301342|2002|Buna|21|13|13|H2
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.14|Yukio Mishima|9780301343|2003|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.14|Chinua Achebe|9780301344|2004|Uzata|21|15|15|A1
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.14|J.M. Coetzee|9780301345|2005|Noua|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 1346|Toni Morrison|9780301346|2006|Buna|30|17|17|A3
+CarteFizica|STIINTA|Studii Stiintifice 1347|Maya Angelou|9780301347|2007|Buna|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 1348|William Faulkner|9780301348|2008|Buna|30|19|19|B2
+CarteFizica|REVISTA|Revista Academica Nr.1349|Truman Capote|9780301349|2009|Uzata|7|20|20|B3
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.14|Umberto Eco|9780301350|2010|Noua|21|3|3|C1
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.14|Italo Calvino|9780301351|2011|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.14|Primo Levi|9780301352|2012|Buna|21|5|5|C3
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.14|Vladimir Nabokov|9780301353|2013|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.14|Alexander Pushkin|9780301354|2014|Uzata|21|7|7|D2
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.14|Nikolai Gogol|9780301355|2015|Noua|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 1356|Milan Kundera|9780301356|2016|Buna|30|9|9|E1
+CarteFizica|STIINTA|Studii Stiintifice 1357|Patrick Modiano|9780301357|2017|Buna|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 1358|Michel Houellebecq|9780301358|2018|Buna|30|11|11|E3
+CarteFizica|REVISTA|Revista Academica Nr.1359|Marguerite Duras|9780301359|2019|Uzata|7|12|12|F1
+CarteFizica|FICTIUNE|Colette - Opere Vol.14|Colette|9780301360|1850|Noua|21|13|13|F2
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.14|Romain Rolland|9780301361|1851|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.14|Andre Gide|9780301362|1852|Buna|21|15|15|G1
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.14|Simone de Beauvoir|9780301363|1853|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.14|Federico Garcia Lorca|9780301364|1854|Uzata|21|17|17|G3
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.14|Pablo Neruda|9780301365|1855|Noua|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 1366|Carlos Fuentes|9780301366|1856|Buna|30|19|19|H2
+CarteFizica|STIINTA|Studii Stiintifice 1367|Julio Cortazar|9780301367|1857|Buna|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 1368|Roberto Bolano|9780301368|1858|Buna|30|3|3|A1
+CarteFizica|REVISTA|Revista Academica Nr.1369|Khalil Gibran|9780301369|1859|Uzata|7|4|4|A2
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.14|Amos Oz|9780301370|1860|Noua|21|5|5|A3
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.14|Kenzaburo Oe|9780301371|1861|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.14|Kobo Abe|9780301372|1862|Buna|21|7|7|B2
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.14|Soseki Natsume|9780301373|1863|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.14|Samuel Beckett|9780301374|1864|Uzata|21|9|9|C1
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.14|James Joyce|9780301375|1865|Noua|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 1376|Oscar Wilde|9780301376|1866|Buna|30|11|11|C3
+CarteFizica|STIINTA|Studii Stiintifice 1377|Bernard Shaw|9780301377|1867|Buna|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 1378|Dylan Thomas|9780301378|1868|Buna|30|13|13|D2
+CarteFizica|REVISTA|Revista Academica Nr.1379|Graham Greene|9780301379|1869|Uzata|7|14|14|D3
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.14|Evelyn Waugh|9780301380|1870|Noua|21|15|15|E1
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.14|George Bernard Shaw|9780301381|1871|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.14|H.G. Wells|9780301382|1872|Buna|21|17|17|E3
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.14|Arthur Conan Doyle|9780301383|1873|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.14|Bram Stoker|9780301384|1874|Uzata|21|19|19|F2
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.14|Mary Shelley|9780301385|1875|Noua|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 1386|Jonathan Swift|9780301386|1876|Buna|30|3|3|G1
+CarteFizica|STIINTA|Studii Stiintifice 1387|Daniel Defoe|9780301387|1877|Buna|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 1388|Henry Fielding|9780301388|1878|Buna|30|5|5|G3
+CarteFizica|REVISTA|Revista Academica Nr.1389|Laurence Sterne|9780301389|1879|Uzata|7|6|6|H1
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.14|Samuel Richardson|9780301390|1880|Noua|21|7|7|H2
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.14|William Thackeray|9780301391|1881|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.14|Anthony Trollope|9780301392|1882|Buna|21|9|9|A1
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.14|George Meredith|9780301393|1883|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.14|Thomas Hardy|9780301394|1884|Uzata|21|11|11|A3
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.14|Joseph Conrad|9780301395|1885|Noua|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 1396|D.H. Lawrence|9780301396|1886|Buna|30|13|13|B2
+CarteFizica|STIINTA|Studii Stiintifice 1397|Virginia Woolf|9780301397|1887|Buna|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 1398|E.M. Forster|9780301398|1888|Buna|30|15|15|C1
+CarteFizica|REVISTA|Revista Academica Nr.1399|Aldous Huxley|9780301399|1889|Uzata|7|16|16|C2
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.15|Victor Hugo|9780301400|1890|Noua|21|17|17|C3
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.15|Charles Dickens|9780301401|1891|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.15|Leo Tolstoy|9780301402|1892|Buna|21|19|19|D2
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.15|F. Dostoevsky|9780301403|1893|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.15|Franz Kafka|9780301404|1894|Uzata|21|3|3|E1
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.15|Albert Camus|9780301405|1895|Noua|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 1406|Ernest Hemingway|9780301406|1896|Buna|30|5|5|E3
+CarteFizica|STIINTA|Studii Stiintifice 1407|F.S. Fitzgerald|9780301407|1897|Buna|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 1408|John Steinbeck|9780301408|1898|Buna|30|7|7|F2
+CarteFizica|REVISTA|Revista Academica Nr.1409|Aldous Huxley|9780301409|1899|Uzata|7|8|8|F3
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.15|George Orwell|9780301410|1900|Noua|21|9|9|G1
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.15|Ray Bradbury|9780301411|1901|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.15|Kurt Vonnegut|9780301412|1902|Buna|21|11|11|G3
+CarteFizica|FICTIUNE|Jack London - Opere Vol.15|Jack London|9780301413|1903|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.15|Mark Twain|9780301414|1904|Uzata|21|13|13|H2
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.15|Oscar Wilde|9780301415|1905|Noua|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 1416|Thomas Hardy|9780301416|1906|Buna|30|15|15|A1
+CarteFizica|STIINTA|Studii Stiintifice 1417|Jane Austen|9780301417|1907|Buna|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 1418|Emily Bronte|9780301418|1908|Buna|30|17|17|A3
+CarteFizica|REVISTA|Revista Academica Nr.1419|Charlotte Bronte|9780301419|1909|Uzata|7|18|18|B1
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.15|Thomas Mann|9780301420|1910|Noua|21|19|19|B2
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.15|Hermann Hesse|9780301421|1911|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.15|Stefan Zweig|9780301422|1912|Buna|21|3|3|C1
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.15|Gunter Grass|9780301423|1913|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.15|Boris Pasternak|9780301424|1914|Uzata|21|5|5|C3
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.15|Ivan Turgenev|9780301425|1915|Noua|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 1426|Anton Chekhov|9780301426|1916|Buna|30|7|7|D2
+CarteFizica|STIINTA|Studii Stiintifice 1427|Maxim Gorky|9780301427|1917|Buna|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 1428|Gustave Flaubert|9780301428|1918|Buna|30|9|9|E1
+CarteFizica|REVISTA|Revista Academica Nr.1429|Emile Zola|9780301429|1919|Uzata|7|10|10|E2
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.15|Marcel Proust|9780301430|1920|Noua|21|11|11|E3
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.15|Honore de Balzac|9780301431|1921|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.15|Stendhal|9780301432|1922|Buna|21|13|13|F2
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.15|Alexandre Dumas|9780301433|1923|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.15|Guy de Maupassant|9780301434|1924|Uzata|21|15|15|G1
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.15|Antoine de Saint-Exupery|9780301435|1925|Noua|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 1436|Jorge Luis Borges|9780301436|1926|Buna|30|17|17|G3
+CarteFizica|STIINTA|Studii Stiintifice 1437|Mario Vargas Llosa|9780301437|1927|Buna|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 1438|Isabel Allende|9780301438|1928|Buna|30|19|19|H2
+CarteFizica|REVISTA|Revista Academica Nr.1439|Naguib Mahfouz|9780301439|1929|Uzata|7|20|20|H3
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.15|Orhan Pamuk|9780301440|1930|Noua|21|3|3|A1
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.15|Haruki Murakami|9780301441|1931|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.15|Yasunari Kawabata|9780301442|1932|Buna|21|5|5|A3
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.15|Yukio Mishima|9780301443|1933|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.15|Chinua Achebe|9780301444|1934|Uzata|21|7|7|B2
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.15|J.M. Coetzee|9780301445|1935|Noua|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 1446|Toni Morrison|9780301446|1936|Buna|30|9|9|C1
+CarteFizica|STIINTA|Studii Stiintifice 1447|Maya Angelou|9780301447|1937|Buna|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 1448|William Faulkner|9780301448|1938|Buna|30|11|11|C3
+CarteFizica|REVISTA|Revista Academica Nr.1449|Truman Capote|9780301449|1939|Uzata|7|12|12|D1
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.15|Umberto Eco|9780301450|1940|Noua|21|13|13|D2
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.15|Italo Calvino|9780301451|1941|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.15|Primo Levi|9780301452|1942|Buna|21|15|15|E1
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.15|Vladimir Nabokov|9780301453|1943|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.15|Alexander Pushkin|9780301454|1944|Uzata|21|17|17|E3
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.15|Nikolai Gogol|9780301455|1945|Noua|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 1456|Milan Kundera|9780301456|1946|Buna|30|19|19|F2
+CarteFizica|STIINTA|Studii Stiintifice 1457|Patrick Modiano|9780301457|1947|Buna|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 1458|Michel Houellebecq|9780301458|1948|Buna|30|3|3|G1
+CarteFizica|REVISTA|Revista Academica Nr.1459|Marguerite Duras|9780301459|1949|Uzata|7|4|4|G2
+CarteFizica|FICTIUNE|Colette - Opere Vol.15|Colette|9780301460|1950|Noua|21|5|5|G3
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.15|Romain Rolland|9780301461|1951|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.15|Andre Gide|9780301462|1952|Buna|21|7|7|H2
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.15|Simone de Beauvoir|9780301463|1953|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.15|Federico Garcia Lorca|9780301464|1954|Uzata|21|9|9|A1
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.15|Pablo Neruda|9780301465|1955|Noua|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 1466|Carlos Fuentes|9780301466|1956|Buna|30|11|11|A3
+CarteFizica|STIINTA|Studii Stiintifice 1467|Julio Cortazar|9780301467|1957|Buna|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 1468|Roberto Bolano|9780301468|1958|Buna|30|13|13|B2
+CarteFizica|REVISTA|Revista Academica Nr.1469|Khalil Gibran|9780301469|1959|Uzata|7|14|14|B3
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.15|Amos Oz|9780301470|1960|Noua|21|15|15|C1
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.15|Kenzaburo Oe|9780301471|1961|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.15|Kobo Abe|9780301472|1962|Buna|21|17|17|C3
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.15|Soseki Natsume|9780301473|1963|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.15|Samuel Beckett|9780301474|1964|Uzata|21|19|19|D2
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.15|James Joyce|9780301475|1965|Noua|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 1476|Oscar Wilde|9780301476|1966|Buna|30|3|3|E1
+CarteFizica|STIINTA|Studii Stiintifice 1477|Bernard Shaw|9780301477|1967|Buna|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 1478|Dylan Thomas|9780301478|1968|Buna|30|5|5|E3
+CarteFizica|REVISTA|Revista Academica Nr.1479|Graham Greene|9780301479|1969|Uzata|7|6|6|F1
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.15|Evelyn Waugh|9780301480|1970|Noua|21|7|7|F2
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.15|George Bernard Shaw|9780301481|1971|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.15|H.G. Wells|9780301482|1972|Buna|21|9|9|G1
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.15|Arthur Conan Doyle|9780301483|1973|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.15|Bram Stoker|9780301484|1974|Uzata|21|11|11|G3
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.15|Mary Shelley|9780301485|1975|Noua|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 1486|Jonathan Swift|9780301486|1976|Buna|30|13|13|H2
+CarteFizica|STIINTA|Studii Stiintifice 1487|Daniel Defoe|9780301487|1977|Buna|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 1488|Henry Fielding|9780301488|1978|Buna|30|15|15|A1
+CarteFizica|REVISTA|Revista Academica Nr.1489|Laurence Sterne|9780301489|1979|Uzata|7|16|16|A2
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.15|Samuel Richardson|9780301490|1980|Noua|21|17|17|A3
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.15|William Thackeray|9780301491|1981|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.15|Anthony Trollope|9780301492|1982|Buna|21|19|19|B2
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.15|George Meredith|9780301493|1983|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.15|Thomas Hardy|9780301494|1984|Uzata|21|3|3|C1
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.15|Joseph Conrad|9780301495|1985|Noua|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 1496|D.H. Lawrence|9780301496|1986|Buna|30|5|5|C3
+CarteFizica|STIINTA|Studii Stiintifice 1497|Virginia Woolf|9780301497|1987|Buna|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 1498|E.M. Forster|9780301498|1988|Buna|30|7|7|D2
+CarteFizica|REVISTA|Revista Academica Nr.1499|Aldous Huxley|9780301499|1989|Uzata|7|8|8|D3
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.16|Victor Hugo|9780301500|1990|Noua|21|9|9|E1
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.16|Charles Dickens|9780301501|1991|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.16|Leo Tolstoy|9780301502|1992|Buna|21|11|11|E3
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.16|F. Dostoevsky|9780301503|1993|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.16|Franz Kafka|9780301504|1994|Uzata|21|13|13|F2
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.16|Albert Camus|9780301505|1995|Noua|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 1506|Ernest Hemingway|9780301506|1996|Buna|30|15|15|G1
+CarteFizica|STIINTA|Studii Stiintifice 1507|F.S. Fitzgerald|9780301507|1997|Buna|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 1508|John Steinbeck|9780301508|1998|Buna|30|17|17|G3
+CarteFizica|REVISTA|Revista Academica Nr.1509|Aldous Huxley|9780301509|1999|Uzata|7|18|18|H1
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.16|George Orwell|9780301510|2000|Noua|21|19|19|H2
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.16|Ray Bradbury|9780301511|2001|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.16|Kurt Vonnegut|9780301512|2002|Buna|21|3|3|A1
+CarteFizica|FICTIUNE|Jack London - Opere Vol.16|Jack London|9780301513|2003|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.16|Mark Twain|9780301514|2004|Uzata|21|5|5|A3
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.16|Oscar Wilde|9780301515|2005|Noua|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 1516|Thomas Hardy|9780301516|2006|Buna|30|7|7|B2
+CarteFizica|STIINTA|Studii Stiintifice 1517|Jane Austen|9780301517|2007|Buna|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 1518|Emily Bronte|9780301518|2008|Buna|30|9|9|C1
+CarteFizica|REVISTA|Revista Academica Nr.1519|Charlotte Bronte|9780301519|2009|Uzata|7|10|10|C2
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.16|Thomas Mann|9780301520|2010|Noua|21|11|11|C3
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.16|Hermann Hesse|9780301521|2011|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.16|Stefan Zweig|9780301522|2012|Buna|21|13|13|D2
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.16|Gunter Grass|9780301523|2013|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.16|Boris Pasternak|9780301524|2014|Uzata|21|15|15|E1
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.16|Ivan Turgenev|9780301525|2015|Noua|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 1526|Anton Chekhov|9780301526|2016|Buna|30|17|17|E3
+CarteFizica|STIINTA|Studii Stiintifice 1527|Maxim Gorky|9780301527|2017|Buna|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 1528|Gustave Flaubert|9780301528|2018|Buna|30|19|19|F2
+CarteFizica|REVISTA|Revista Academica Nr.1529|Emile Zola|9780301529|2019|Uzata|7|20|20|F3
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.16|Marcel Proust|9780301530|1850|Noua|21|3|3|G1
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.16|Honore de Balzac|9780301531|1851|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.16|Stendhal|9780301532|1852|Buna|21|5|5|G3
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.16|Alexandre Dumas|9780301533|1853|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.16|Guy de Maupassant|9780301534|1854|Uzata|21|7|7|H2
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.16|Antoine de Saint-Exupery|9780301535|1855|Noua|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 1536|Jorge Luis Borges|9780301536|1856|Buna|30|9|9|A1
+CarteFizica|STIINTA|Studii Stiintifice 1537|Mario Vargas Llosa|9780301537|1857|Buna|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 1538|Isabel Allende|9780301538|1858|Buna|30|11|11|A3
+CarteFizica|REVISTA|Revista Academica Nr.1539|Naguib Mahfouz|9780301539|1859|Uzata|7|12|12|B1
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.16|Orhan Pamuk|9780301540|1860|Noua|21|13|13|B2
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.16|Haruki Murakami|9780301541|1861|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.16|Yasunari Kawabata|9780301542|1862|Buna|21|15|15|C1
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.16|Yukio Mishima|9780301543|1863|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.16|Chinua Achebe|9780301544|1864|Uzata|21|17|17|C3
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.16|J.M. Coetzee|9780301545|1865|Noua|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 1546|Toni Morrison|9780301546|1866|Buna|30|19|19|D2
+CarteFizica|STIINTA|Studii Stiintifice 1547|Maya Angelou|9780301547|1867|Buna|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 1548|William Faulkner|9780301548|1868|Buna|30|3|3|E1
+CarteFizica|REVISTA|Revista Academica Nr.1549|Truman Capote|9780301549|1869|Uzata|7|4|4|E2
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.16|Umberto Eco|9780301550|1870|Noua|21|5|5|E3
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.16|Italo Calvino|9780301551|1871|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.16|Primo Levi|9780301552|1872|Buna|21|7|7|F2
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.16|Vladimir Nabokov|9780301553|1873|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.16|Alexander Pushkin|9780301554|1874|Uzata|21|9|9|G1
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.16|Nikolai Gogol|9780301555|1875|Noua|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 1556|Milan Kundera|9780301556|1876|Buna|30|11|11|G3
+CarteFizica|STIINTA|Studii Stiintifice 1557|Patrick Modiano|9780301557|1877|Buna|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 1558|Michel Houellebecq|9780301558|1878|Buna|30|13|13|H2
+CarteFizica|REVISTA|Revista Academica Nr.1559|Marguerite Duras|9780301559|1879|Uzata|7|14|14|H3
+CarteFizica|FICTIUNE|Colette - Opere Vol.16|Colette|9780301560|1880|Noua|21|15|15|A1
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.16|Romain Rolland|9780301561|1881|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.16|Andre Gide|9780301562|1882|Buna|21|17|17|A3
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.16|Simone de Beauvoir|9780301563|1883|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.16|Federico Garcia Lorca|9780301564|1884|Uzata|21|19|19|B2
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.16|Pablo Neruda|9780301565|1885|Noua|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 1566|Carlos Fuentes|9780301566|1886|Buna|30|3|3|C1
+CarteFizica|STIINTA|Studii Stiintifice 1567|Julio Cortazar|9780301567|1887|Buna|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 1568|Roberto Bolano|9780301568|1888|Buna|30|5|5|C3
+CarteFizica|REVISTA|Revista Academica Nr.1569|Khalil Gibran|9780301569|1889|Uzata|7|6|6|D1
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.16|Amos Oz|9780301570|1890|Noua|21|7|7|D2
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.16|Kenzaburo Oe|9780301571|1891|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.16|Kobo Abe|9780301572|1892|Buna|21|9|9|E1
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.16|Soseki Natsume|9780301573|1893|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.16|Samuel Beckett|9780301574|1894|Uzata|21|11|11|E3
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.16|James Joyce|9780301575|1895|Noua|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 1576|Oscar Wilde|9780301576|1896|Buna|30|13|13|F2
+CarteFizica|STIINTA|Studii Stiintifice 1577|Bernard Shaw|9780301577|1897|Buna|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 1578|Dylan Thomas|9780301578|1898|Buna|30|15|15|G1
+CarteFizica|REVISTA|Revista Academica Nr.1579|Graham Greene|9780301579|1899|Uzata|7|16|16|G2
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.16|Evelyn Waugh|9780301580|1900|Noua|21|17|17|G3
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.16|George Bernard Shaw|9780301581|1901|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.16|H.G. Wells|9780301582|1902|Buna|21|19|19|H2
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.16|Arthur Conan Doyle|9780301583|1903|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.16|Bram Stoker|9780301584|1904|Uzata|21|3|3|A1
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.16|Mary Shelley|9780301585|1905|Noua|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 1586|Jonathan Swift|9780301586|1906|Buna|30|5|5|A3
+CarteFizica|STIINTA|Studii Stiintifice 1587|Daniel Defoe|9780301587|1907|Buna|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 1588|Henry Fielding|9780301588|1908|Buna|30|7|7|B2
+CarteFizica|REVISTA|Revista Academica Nr.1589|Laurence Sterne|9780301589|1909|Uzata|7|8|8|B3
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.16|Samuel Richardson|9780301590|1910|Noua|21|9|9|C1
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.16|William Thackeray|9780301591|1911|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.16|Anthony Trollope|9780301592|1912|Buna|21|11|11|C3
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.16|George Meredith|9780301593|1913|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.16|Thomas Hardy|9780301594|1914|Uzata|21|13|13|D2
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.16|Joseph Conrad|9780301595|1915|Noua|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 1596|D.H. Lawrence|9780301596|1916|Buna|30|15|15|E1
+CarteFizica|STIINTA|Studii Stiintifice 1597|Virginia Woolf|9780301597|1917|Buna|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 1598|E.M. Forster|9780301598|1918|Buna|30|17|17|E3
+CarteFizica|REVISTA|Revista Academica Nr.1599|Aldous Huxley|9780301599|1919|Uzata|7|18|18|F1
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.17|Victor Hugo|9780301600|1920|Noua|21|19|19|F2
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.17|Charles Dickens|9780301601|1921|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.17|Leo Tolstoy|9780301602|1922|Buna|21|3|3|G1
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.17|F. Dostoevsky|9780301603|1923|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.17|Franz Kafka|9780301604|1924|Uzata|21|5|5|G3
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.17|Albert Camus|9780301605|1925|Noua|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 1606|Ernest Hemingway|9780301606|1926|Buna|30|7|7|H2
+CarteFizica|STIINTA|Studii Stiintifice 1607|F.S. Fitzgerald|9780301607|1927|Buna|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 1608|John Steinbeck|9780301608|1928|Buna|30|9|9|A1
+CarteFizica|REVISTA|Revista Academica Nr.1609|Aldous Huxley|9780301609|1929|Uzata|7|10|10|A2
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.17|George Orwell|9780301610|1930|Noua|21|11|11|A3
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.17|Ray Bradbury|9780301611|1931|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.17|Kurt Vonnegut|9780301612|1932|Buna|21|13|13|B2
+CarteFizica|FICTIUNE|Jack London - Opere Vol.17|Jack London|9780301613|1933|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.17|Mark Twain|9780301614|1934|Uzata|21|15|15|C1
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.17|Oscar Wilde|9780301615|1935|Noua|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 1616|Thomas Hardy|9780301616|1936|Buna|30|17|17|C3
+CarteFizica|STIINTA|Studii Stiintifice 1617|Jane Austen|9780301617|1937|Buna|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 1618|Emily Bronte|9780301618|1938|Buna|30|19|19|D2
+CarteFizica|REVISTA|Revista Academica Nr.1619|Charlotte Bronte|9780301619|1939|Uzata|7|20|20|D3
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.17|Thomas Mann|9780301620|1940|Noua|21|3|3|E1
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.17|Hermann Hesse|9780301621|1941|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.17|Stefan Zweig|9780301622|1942|Buna|21|5|5|E3
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.17|Gunter Grass|9780301623|1943|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.17|Boris Pasternak|9780301624|1944|Uzata|21|7|7|F2
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.17|Ivan Turgenev|9780301625|1945|Noua|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 1626|Anton Chekhov|9780301626|1946|Buna|30|9|9|G1
+CarteFizica|STIINTA|Studii Stiintifice 1627|Maxim Gorky|9780301627|1947|Buna|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 1628|Gustave Flaubert|9780301628|1948|Buna|30|11|11|G3
+CarteFizica|REVISTA|Revista Academica Nr.1629|Emile Zola|9780301629|1949|Uzata|7|12|12|H1
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.17|Marcel Proust|9780301630|1950|Noua|21|13|13|H2
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.17|Honore de Balzac|9780301631|1951|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.17|Stendhal|9780301632|1952|Buna|21|15|15|A1
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.17|Alexandre Dumas|9780301633|1953|Buna|21|16|16|A2
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.17|Guy de Maupassant|9780301634|1954|Uzata|21|17|17|A3
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.17|Antoine de Saint-Exupery|9780301635|1955|Noua|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 1636|Jorge Luis Borges|9780301636|1956|Buna|30|19|19|B2
+CarteFizica|STIINTA|Studii Stiintifice 1637|Mario Vargas Llosa|9780301637|1957|Buna|21|20|20|B3
+CarteFizica|TEHNICA|Manual Tehnic 1638|Isabel Allende|9780301638|1958|Buna|30|3|3|C1
+CarteFizica|REVISTA|Revista Academica Nr.1639|Naguib Mahfouz|9780301639|1959|Uzata|7|4|4|C2
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.17|Orhan Pamuk|9780301640|1960|Noua|21|5|5|C3
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.17|Haruki Murakami|9780301641|1961|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.17|Yasunari Kawabata|9780301642|1962|Buna|21|7|7|D2
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.17|Yukio Mishima|9780301643|1963|Buna|21|8|8|D3
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.17|Chinua Achebe|9780301644|1964|Uzata|21|9|9|E1
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.17|J.M. Coetzee|9780301645|1965|Noua|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 1646|Toni Morrison|9780301646|1966|Buna|30|11|11|E3
+CarteFizica|STIINTA|Studii Stiintifice 1647|Maya Angelou|9780301647|1967|Buna|21|12|12|F1
+CarteFizica|TEHNICA|Manual Tehnic 1648|William Faulkner|9780301648|1968|Buna|30|13|13|F2
+CarteFizica|REVISTA|Revista Academica Nr.1649|Truman Capote|9780301649|1969|Uzata|7|14|14|F3
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.17|Umberto Eco|9780301650|1970|Noua|21|15|15|G1
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.17|Italo Calvino|9780301651|1971|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.17|Primo Levi|9780301652|1972|Buna|21|17|17|G3
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.17|Vladimir Nabokov|9780301653|1973|Buna|21|18|18|H1
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.17|Alexander Pushkin|9780301654|1974|Uzata|21|19|19|H2
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.17|Nikolai Gogol|9780301655|1975|Noua|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 1656|Milan Kundera|9780301656|1976|Buna|30|3|3|A1
+CarteFizica|STIINTA|Studii Stiintifice 1657|Patrick Modiano|9780301657|1977|Buna|21|4|4|A2
+CarteFizica|TEHNICA|Manual Tehnic 1658|Michel Houellebecq|9780301658|1978|Buna|30|5|5|A3
+CarteFizica|REVISTA|Revista Academica Nr.1659|Marguerite Duras|9780301659|1979|Uzata|7|6|6|B1
+CarteFizica|FICTIUNE|Colette - Opere Vol.17|Colette|9780301660|1980|Noua|21|7|7|B2
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.17|Romain Rolland|9780301661|1981|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.17|Andre Gide|9780301662|1982|Buna|21|9|9|C1
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.17|Simone de Beauvoir|9780301663|1983|Buna|21|10|10|C2
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.17|Federico Garcia Lorca|9780301664|1984|Uzata|21|11|11|C3
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.17|Pablo Neruda|9780301665|1985|Noua|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 1666|Carlos Fuentes|9780301666|1986|Buna|30|13|13|D2
+CarteFizica|STIINTA|Studii Stiintifice 1667|Julio Cortazar|9780301667|1987|Buna|21|14|14|D3
+CarteFizica|TEHNICA|Manual Tehnic 1668|Roberto Bolano|9780301668|1988|Buna|30|15|15|E1
+CarteFizica|REVISTA|Revista Academica Nr.1669|Khalil Gibran|9780301669|1989|Uzata|7|16|16|E2
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.17|Amos Oz|9780301670|1990|Noua|21|17|17|E3
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.17|Kenzaburo Oe|9780301671|1991|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.17|Kobo Abe|9780301672|1992|Buna|21|19|19|F2
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.17|Soseki Natsume|9780301673|1993|Buna|21|20|20|F3
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.17|Samuel Beckett|9780301674|1994|Uzata|21|3|3|G1
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.17|James Joyce|9780301675|1995|Noua|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 1676|Oscar Wilde|9780301676|1996|Buna|30|5|5|G3
+CarteFizica|STIINTA|Studii Stiintifice 1677|Bernard Shaw|9780301677|1997|Buna|21|6|6|H1
+CarteFizica|TEHNICA|Manual Tehnic 1678|Dylan Thomas|9780301678|1998|Buna|30|7|7|H2
+CarteFizica|REVISTA|Revista Academica Nr.1679|Graham Greene|9780301679|1999|Uzata|7|8|8|H3
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.17|Evelyn Waugh|9780301680|2000|Noua|21|9|9|A1
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.17|George Bernard Shaw|9780301681|2001|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.17|H.G. Wells|9780301682|2002|Buna|21|11|11|A3
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.17|Arthur Conan Doyle|9780301683|2003|Buna|21|12|12|B1
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.17|Bram Stoker|9780301684|2004|Uzata|21|13|13|B2
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.17|Mary Shelley|9780301685|2005|Noua|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 1686|Jonathan Swift|9780301686|2006|Buna|30|15|15|C1
+CarteFizica|STIINTA|Studii Stiintifice 1687|Daniel Defoe|9780301687|2007|Buna|21|16|16|C2
+CarteFizica|TEHNICA|Manual Tehnic 1688|Henry Fielding|9780301688|2008|Buna|30|17|17|C3
+CarteFizica|REVISTA|Revista Academica Nr.1689|Laurence Sterne|9780301689|2009|Uzata|7|18|18|D1
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.17|Samuel Richardson|9780301690|2010|Noua|21|19|19|D2
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.17|William Thackeray|9780301691|2011|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.17|Anthony Trollope|9780301692|2012|Buna|21|3|3|E1
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.17|George Meredith|9780301693|2013|Buna|21|4|4|E2
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.17|Thomas Hardy|9780301694|2014|Uzata|21|5|5|E3
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.17|Joseph Conrad|9780301695|2015|Noua|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 1696|D.H. Lawrence|9780301696|2016|Buna|30|7|7|F2
+CarteFizica|STIINTA|Studii Stiintifice 1697|Virginia Woolf|9780301697|2017|Buna|21|8|8|F3
+CarteFizica|TEHNICA|Manual Tehnic 1698|E.M. Forster|9780301698|2018|Buna|30|9|9|G1
+CarteFizica|REVISTA|Revista Academica Nr.1699|Aldous Huxley|9780301699|2019|Uzata|7|10|10|G2
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.18|Victor Hugo|9780301700|1850|Noua|21|11|11|G3
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.18|Charles Dickens|9780301701|1851|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.18|Leo Tolstoy|9780301702|1852|Buna|21|13|13|H2
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.18|F. Dostoevsky|9780301703|1853|Buna|21|14|14|H3
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.18|Franz Kafka|9780301704|1854|Uzata|21|15|15|A1
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.18|Albert Camus|9780301705|1855|Noua|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 1706|Ernest Hemingway|9780301706|1856|Buna|30|17|17|A3
+CarteFizica|STIINTA|Studii Stiintifice 1707|F.S. Fitzgerald|9780301707|1857|Buna|21|18|18|B1
+CarteFizica|TEHNICA|Manual Tehnic 1708|John Steinbeck|9780301708|1858|Buna|30|19|19|B2
+CarteFizica|REVISTA|Revista Academica Nr.1709|Aldous Huxley|9780301709|1859|Uzata|7|20|20|B3
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.18|George Orwell|9780301710|1860|Noua|21|3|3|C1
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.18|Ray Bradbury|9780301711|1861|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.18|Kurt Vonnegut|9780301712|1862|Buna|21|5|5|C3
+CarteFizica|FICTIUNE|Jack London - Opere Vol.18|Jack London|9780301713|1863|Buna|21|6|6|D1
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.18|Mark Twain|9780301714|1864|Uzata|21|7|7|D2
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.18|Oscar Wilde|9780301715|1865|Noua|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 1716|Thomas Hardy|9780301716|1866|Buna|30|9|9|E1
+CarteFizica|STIINTA|Studii Stiintifice 1717|Jane Austen|9780301717|1867|Buna|21|10|10|E2
+CarteFizica|TEHNICA|Manual Tehnic 1718|Emily Bronte|9780301718|1868|Buna|30|11|11|E3
+CarteFizica|REVISTA|Revista Academica Nr.1719|Charlotte Bronte|9780301719|1869|Uzata|7|12|12|F1
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.18|Thomas Mann|9780301720|1870|Noua|21|13|13|F2
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.18|Hermann Hesse|9780301721|1871|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.18|Stefan Zweig|9780301722|1872|Buna|21|15|15|G1
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.18|Gunter Grass|9780301723|1873|Buna|21|16|16|G2
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.18|Boris Pasternak|9780301724|1874|Uzata|21|17|17|G3
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.18|Ivan Turgenev|9780301725|1875|Noua|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 1726|Anton Chekhov|9780301726|1876|Buna|30|19|19|H2
+CarteFizica|STIINTA|Studii Stiintifice 1727|Maxim Gorky|9780301727|1877|Buna|21|20|20|H3
+CarteFizica|TEHNICA|Manual Tehnic 1728|Gustave Flaubert|9780301728|1878|Buna|30|3|3|A1
+CarteFizica|REVISTA|Revista Academica Nr.1729|Emile Zola|9780301729|1879|Uzata|7|4|4|A2
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.18|Marcel Proust|9780301730|1880|Noua|21|5|5|A3
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.18|Honore de Balzac|9780301731|1881|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.18|Stendhal|9780301732|1882|Buna|21|7|7|B2
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.18|Alexandre Dumas|9780301733|1883|Buna|21|8|8|B3
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.18|Guy de Maupassant|9780301734|1884|Uzata|21|9|9|C1
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.18|Antoine de Saint-Exupery|9780301735|1885|Noua|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 1736|Jorge Luis Borges|9780301736|1886|Buna|30|11|11|C3
+CarteFizica|STIINTA|Studii Stiintifice 1737|Mario Vargas Llosa|9780301737|1887|Buna|21|12|12|D1
+CarteFizica|TEHNICA|Manual Tehnic 1738|Isabel Allende|9780301738|1888|Buna|30|13|13|D2
+CarteFizica|REVISTA|Revista Academica Nr.1739|Naguib Mahfouz|9780301739|1889|Uzata|7|14|14|D3
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.18|Orhan Pamuk|9780301740|1890|Noua|21|15|15|E1
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.18|Haruki Murakami|9780301741|1891|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.18|Yasunari Kawabata|9780301742|1892|Buna|21|17|17|E3
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.18|Yukio Mishima|9780301743|1893|Buna|21|18|18|F1
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.18|Chinua Achebe|9780301744|1894|Uzata|21|19|19|F2
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.18|J.M. Coetzee|9780301745|1895|Noua|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 1746|Toni Morrison|9780301746|1896|Buna|30|3|3|G1
+CarteFizica|STIINTA|Studii Stiintifice 1747|Maya Angelou|9780301747|1897|Buna|21|4|4|G2
+CarteFizica|TEHNICA|Manual Tehnic 1748|William Faulkner|9780301748|1898|Buna|30|5|5|G3
+CarteFizica|REVISTA|Revista Academica Nr.1749|Truman Capote|9780301749|1899|Uzata|7|6|6|H1
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.18|Umberto Eco|9780301750|1900|Noua|21|7|7|H2
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.18|Italo Calvino|9780301751|1901|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.18|Primo Levi|9780301752|1902|Buna|21|9|9|A1
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.18|Vladimir Nabokov|9780301753|1903|Buna|21|10|10|A2
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.18|Alexander Pushkin|9780301754|1904|Uzata|21|11|11|A3
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.18|Nikolai Gogol|9780301755|1905|Noua|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 1756|Milan Kundera|9780301756|1906|Buna|30|13|13|B2
+CarteFizica|STIINTA|Studii Stiintifice 1757|Patrick Modiano|9780301757|1907|Buna|21|14|14|B3
+CarteFizica|TEHNICA|Manual Tehnic 1758|Michel Houellebecq|9780301758|1908|Buna|30|15|15|C1
+CarteFizica|REVISTA|Revista Academica Nr.1759|Marguerite Duras|9780301759|1909|Uzata|7|16|16|C2
+CarteFizica|FICTIUNE|Colette - Opere Vol.18|Colette|9780301760|1910|Noua|21|17|17|C3
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.18|Romain Rolland|9780301761|1911|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.18|Andre Gide|9780301762|1912|Buna|21|19|19|D2
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.18|Simone de Beauvoir|9780301763|1913|Buna|21|20|20|D3
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.18|Federico Garcia Lorca|9780301764|1914|Uzata|21|3|3|E1
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.18|Pablo Neruda|9780301765|1915|Noua|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 1766|Carlos Fuentes|9780301766|1916|Buna|30|5|5|E3
+CarteFizica|STIINTA|Studii Stiintifice 1767|Julio Cortazar|9780301767|1917|Buna|21|6|6|F1
+CarteFizica|TEHNICA|Manual Tehnic 1768|Roberto Bolano|9780301768|1918|Buna|30|7|7|F2
+CarteFizica|REVISTA|Revista Academica Nr.1769|Khalil Gibran|9780301769|1919|Uzata|7|8|8|F3
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.18|Amos Oz|9780301770|1920|Noua|21|9|9|G1
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.18|Kenzaburo Oe|9780301771|1921|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.18|Kobo Abe|9780301772|1922|Buna|21|11|11|G3
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.18|Soseki Natsume|9780301773|1923|Buna|21|12|12|H1
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.18|Samuel Beckett|9780301774|1924|Uzata|21|13|13|H2
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.18|James Joyce|9780301775|1925|Noua|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 1776|Oscar Wilde|9780301776|1926|Buna|30|15|15|A1
+CarteFizica|STIINTA|Studii Stiintifice 1777|Bernard Shaw|9780301777|1927|Buna|21|16|16|A2
+CarteFizica|TEHNICA|Manual Tehnic 1778|Dylan Thomas|9780301778|1928|Buna|30|17|17|A3
+CarteFizica|REVISTA|Revista Academica Nr.1779|Graham Greene|9780301779|1929|Uzata|7|18|18|B1
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.18|Evelyn Waugh|9780301780|1930|Noua|21|19|19|B2
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.18|George Bernard Shaw|9780301781|1931|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.18|H.G. Wells|9780301782|1932|Buna|21|3|3|C1
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.18|Arthur Conan Doyle|9780301783|1933|Buna|21|4|4|C2
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.18|Bram Stoker|9780301784|1934|Uzata|21|5|5|C3
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.18|Mary Shelley|9780301785|1935|Noua|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 1786|Jonathan Swift|9780301786|1936|Buna|30|7|7|D2
+CarteFizica|STIINTA|Studii Stiintifice 1787|Daniel Defoe|9780301787|1937|Buna|21|8|8|D3
+CarteFizica|TEHNICA|Manual Tehnic 1788|Henry Fielding|9780301788|1938|Buna|30|9|9|E1
+CarteFizica|REVISTA|Revista Academica Nr.1789|Laurence Sterne|9780301789|1939|Uzata|7|10|10|E2
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.18|Samuel Richardson|9780301790|1940|Noua|21|11|11|E3
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.18|William Thackeray|9780301791|1941|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.18|Anthony Trollope|9780301792|1942|Buna|21|13|13|F2
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.18|George Meredith|9780301793|1943|Buna|21|14|14|F3
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.18|Thomas Hardy|9780301794|1944|Uzata|21|15|15|G1
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.18|Joseph Conrad|9780301795|1945|Noua|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 1796|D.H. Lawrence|9780301796|1946|Buna|30|17|17|G3
+CarteFizica|STIINTA|Studii Stiintifice 1797|Virginia Woolf|9780301797|1947|Buna|21|18|18|H1
+CarteFizica|TEHNICA|Manual Tehnic 1798|E.M. Forster|9780301798|1948|Buna|30|19|19|H2
+CarteFizica|REVISTA|Revista Academica Nr.1799|Aldous Huxley|9780301799|1949|Uzata|7|20|20|H3
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.19|Victor Hugo|9780301800|1950|Noua|21|3|3|A1
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.19|Charles Dickens|9780301801|1951|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.19|Leo Tolstoy|9780301802|1952|Buna|21|5|5|A3
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.19|F. Dostoevsky|9780301803|1953|Buna|21|6|6|B1
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.19|Franz Kafka|9780301804|1954|Uzata|21|7|7|B2
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.19|Albert Camus|9780301805|1955|Noua|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 1806|Ernest Hemingway|9780301806|1956|Buna|30|9|9|C1
+CarteFizica|STIINTA|Studii Stiintifice 1807|F.S. Fitzgerald|9780301807|1957|Buna|21|10|10|C2
+CarteFizica|TEHNICA|Manual Tehnic 1808|John Steinbeck|9780301808|1958|Buna|30|11|11|C3
+CarteFizica|REVISTA|Revista Academica Nr.1809|Aldous Huxley|9780301809|1959|Uzata|7|12|12|D1
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.19|George Orwell|9780301810|1960|Noua|21|13|13|D2
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.19|Ray Bradbury|9780301811|1961|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.19|Kurt Vonnegut|9780301812|1962|Buna|21|15|15|E1
+CarteFizica|FICTIUNE|Jack London - Opere Vol.19|Jack London|9780301813|1963|Buna|21|16|16|E2
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.19|Mark Twain|9780301814|1964|Uzata|21|17|17|E3
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.19|Oscar Wilde|9780301815|1965|Noua|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 1816|Thomas Hardy|9780301816|1966|Buna|30|19|19|F2
+CarteFizica|STIINTA|Studii Stiintifice 1817|Jane Austen|9780301817|1967|Buna|21|20|20|F3
+CarteFizica|TEHNICA|Manual Tehnic 1818|Emily Bronte|9780301818|1968|Buna|30|3|3|G1
+CarteFizica|REVISTA|Revista Academica Nr.1819|Charlotte Bronte|9780301819|1969|Uzata|7|4|4|G2
+CarteFizica|FICTIUNE|Thomas Mann - Opere Vol.19|Thomas Mann|9780301820|1970|Noua|21|5|5|G3
+CarteFizica|FICTIUNE|Hermann Hesse - Opere Vol.19|Hermann Hesse|9780301821|1971|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Stefan Zweig - Opere Vol.19|Stefan Zweig|9780301822|1972|Buna|21|7|7|H2
+CarteFizica|FICTIUNE|Gunter Grass - Opere Vol.19|Gunter Grass|9780301823|1973|Buna|21|8|8|H3
+CarteFizica|FICTIUNE|Boris Pasternak - Opere Vol.19|Boris Pasternak|9780301824|1974|Uzata|21|9|9|A1
+CarteFizica|FICTIUNE|Ivan Turgenev - Opere Vol.19|Ivan Turgenev|9780301825|1975|Noua|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 1826|Anton Chekhov|9780301826|1976|Buna|30|11|11|A3
+CarteFizica|STIINTA|Studii Stiintifice 1827|Maxim Gorky|9780301827|1977|Buna|21|12|12|B1
+CarteFizica|TEHNICA|Manual Tehnic 1828|Gustave Flaubert|9780301828|1978|Buna|30|13|13|B2
+CarteFizica|REVISTA|Revista Academica Nr.1829|Emile Zola|9780301829|1979|Uzata|7|14|14|B3
+CarteFizica|FICTIUNE|Marcel Proust - Opere Vol.19|Marcel Proust|9780301830|1980|Noua|21|15|15|C1
+CarteFizica|FICTIUNE|Honore de Balzac - Opere Vol.19|Honore de Balzac|9780301831|1981|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Stendhal - Opere Vol.19|Stendhal|9780301832|1982|Buna|21|17|17|C3
+CarteFizica|FICTIUNE|Alexandre Dumas - Opere Vol.19|Alexandre Dumas|9780301833|1983|Buna|21|18|18|D1
+CarteFizica|FICTIUNE|Guy de Maupassant - Opere Vol.19|Guy de Maupassant|9780301834|1984|Uzata|21|19|19|D2
+CarteFizica|FICTIUNE|Antoine de Saint-Exupery - Opere Vol.19|Antoine de Saint-Exupery|9780301835|1985|Noua|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 1836|Jorge Luis Borges|9780301836|1986|Buna|30|3|3|E1
+CarteFizica|STIINTA|Studii Stiintifice 1837|Mario Vargas Llosa|9780301837|1987|Buna|21|4|4|E2
+CarteFizica|TEHNICA|Manual Tehnic 1838|Isabel Allende|9780301838|1988|Buna|30|5|5|E3
+CarteFizica|REVISTA|Revista Academica Nr.1839|Naguib Mahfouz|9780301839|1989|Uzata|7|6|6|F1
+CarteFizica|FICTIUNE|Orhan Pamuk - Opere Vol.19|Orhan Pamuk|9780301840|1990|Noua|21|7|7|F2
+CarteFizica|FICTIUNE|Haruki Murakami - Opere Vol.19|Haruki Murakami|9780301841|1991|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Yasunari Kawabata - Opere Vol.19|Yasunari Kawabata|9780301842|1992|Buna|21|9|9|G1
+CarteFizica|FICTIUNE|Yukio Mishima - Opere Vol.19|Yukio Mishima|9780301843|1993|Buna|21|10|10|G2
+CarteFizica|FICTIUNE|Chinua Achebe - Opere Vol.19|Chinua Achebe|9780301844|1994|Uzata|21|11|11|G3
+CarteFizica|FICTIUNE|J.M. Coetzee - Opere Vol.19|J.M. Coetzee|9780301845|1995|Noua|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 1846|Toni Morrison|9780301846|1996|Buna|30|13|13|H2
+CarteFizica|STIINTA|Studii Stiintifice 1847|Maya Angelou|9780301847|1997|Buna|21|14|14|H3
+CarteFizica|TEHNICA|Manual Tehnic 1848|William Faulkner|9780301848|1998|Buna|30|15|15|A1
+CarteFizica|REVISTA|Revista Academica Nr.1849|Truman Capote|9780301849|1999|Uzata|7|16|16|A2
+CarteFizica|FICTIUNE|Umberto Eco - Opere Vol.19|Umberto Eco|9780301850|2000|Noua|21|17|17|A3
+CarteFizica|FICTIUNE|Italo Calvino - Opere Vol.19|Italo Calvino|9780301851|2001|Buna|21|18|18|B1
+CarteFizica|FICTIUNE|Primo Levi - Opere Vol.19|Primo Levi|9780301852|2002|Buna|21|19|19|B2
+CarteFizica|FICTIUNE|Vladimir Nabokov - Opere Vol.19|Vladimir Nabokov|9780301853|2003|Buna|21|20|20|B3
+CarteFizica|FICTIUNE|Alexander Pushkin - Opere Vol.19|Alexander Pushkin|9780301854|2004|Uzata|21|3|3|C1
+CarteFizica|FICTIUNE|Nikolai Gogol - Opere Vol.19|Nikolai Gogol|9780301855|2005|Noua|21|4|4|C2
+CarteFizica|TEHNICA|Manual Tehnic 1856|Milan Kundera|9780301856|2006|Buna|30|5|5|C3
+CarteFizica|STIINTA|Studii Stiintifice 1857|Patrick Modiano|9780301857|2007|Buna|21|6|6|D1
+CarteFizica|TEHNICA|Manual Tehnic 1858|Michel Houellebecq|9780301858|2008|Buna|30|7|7|D2
+CarteFizica|REVISTA|Revista Academica Nr.1859|Marguerite Duras|9780301859|2009|Uzata|7|8|8|D3
+CarteFizica|FICTIUNE|Colette - Opere Vol.19|Colette|9780301860|2010|Noua|21|9|9|E1
+CarteFizica|FICTIUNE|Romain Rolland - Opere Vol.19|Romain Rolland|9780301861|2011|Buna|21|10|10|E2
+CarteFizica|FICTIUNE|Andre Gide - Opere Vol.19|Andre Gide|9780301862|2012|Buna|21|11|11|E3
+CarteFizica|FICTIUNE|Simone de Beauvoir - Opere Vol.19|Simone de Beauvoir|9780301863|2013|Buna|21|12|12|F1
+CarteFizica|FICTIUNE|Federico Garcia Lorca - Opere Vol.19|Federico Garcia Lorca|9780301864|2014|Uzata|21|13|13|F2
+CarteFizica|FICTIUNE|Pablo Neruda - Opere Vol.19|Pablo Neruda|9780301865|2015|Noua|21|14|14|F3
+CarteFizica|TEHNICA|Manual Tehnic 1866|Carlos Fuentes|9780301866|2016|Buna|30|15|15|G1
+CarteFizica|STIINTA|Studii Stiintifice 1867|Julio Cortazar|9780301867|2017|Buna|21|16|16|G2
+CarteFizica|TEHNICA|Manual Tehnic 1868|Roberto Bolano|9780301868|2018|Buna|30|17|17|G3
+CarteFizica|REVISTA|Revista Academica Nr.1869|Khalil Gibran|9780301869|2019|Uzata|7|18|18|H1
+CarteFizica|FICTIUNE|Amos Oz - Opere Vol.19|Amos Oz|9780301870|1850|Noua|21|19|19|H2
+CarteFizica|FICTIUNE|Kenzaburo Oe - Opere Vol.19|Kenzaburo Oe|9780301871|1851|Buna|21|20|20|H3
+CarteFizica|FICTIUNE|Kobo Abe - Opere Vol.19|Kobo Abe|9780301872|1852|Buna|21|3|3|A1
+CarteFizica|FICTIUNE|Soseki Natsume - Opere Vol.19|Soseki Natsume|9780301873|1853|Buna|21|4|4|A2
+CarteFizica|FICTIUNE|Samuel Beckett - Opere Vol.19|Samuel Beckett|9780301874|1854|Uzata|21|5|5|A3
+CarteFizica|FICTIUNE|James Joyce - Opere Vol.19|James Joyce|9780301875|1855|Noua|21|6|6|B1
+CarteFizica|TEHNICA|Manual Tehnic 1876|Oscar Wilde|9780301876|1856|Buna|30|7|7|B2
+CarteFizica|STIINTA|Studii Stiintifice 1877|Bernard Shaw|9780301877|1857|Buna|21|8|8|B3
+CarteFizica|TEHNICA|Manual Tehnic 1878|Dylan Thomas|9780301878|1858|Buna|30|9|9|C1
+CarteFizica|REVISTA|Revista Academica Nr.1879|Graham Greene|9780301879|1859|Uzata|7|10|10|C2
+CarteFizica|FICTIUNE|Evelyn Waugh - Opere Vol.19|Evelyn Waugh|9780301880|1860|Noua|21|11|11|C3
+CarteFizica|FICTIUNE|George Bernard Shaw - Opere Vol.19|George Bernard Shaw|9780301881|1861|Buna|21|12|12|D1
+CarteFizica|FICTIUNE|H.G. Wells - Opere Vol.19|H.G. Wells|9780301882|1862|Buna|21|13|13|D2
+CarteFizica|FICTIUNE|Arthur Conan Doyle - Opere Vol.19|Arthur Conan Doyle|9780301883|1863|Buna|21|14|14|D3
+CarteFizica|FICTIUNE|Bram Stoker - Opere Vol.19|Bram Stoker|9780301884|1864|Uzata|21|15|15|E1
+CarteFizica|FICTIUNE|Mary Shelley - Opere Vol.19|Mary Shelley|9780301885|1865|Noua|21|16|16|E2
+CarteFizica|TEHNICA|Manual Tehnic 1886|Jonathan Swift|9780301886|1866|Buna|30|17|17|E3
+CarteFizica|STIINTA|Studii Stiintifice 1887|Daniel Defoe|9780301887|1867|Buna|21|18|18|F1
+CarteFizica|TEHNICA|Manual Tehnic 1888|Henry Fielding|9780301888|1868|Buna|30|19|19|F2
+CarteFizica|REVISTA|Revista Academica Nr.1889|Laurence Sterne|9780301889|1869|Uzata|7|20|20|F3
+CarteFizica|FICTIUNE|Samuel Richardson - Opere Vol.19|Samuel Richardson|9780301890|1870|Noua|21|3|3|G1
+CarteFizica|FICTIUNE|William Thackeray - Opere Vol.19|William Thackeray|9780301891|1871|Buna|21|4|4|G2
+CarteFizica|FICTIUNE|Anthony Trollope - Opere Vol.19|Anthony Trollope|9780301892|1872|Buna|21|5|5|G3
+CarteFizica|FICTIUNE|George Meredith - Opere Vol.19|George Meredith|9780301893|1873|Buna|21|6|6|H1
+CarteFizica|FICTIUNE|Thomas Hardy - Opere Vol.19|Thomas Hardy|9780301894|1874|Uzata|21|7|7|H2
+CarteFizica|FICTIUNE|Joseph Conrad - Opere Vol.19|Joseph Conrad|9780301895|1875|Noua|21|8|8|H3
+CarteFizica|TEHNICA|Manual Tehnic 1896|D.H. Lawrence|9780301896|1876|Buna|30|9|9|A1
+CarteFizica|STIINTA|Studii Stiintifice 1897|Virginia Woolf|9780301897|1877|Buna|21|10|10|A2
+CarteFizica|TEHNICA|Manual Tehnic 1898|E.M. Forster|9780301898|1878|Buna|30|11|11|A3
+CarteFizica|REVISTA|Revista Academica Nr.1899|Aldous Huxley|9780301899|1879|Uzata|7|12|12|B1
+CarteFizica|FICTIUNE|Victor Hugo - Opere Vol.20|Victor Hugo|9780301900|1880|Noua|21|13|13|B2
+CarteFizica|FICTIUNE|Charles Dickens - Opere Vol.20|Charles Dickens|9780301901|1881|Buna|21|14|14|B3
+CarteFizica|FICTIUNE|Leo Tolstoy - Opere Vol.20|Leo Tolstoy|9780301902|1882|Buna|21|15|15|C1
+CarteFizica|FICTIUNE|F. Dostoevsky - Opere Vol.20|F. Dostoevsky|9780301903|1883|Buna|21|16|16|C2
+CarteFizica|FICTIUNE|Franz Kafka - Opere Vol.20|Franz Kafka|9780301904|1884|Uzata|21|17|17|C3
+CarteFizica|FICTIUNE|Albert Camus - Opere Vol.20|Albert Camus|9780301905|1885|Noua|21|18|18|D1
+CarteFizica|TEHNICA|Manual Tehnic 1906|Ernest Hemingway|9780301906|1886|Buna|30|19|19|D2
+CarteFizica|STIINTA|Studii Stiintifice 1907|F.S. Fitzgerald|9780301907|1887|Buna|21|20|20|D3
+CarteFizica|TEHNICA|Manual Tehnic 1908|John Steinbeck|9780301908|1888|Buna|30|3|3|E1
+CarteFizica|REVISTA|Revista Academica Nr.1909|Aldous Huxley|9780301909|1889|Uzata|7|4|4|E2
+CarteFizica|FICTIUNE|George Orwell - Opere Vol.20|George Orwell|9780301910|1890|Noua|21|5|5|E3
+CarteFizica|FICTIUNE|Ray Bradbury - Opere Vol.20|Ray Bradbury|9780301911|1891|Buna|21|6|6|F1
+CarteFizica|FICTIUNE|Kurt Vonnegut - Opere Vol.20|Kurt Vonnegut|9780301912|1892|Buna|21|7|7|F2
+CarteFizica|FICTIUNE|Jack London - Opere Vol.20|Jack London|9780301913|1893|Buna|21|8|8|F3
+CarteFizica|FICTIUNE|Mark Twain - Opere Vol.20|Mark Twain|9780301914|1894|Uzata|21|9|9|G1
+CarteFizica|FICTIUNE|Oscar Wilde - Opere Vol.20|Oscar Wilde|9780301915|1895|Noua|21|10|10|G2
+CarteFizica|TEHNICA|Manual Tehnic 1916|Thomas Hardy|9780301916|1896|Buna|30|11|11|G3
+CarteFizica|STIINTA|Studii Stiintifice 1917|Jane Austen|9780301917|1897|Buna|21|12|12|H1
+CarteFizica|TEHNICA|Manual Tehnic 1918|Emily Bronte|9780301918|1898|Buna|30|13|13|H2
+CarteFizica|REVISTA|Revista Academica Nr.1919|Charlotte Bronte|9780301919|1899|Uzata|7|14|14|H3

@@ -68,6 +68,33 @@ async function incarcaDate() {
     }
 }
 
+// Auto-login daca e salvat
+window.addEventListener('load', function() {
+    const saved = localStorage.getItem('savedUser');
+    if (saved) {
+        const user = JSON.parse(saved);
+        currentUser = user;
+        document.getElementById('loginPage').classList.add('hidden');
+        document.getElementById('mainApp').classList.remove('hidden');
+        document.getElementById('sidebarUsername').textContent = user.nume;
+        document.getElementById('sidebarBadge').textContent = user.tip.toUpperCase();
+        document.getElementById('userAvatar').textContent = user.nume.charAt(0).toUpperCase();
+        if (user.tip === 'normal') {
+            document.querySelectorAll('.staff-only').forEach(el => el.style.display = 'none');
+            document.getElementById('nav-imprumuturi').style.display = 'none';
+            document.getElementById('nav-utilizatori').style.display = 'none';
+            document.getElementById('nav-statistici').style.display = 'none';
+        }
+        incarcaDate();
+        afiseazaUtilizatori();
+        afiseazaAnunturi();
+        afiseazaProfil();
+        afiseazaWishlist();
+        afiseazaIstoric();
+        afiseazaCartiMele();
+    }
+});
+
 // ===== LOGIN =====
 function login() {
     const username = document.getElementById('username').value.trim();
@@ -82,14 +109,17 @@ function login() {
         document.getElementById('userAvatar').textContent = user.nume.charAt(0).toUpperCase();
         document.getElementById('sidebarBadge').textContent = user.tip.toUpperCase();
 
-    if (user.tip === 'normal') {
-        document.querySelectorAll('.staff-only').forEach(el => el.style.display = 'none');
-        document.getElementById('nav-imprumuturi').style.display = 'none';
-        document.getElementById('nav-utilizatori').style.display = 'none';
-        document.getElementById('nav-statistici').style.display = 'none';
-    }
+        if (user.tip === 'normal') {
+            document.querySelectorAll('.staff-only').forEach(el => el.style.display = 'none');
+            document.getElementById('nav-imprumuturi').style.display = 'none';
+            document.getElementById('nav-utilizatori').style.display = 'none';
+            document.getElementById('nav-statistici').style.display = 'none';
+        }
 
         incarcaDate();
+        if (document.getElementById('rememberMe').checked) {
+            localStorage.setItem('savedUser', JSON.stringify(user));
+        }
         afiseazaUtilizatori();
         afiseazaAnunturi();
         afiseazaProfil();
@@ -102,6 +132,7 @@ function login() {
 }
 
 function logout() {
+    localStorage.removeItem('savedUser');
     currentUser = null;
     document.getElementById('mainApp').classList.add('hidden');
     document.getElementById('loginPage').classList.remove('hidden');
@@ -184,6 +215,7 @@ function afiseazaCarti(lista) {
             <td><code style="font-size:11px;color:var(--text-dim)">${carte.isbn}</code></td>
             <td><span class="disponibil-num ${dispClass}">${disponibile}</span></td>
             <td>${carte.nrExemplare}</td>
+            <td>${carte.localizare || '-'}</td>
             <td>
                 ${disponibile > 0 && carte.tipCarte !== 'CarteRara'
                 ? `<button class="btn-gold btn-sm" onclick="selecteazaImprumut('${carte.isbn}')">ÎMPRUMUTĂ</button>`

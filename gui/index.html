@@ -16,6 +16,10 @@
         <div class="login-form">
             <input type="text" id="username" placeholder="Username" />
             <input type="password" id="password" placeholder="Parolă" />
+            <div class="remember-me">
+                <input type="checkbox" id="rememberMe" />
+                <label for="rememberMe">Rămâi logat</label>
+            </div>
             <button onclick="login()">Intră în sistem</button>
             <p id="loginError" class="error-msg"></p>
         </div>
@@ -23,48 +27,54 @@
 </div>
 
 <div id="mainApp" class="main-app hidden">
-    <div class="sidebar">
-        <div class="sidebar-brand">
-            <h2>BIBLIOTECA USV</h2>
-        </div>
-        <div class="sidebar-section">
-            <p class="sidebar-label">GESTIUNE</p>
-            <a onclick="showSection('dashboard')" class="nav-item active" id="nav-dashboard">⊞ Dashboard</a>
-            <a onclick="showSection('carti')" class="nav-item" id="nav-carti">📚 Cărți</a>
-            <a onclick="showSection('utilizatori')" class="nav-item staff-only" id="nav-utilizatori">👥 Utilizatori</a>
-            <a onclick="showSection('imprumuturi')" class="nav-item staff-only" id="nav-imprumuturi">🔄 Împrumuturi</a>
-        </div>
-        <div class="sidebar-section">
-            <p class="sidebar-label">INSTRUMENTE</p>
-            <a onclick="showSection('cautare')" class="nav-item" id="nav-cautare">🔍 Căutare</a>
-            <a onclick="showSection('statistici')" class="nav-item staff-only" id="nav-statistici">📊 Statistici</a>
-            <a onclick="showSection('anunturi')" class="nav-item" id="nav-anunturi">📢 Anunțuri</a>
-            <a onclick="showSection('info')" class="nav-item" id="nav-info">ℹ Despre</a>
-        </div>
-        <div class="sidebar-section">
-            <p class="sidebar-label">PERSONAL</p>
-            <a onclick="showSection('profil')" class="nav-item" id="nav-profil">👤 Profilul Meu</a>
-            <a onclick="showSection('cartiMele')" class="nav-item" id="nav-cartiMele">📖 Cărțile Mele</a>
-            <a onclick="showSection('istoric')" class="nav-item" id="nav-istoric">🕐 Istoricul Meu</a>
-            <a onclick="showSection('wishlist')" class="nav-item" id="nav-wishlist">❤ Listă Lectură</a>
-        </div>
-        <div style="flex:1"></div>
-        <button onclick="logout()" class="logout-btn">DECONECTARE</button>
-        <div class="user-info" style="margin:16px">
+
+    <!-- TOPBAR -->
+    <div class="topbar">
+        <div class="topbar-brand">BIBLIOTECA <span>USV</span></div>
+
+        <nav class="topbar-nav">
+            <div class="nav-group">
+                <span class="nav-group-label">GESTIUNE</span>
+                <a onclick="showSection('dashboard')" class="nav-item active" id="nav-dashboard">⊞ Dashboard</a>
+                <a onclick="showSection('carti')" class="nav-item" id="nav-carti">📚 Cărți</a>
+                <a onclick="showSection('utilizatori')" class="nav-item staff-only" id="nav-utilizatori">👥 Utilizatori</a>
+                <a onclick="showSection('imprumuturi')" class="nav-item staff-only" id="nav-imprumuturi">🔄 Împrumuturi</a>
+            </div>
+            <div class="nav-group">
+                <span class="nav-group-label">INSTRUMENTE</span>
+                <a onclick="showSection('cautare')" class="nav-item" id="nav-cautare">🔍 Căutare</a>
+                <a onclick="showSection('statistici')" class="nav-item staff-only" id="nav-statistici">📊 Statistici</a>
+                <a onclick="showSection('anunturi')" class="nav-item" id="nav-anunturi">📢 Anunțuri</a>
+                <a onclick="showSection('info')" class="nav-item" id="nav-info">ℹ Despre</a>
+            </div>
+            <div class="nav-group">
+                <span class="nav-group-label">PERSONAL</span>
+                <a onclick="showSection('profil')" class="nav-item" id="nav-profil">👤 Profil</a>
+                <a onclick="showSection('cartiMele')" class="nav-item" id="nav-cartiMele">📖 Cărțile Mele</a>
+                <a onclick="showSection('istoric')" class="nav-item" id="nav-istoric">🕐 Istoric</a>
+                <a onclick="showSection('wishlist')" class="nav-item" id="nav-wishlist">❤ Wishlist</a>
+            </div>
+        </nav>
+
+        <div class="topbar-user">
             <div class="user-avatar" id="userAvatar">?</div>
-            <div class="user-details">
-                <div class="name" id="sidebarUsername"></div>
+            <div>
+                <div class="user-name" id="sidebarUsername"></div>
                 <span id="sidebarBadge" class="badge-tip"></span>
             </div>
+            <button onclick="logout()" class="logout-btn">Ieșire</button>
         </div>
     </div>
 
+    <!-- CONTENT -->
     <div class="content">
 
         <div id="sectiuneDashboard" class="section">
             <div class="page-header">
-                <h1 id="dashboardWelcome"></h1>
-                <p class="subtitle">Biblioteca Universitară Suceava</p>
+                <div class="page-header-left">
+                    <h1 id="dashboardWelcome"></h1>
+                    <p class="subtitle">Biblioteca Universitară Suceava</p>
+                </div>
             </div>
             <div class="stats-grid" id="statsGrid"></div>
             <div class="game-container">
@@ -87,8 +97,10 @@
 
         <div id="sectiuneCarti" class="section hidden">
             <div class="page-header">
-                <h1>Inventar Cărți</h1>
-                <p class="subtitle">Gestionează colecția bibliotecii</p>
+                <div class="page-header-left">
+                    <h1>Inventar <span>Cărți</span></h1>
+                    <p class="subtitle">Gestionează colecția bibliotecii</p>
+                </div>
             </div>
             <div class="toolbar">
                 <input type="text" id="searchCarti" placeholder="Caută după titlu, autor, ISBN..." oninput="filtreazaCarti()" />
@@ -101,14 +113,14 @@
                     <option value="DIGITALA">Digitala</option>
                     <option value="RARA">Rara</option>
                 </select>
-                <button class="btn-gold staff-only">+ ADAUGĂ</button>
+                <button class="btn-gold staff-only">+ Adaugă</button>
             </div>
             <div class="table-container">
                 <table>
                     <thead>
                         <tr>
                             <th>Titlu</th><th>Autor</th><th>Tip</th><th>An</th>
-                            <th>ISBN</th><th>Disponibile</th><th>Total</th><th>Acțiuni</th>
+                            <th>ISBN</th><th>Disponibile</th><th>Total</th><th>Localizare</th><th>Acțiuni</th>
                         </tr>
                     </thead>
                     <tbody id="bodyCarti"></tbody>
@@ -118,8 +130,10 @@
 
         <div id="sectiuneUtilizatori" class="section hidden">
             <div class="page-header">
-                <h1>Gestiune Utilizatori</h1>
-                <p class="subtitle">Membri și staff bibliotecă</p>
+                <div class="page-header-left">
+                    <h1>Gestiune <span>Utilizatori</span></h1>
+                    <p class="subtitle">Membri și staff bibliotecă</p>
+                </div>
             </div>
             <div class="table-container">
                 <table>
@@ -133,8 +147,10 @@
 
         <div id="sectiuneImprumuturi" class="section hidden">
             <div class="page-header">
-                <h1>Gestiune Împrumuturi</h1>
-                <p class="subtitle">Împrumută și returnează cărți</p>
+                <div class="page-header-left">
+                    <h1>Gestiune <span>Împrumuturi</span></h1>
+                    <p class="subtitle">Împrumută și returnează cărți</p>
+                </div>
             </div>
             <div class="two-col">
                 <div class="card">
@@ -146,7 +162,7 @@
                     <input type="text" id="impUsername" placeholder="Username..." />
                     <label>Cod exemplar selectat:</label>
                     <input type="text" id="impExemplar" placeholder="EX-00001" readonly />
-                    <button class="btn-gold" onclick="imprumuta()">ÎMPRUMUTĂ</button>
+                    <button class="btn-gold" onclick="imprumuta()">Împrumută</button>
                 </div>
                 <div class="card">
                     <h3>📥 Returnează Carte</h3>
@@ -154,7 +170,7 @@
                     <input type="text" id="retExemplar" placeholder="EX-00001" />
                     <label>Username utilizator:</label>
                     <input type="text" id="retUsername" placeholder="Username..." />
-                    <button class="btn-outline" onclick="returneaza()">RETURNEAZĂ</button>
+                    <button class="btn-outline" onclick="returneaza()">Returnează</button>
                 </div>
             </div>
             <div id="mesajImprumut" class="mesaj"></div>
@@ -169,8 +185,10 @@
 
         <div id="sectiuneCautare" class="section hidden">
             <div class="page-header">
-                <h1>Căutare Avansată</h1>
-                <p class="subtitle">Găsește orice carte din colecție</p>
+                <div class="page-header-left">
+                    <h1>Căutare <span>Avansată</span></h1>
+                    <p class="subtitle">Găsește orice carte din colecție</p>
+                </div>
             </div>
             <div class="search-box">
                 <input type="text" id="searchAvansata" placeholder="Caută după titlu, autor, ISBN, an..." oninput="cautareAvansata()" />
@@ -196,16 +214,20 @@
 
         <div id="sectiuneStatistici" class="section hidden">
             <div class="page-header">
-                <h1>Statistici Bibliotecă</h1>
-                <p class="subtitle">Date și analize colecție</p>
+                <div class="page-header-left">
+                    <h1>Statistici <span>Bibliotecă</span></h1>
+                    <p class="subtitle">Date și analize colecție</p>
+                </div>
             </div>
             <div id="continutStatistici"></div>
         </div>
 
         <div id="sectiuneAnunturi" class="section hidden">
             <div class="page-header">
-                <h1>Anunțuri</h1>
-                <p class="subtitle">Evenimente și noutăți bibliotecă</p>
+                <div class="page-header-left">
+                    <h1><span>Anunțuri</span></h1>
+                    <p class="subtitle">Evenimente și noutăți bibliotecă</p>
+                </div>
             </div>
             <div id="listaAnunturi"></div>
         </div>
@@ -216,8 +238,10 @@
 
         <div id="sectiuneProfil" class="section hidden">
             <div class="page-header">
-                <h1>Profilul Meu</h1>
-                <p class="subtitle">Informațiile contului tău</p>
+                <div class="page-header-left">
+                    <h1>Profilul <span>Meu</span></h1>
+                    <p class="subtitle">Informațiile contului tău</p>
+                </div>
             </div>
             <div class="card">
                 <h3>👤 Informații Cont</h3>
@@ -231,31 +255,37 @@
                 <input type="password" id="parolaNova" />
                 <label>CONFIRMĂ</label>
                 <input type="password" id="parolaConfirm" />
-                <button class="btn-gold" onclick="schimbaParola()">ACTUALIZEAZĂ</button>
+                <button class="btn-gold" onclick="schimbaParola()">Actualizează</button>
                 <p id="mesajParola" class="mesaj"></p>
             </div>
         </div>
 
         <div id="sectiuneCartiMele" class="section hidden">
             <div class="page-header">
-                <h1>Cărțile Mele</h1>
-                <p class="subtitle">Cărți împrumutate în prezent</p>
+                <div class="page-header-left">
+                    <h1>Cărțile <span>Mele</span></h1>
+                    <p class="subtitle">Cărți împrumutate în prezent</p>
+                </div>
             </div>
             <div id="cartiMeleContent"></div>
         </div>
 
         <div id="sectiuneIstoric" class="section hidden">
             <div class="page-header">
-                <h1>Istoricul Meu</h1>
-                <p class="subtitle">Activitatea ta în bibliotecă</p>
+                <div class="page-header-left">
+                    <h1>Istoricul <span>Meu</span></h1>
+                    <p class="subtitle">Activitatea ta în bibliotecă</p>
+                </div>
             </div>
             <div id="istoricContent"></div>
         </div>
 
         <div id="sectiuneWishlist" class="section hidden">
             <div class="page-header">
-                <h1>Listă Lectură</h1>
-                <p class="subtitle">Cărți pe care dorești să le citești</p>
+                <div class="page-header-left">
+                    <h1>Listă <span>Lectură</span></h1>
+                    <p class="subtitle">Cărți pe care dorești să le citești</p>
+                </div>
             </div>
             <div class="toolbar">
                 <input type="text" id="wishlistSearch" placeholder="Caută carte de adăugat..." oninput="cautaWishlist()" />
