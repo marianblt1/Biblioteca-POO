@@ -14,8 +14,8 @@ struct Carte {
 
 int main() {
     vector<Carte> v;
-    
-    // Carti reale
+
+    // === FICTIUNE ROMANA ===
     v.push_back({"CarteFizica","FICTIUNE","Ion Vol.1","Liviu Rebreanu","9789736899614",1920,"Buna",21,8,"A1"});
     v.push_back({"CarteFizica","FICTIUNE","Ion Vol.2","Liviu Rebreanu","9789736899621",1920,"Buna",21,7,"A2"});
     v.push_back({"CarteFizica","FICTIUNE","Morometii Vol.1","Marin Preda","9789733606123",1955,"Buna",21,12,"A2"});
@@ -25,119 +25,235 @@ int main() {
     v.push_back({"CarteFizica","FICTIUNE","Baltagul","Mihail Sadoveanu","9789733606147",1930,"Buna",21,9,"B2"});
     v.push_back({"CarteFizica","FICTIUNE","Maitreyi","Mircea Eliade","9789733606154",1933,"Buna",21,11,"B2"});
     v.push_back({"CarteFizica","FICTIUNE","Ultima Noapte de Dragoste","Camil Petrescu","9789733606161",1930,"Buna",21,10,"B3"});
-    v.push_back({"CarteFizica","FICTIUNE","1984","George Orwell","9780451524935",1949,"Buna",21,25,"C1"});
-    v.push_back({"CarteFizica","FICTIUNE","Ferma Animalelor","George Orwell","9780451526342",1945,"Buna",21,20,"C1"});
-    v.push_back({"CarteFizica","FICTIUNE","Stapanul Inelelor: Fratia Inelului","J.R.R. Tolkien","9780261102354",1954,"Buna",21,30,"C2"});
-    v.push_back({"CarteFizica","FICTIUNE","Stapanul Inelelor: Cele Doua Turnuri","J.R.R. Tolkien","9780261102361",1954,"Buna",21,30,"C2"});
-    v.push_back({"CarteFizica","FICTIUNE","Stapanul Inelelor: Intoarcerea Regelui","J.R.R. Tolkien","9780261102378",1955,"Buna",21,28,"C3"});
-    v.push_back({"CarteFizica","FICTIUNE","Hobbitul","J.R.R. Tolkien","9780261102385",1937,"Buna",21,35,"C3"});
-    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Piatra Filozofala","J.K. Rowling","9789731800370",1997,"Buna",21,40,"D1"});
-    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Camera Secretelor","J.K. Rowling","9789731800387",1998,"Buna",21,38,"D1"});
-    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Prizonierul din Azkaban","J.K. Rowling","9789731800394",1999,"Buna",21,35,"D2"});
-    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Pocalul de Foc","J.K. Rowling","9789731800400",2000,"Buna",21,33,"D2"});
-    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Ordinul Phoenix","J.K. Rowling","9789731800417",2003,"Buna",21,30,"D3"});
-    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Printul Semipur","J.K. Rowling","9789731800424",2005,"Buna",21,28,"D3"});
-    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Talismanele Mortii","J.K. Rowling","9789731800431",2007,"Noua",21,25,"E1"});
-    v.push_back({"CarteFizica","FICTIUNE","Crima si Pedeapsa","F. Dostoevsky","9789733606230",1866,"Buna",21,15,"E1"});
-    v.push_back({"CarteFizica","FICTIUNE","Fratii Karamazov","F. Dostoevsky","9789733606254",1880,"Buna",21,10,"E2"});
-    v.push_back({"CarteFizica","FICTIUNE","Idiotul","F. Dostoevsky","9789733606261",1869,"Buna",21,9,"E2"});
-    v.push_back({"CarteFizica","FICTIUNE","Razboi si Pace Vol.1","Leo Tolstoy","9789733606275",1869,"Buna",21,12,"E3"});
-    v.push_back({"CarteFizica","FICTIUNE","Razboi si Pace Vol.2","Leo Tolstoy","9789733606282",1869,"Buna",21,10,"E3"});
-    v.push_back({"CarteFizica","FICTIUNE","Anna Karenina","Leo Tolstoy","9789733606299",1877,"Buna",21,14,"F1"});
-    v.push_back({"CarteFizica","FICTIUNE","Marele Gatsby","F.S. Fitzgerald","9780743273565",1925,"Buna",21,20,"F1"});
-    v.push_back({"CarteFizica","FICTIUNE","Sa Ucizi o Pasarica","Harper Lee","9780061935466",1960,"Buna",21,18,"F2"});
-    v.push_back({"CarteFizica","FICTIUNE","O Suta de Ani de Singuratate","G.G. Marquez","9789733606312",1967,"Buna",21,15,"F2"});
-    v.push_back({"CarteFizica","FICTIUNE","Maestrul si Margareta","M. Bulgakov","9789733606336",1967,"Buna",21,12,"F3"});
-    v.push_back({"CarteFizica","FICTIUNE","Procesul","Franz Kafka","9789733606343",1925,"Buna",21,10,"F3"});
-    v.push_back({"CarteFizica","FICTIUNE","Metamorfoza","Franz Kafka","9789733606350",1915,"Buna",21,14,"G1"});
-    v.push_back({"CarteFizica","FICTIUNE","Minunata Lume Noua","Aldous Huxley","9789733606367",1932,"Buna",21,14,"G1"});
-    v.push_back({"CarteFizica","FICTIUNE","Fahrenheit 451","Ray Bradbury","9781451673319",1953,"Buna",21,16,"G2"});
-    v.push_back({"CarteFizica","FICTIUNE","It","Stephen King","9781501156700",1986,"Buna",21,22,"G2"});
+    v.push_back({"CarteFizica","FICTIUNE","Cel Mai Iubit Vol.1","Marin Preda","9789733606178",1980,"Buna",21,8,"C1"});
+    v.push_back({"CarteFizica","FICTIUNE","Cel Mai Iubit Vol.2","Marin Preda","9789733606185",1980,"Buna",21,8,"C1"});
+    v.push_back({"CarteFizica","FICTIUNE","Groapa","Eugen Barbu","9789733606209",1957,"Uzata",21,5,"C2"});
+    v.push_back({"CarteFizica","FICTIUNE","Craii de Curtea-Veche","Mateiu Caragiale","9789733606223",1929,"Buna",21,7,"C2"});
+    v.push_back({"CarteFizica","FICTIUNE","Harap-Alb","Ion Creanga","9789733606216",1877,"Buna",14,20,"C3"});
+
+    // === GEORGE ORWELL ===
+    v.push_back({"CarteFizica","FICTIUNE","1984","George Orwell","9780451524935",1949,"Buna",21,25,"C3"});
+    v.push_back({"CarteFizica","FICTIUNE","Ferma Animalelor","George Orwell","9780451526342",1945,"Buna",21,20,"D1"});
+
+    // === J.R.R. TOLKIEN ===
+    v.push_back({"CarteFizica","FICTIUNE","Stapanul Inelelor: Fratia Inelului","J.R.R. Tolkien","9780261102354",1954,"Buna",21,30,"D1"});
+    v.push_back({"CarteFizica","FICTIUNE","Stapanul Inelelor: Cele Doua Turnuri","J.R.R. Tolkien","9780261102361",1954,"Buna",21,30,"D2"});
+    v.push_back({"CarteFizica","FICTIUNE","Stapanul Inelelor: Intoarcerea Regelui","J.R.R. Tolkien","9780261102378",1955,"Buna",21,28,"D2"});
+    v.push_back({"CarteFizica","FICTIUNE","Hobbitul","J.R.R. Tolkien","9780261102385",1937,"Buna",21,35,"D3"});
+    v.push_back({"CarteFizica","FICTIUNE","Silmarillion","J.R.R. Tolkien","9780048231536",1977,"Buna",21,15,"D3"});
+
+    // === J.K. ROWLING ===
+    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Piatra Filozofala","J.K. Rowling","9789731800370",1997,"Buna",21,40,"E1"});
+    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Camera Secretelor","J.K. Rowling","9789731800387",1998,"Buna",21,38,"E1"});
+    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Prizonierul din Azkaban","J.K. Rowling","9789731800394",1999,"Buna",21,35,"E2"});
+    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Pocalul de Foc","J.K. Rowling","9789731800400",2000,"Buna",21,33,"E2"});
+    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Ordinul Phoenix","J.K. Rowling","9789731800417",2003,"Buna",21,30,"E3"});
+    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Printul Semipur","J.K. Rowling","9789731800424",2005,"Buna",21,28,"E3"});
+    v.push_back({"CarteFizica","FICTIUNE","Harry Potter si Talismanele Mortii","J.K. Rowling","9789731800431",2007,"Noua",21,25,"F1"});
+
+    // === DOSTOIEVSKI ===
+    v.push_back({"CarteFizica","FICTIUNE","Crima si Pedeapsa","F. Dostoevsky","9789733606230",1866,"Buna",21,15,"F1"});
+    v.push_back({"CarteFizica","FICTIUNE","Fratii Karamazov","F. Dostoevsky","9789733606254",1880,"Buna",21,10,"F2"});
+    v.push_back({"CarteFizica","FICTIUNE","Idiotul","F. Dostoevsky","9789733606261",1869,"Buna",21,9,"F2"});
+    v.push_back({"CarteFizica","FICTIUNE","Demonii","F. Dostoevsky","9789733606268",1872,"Buna",21,7,"F3"});
+    v.push_back({"CarteFizica","FICTIUNE","Umiliti si Obiditi","F. Dostoevsky","9789733606275",1861,"Buna",21,6,"F3"});
+
+    // === LEO TOLSTOY ===
+    v.push_back({"CarteFizica","FICTIUNE","Razboi si Pace Vol.1","Leo Tolstoy","9789733606282",1869,"Buna",21,12,"G1"});
+    v.push_back({"CarteFizica","FICTIUNE","Razboi si Pace Vol.2","Leo Tolstoy","9789733606299",1869,"Buna",21,10,"G1"});
+    v.push_back({"CarteFizica","FICTIUNE","Anna Karenina","Leo Tolstoy","9789733606306",1877,"Buna",21,14,"G2"});
+    v.push_back({"CarteFizica","FICTIUNE","Invierea","Leo Tolstoy","9789733606313",1899,"Uzata",21,6,"G2"});
+
+    // === STEPHEN KING ===
+    v.push_back({"CarteFizica","FICTIUNE","It","Stephen King","9781501156700",1986,"Buna",21,22,"G3"});
     v.push_back({"CarteFizica","FICTIUNE","The Shining","Stephen King","9780385121675",1977,"Buna",21,20,"G3"});
-    v.push_back({"CarteFizica","FICTIUNE","Carrie","Stephen King","9780385086950",1974,"Buna",21,18,"G3"});
+    v.push_back({"CarteFizica","FICTIUNE","Carrie","Stephen King","9780385086950",1974,"Buna",21,18,"H1"});
     v.push_back({"CarteFizica","FICTIUNE","Misery","Stephen King","9780450417399",1987,"Buna",21,15,"H1"});
-    v.push_back({"CarteFizica","FICTIUNE","The Stand","Stephen King","9780385121682",1978,"Buna",21,12,"H1"});
+    v.push_back({"CarteFizica","FICTIUNE","The Stand","Stephen King","9780385121682",1978,"Buna",21,12,"H2"});
     v.push_back({"CarteFizica","FICTIUNE","Doctor Sleep","Stephen King","9781476779072",2013,"Noua",21,14,"H2"});
-    v.push_back({"CarteFizica","FICTIUNE","A Game of Thrones","George R.R. Martin","9780553103540",1996,"Buna",21,25,"H2"});
-    v.push_back({"CarteFizica","FICTIUNE","A Clash of Kings","George R.R. Martin","9780553108033",1998,"Buna",21,22,"H3"});
-    v.push_back({"CarteFizica","FICTIUNE","A Storm of Swords","George R.R. Martin","9780553106633",2000,"Buna",21,20,"H3"});
-    v.push_back({"CarteFizica","FICTIUNE","Si nu a mai ramas niciunul","Agatha Christie","9780007136834",1939,"Buna",21,20,"A1"});
-    v.push_back({"CarteFizica","FICTIUNE","Crima din Orient Express","Agatha Christie","9780007119318",1934,"Buna",21,22,"A2"});
-    v.push_back({"CarteFizica","FICTIUNE","Alchimistul","Paulo Coelho","9789736899508",1988,"Buna",21,30,"A3"});
-    v.push_back({"CarteFizica","FICTIUNE","Veronika Decide sa Moara","Paulo Coelho","9789736899515",1998,"Buna",21,22,"B1"});
-    v.push_back({"CarteFizica","FICTIUNE","Strainul","Albert Camus","9789733606411",1942,"Buna",21,18,"B2"});
-    v.push_back({"CarteFizica","FICTIUNE","Ciuma","Albert Camus","9789733606428",1947,"Buna",21,16,"B3"});
-    v.push_back({"CarteFizica","FICTIUNE","Mizerabilii Vol.1","Victor Hugo","9789733606466",1862,"Buna",21,12,"C1"});
-    v.push_back({"CarteFizica","FICTIUNE","Mizerabilii Vol.2","Victor Hugo","9789733606473",1862,"Buna",21,11,"C2"});
-    v.push_back({"CarteFizica","FICTIUNE","Hamlet","William Shakespeare","9789733606527",1603,"Buna",21,20,"C3"});
-    v.push_back({"CarteFizica","FICTIUNE","Romeo si Julieta","William Shakespeare","9789733606534",1597,"Buna",21,22,"D1"});
-    v.push_back({"CarteFizica","FICTIUNE","Batranul si Marea","Ernest Hemingway","9780684801223",1952,"Buna",21,18,"D2"});
-    v.push_back({"CarteFizica","FICTIUNE","Fructele Maniei","John Steinbeck","9780143039433",1939,"Buna",21,15,"D3"});
-    v.push_back({"CarteFizica","FICTIUNE","Codul lui Da Vinci","Dan Brown","9780385504201",2003,"Buna",21,28,"E1"});
-    v.push_back({"CarteFizica","FICTIUNE","Ingeri si Demoni","Dan Brown","9780671027360",2000,"Buna",21,24,"E2"});
-    v.push_back({"CarteFizica","FICTIUNE","Inferno","Dan Brown","9780385537858",2013,"Noua",21,20,"E3"});
-    v.push_back({"CarteFizica","FICTIUNE","Numele Trandafirului","Umberto Eco","9789733606664",1980,"Buna",21,15,"F1"});
-    v.push_back({"CarteFizica","FICTIUNE","Norwegian Wood","Haruki Murakami","9780375704024",1987,"Buna",21,18,"F2"});
-    v.push_back({"CarteFizica","FICTIUNE","Fundatia","Isaac Asimov","9780553293357",1951,"Buna",21,15,"F3"});
-    v.push_back({"CarteFizica","FICTIUNE","2001: O Odisee Spatiala","Arthur C. Clarke","9780451457998",1968,"Buna",21,14,"G1"});
-    v.push_back({"CarteFizica","FICTIUNE","Ocolul Pamantului in 80 de Zile","Jules Verne","9789733606732",1872,"Buna",21,18,"G2"});
-    v.push_back({"CarteFizica","FICTIUNE","20000 de Leghe sub Mari","Jules Verne","9789733606725",1870,"Buna",21,16,"G3"});
-    v.push_back({"CarteFizica","FICTIUNE","Barbati care urasc femeile","Stieg Larsson","9789736899706",2005,"Buna",21,20,"H1"});
-    v.push_back({"CarteFizica","FICTIUNE","Insupportabila Usurinta a Fiintei","Milan Kundera","9789733606688",1984,"Buna",21,16,"H2"});
-    v.push_back({"CarteFizica","FICTIUNE","Contele de Monte Cristo Vol.1","Alexandre Dumas","9789733606602",1844,"Buna",21,15,"H3"});
-    v.push_back({"CarteFizica","FICTIUNE","Contele de Monte Cristo Vol.2","Alexandre Dumas","9789733606619",1844,"Buna",21,14,"A1"});
-    v.push_back({"CarteFizica","FICTIUNE","Siddhartha","Hermann Hesse","9789733606596",1922,"Buna",21,14,"A2"});
+    v.push_back({"CarteFizica","FICTIUNE","Pet Sematary","Stephen King","9780385183840",1983,"Buna",21,16,"H3"});
+    v.push_back({"CarteFizica","FICTIUNE","Needful Things","Stephen King","9780670839582",1991,"Buna",21,10,"H3"});
+    v.push_back({"CarteFizica","FICTIUNE","Firestarter","Stephen King","9780670313136",1980,"Uzata",21,8,"A1"});
+    v.push_back({"CarteFizica","FICTIUNE","Insomnia","Stephen King","9780670855032",1994,"Buna",21,9,"A1"});
+
+    // === GEORGE R.R. MARTIN ===
+    v.push_back({"CarteFizica","FICTIUNE","A Game of Thrones","George R.R. Martin","9780553103540",1996,"Buna",21,25,"A2"});
+    v.push_back({"CarteFizica","FICTIUNE","A Clash of Kings","George R.R. Martin","9780553108033",1998,"Buna",21,22,"A2"});
+    v.push_back({"CarteFizica","FICTIUNE","A Storm of Swords","George R.R. Martin","9780553106633",2000,"Buna",21,20,"A3"});
+    v.push_back({"CarteFizica","FICTIUNE","A Feast for Crows","George R.R. Martin","9780553801507",2005,"Buna",21,18,"A3"});
+    v.push_back({"CarteFizica","FICTIUNE","A Dance with Dragons","George R.R. Martin","9780553801514",2011,"Noua",21,16,"B1"});
+
+    // === AGATHA CHRISTIE ===
+    v.push_back({"CarteFizica","FICTIUNE","Si nu a mai ramas niciunul","Agatha Christie","9780007136834",1939,"Buna",21,20,"B1"});
+    v.push_back({"CarteFizica","FICTIUNE","Crima din Orient Express","Agatha Christie","9780007119318",1934,"Buna",21,22,"B2"});
+    v.push_back({"CarteFizica","FICTIUNE","Moartea pe Nil","Agatha Christie","9780007119325",1937,"Buna",21,18,"B2"});
+    v.push_back({"CarteFizica","FICTIUNE","ABC contra Poirot","Agatha Christie","9780007119332",1936,"Buna",21,16,"B3"});
+    v.push_back({"CarteFizica","FICTIUNE","Zece Negri Mititei","Agatha Christie","9780007119349",1940,"Buna",21,14,"B3"});
+
+    // === PAULO COELHO ===
+    v.push_back({"CarteFizica","FICTIUNE","Alchimistul","Paulo Coelho","9789736899508",1988,"Buna",21,30,"C1"});
+    v.push_back({"CarteFizica","FICTIUNE","Veronika Decide sa Moara","Paulo Coelho","9789736899515",1998,"Buna",21,22,"C1"});
+    v.push_back({"CarteFizica","FICTIUNE","Zahir","Paulo Coelho","9789736899522",2005,"Buna",21,16,"C2"});
+    v.push_back({"CarteFizica","FICTIUNE","Brida","Paulo Coelho","9789736899529",1990,"Buna",21,14,"C2"});
+
+    // === ALBERT CAMUS ===
+    v.push_back({"CarteFizica","FICTIUNE","Strainul","Albert Camus","9789733606411",1942,"Buna",21,18,"C3"});
+    v.push_back({"CarteFizica","FICTIUNE","Ciuma","Albert Camus","9789733606428",1947,"Buna",21,16,"C3"});
+    v.push_back({"CarteFizica","FICTIUNE","Mitul lui Sisif","Albert Camus","9789733606435",1942,"Buna",21,12,"D1"});
+
+    // === VICTOR HUGO ===
+    v.push_back({"CarteFizica","FICTIUNE","Mizerabilii Vol.1","Victor Hugo","9789733606466",1862,"Buna",21,12,"D1"});
+    v.push_back({"CarteFizica","FICTIUNE","Mizerabilii Vol.2","Victor Hugo","9789733606473",1862,"Buna",21,11,"D2"});
+    v.push_back({"CarteFizica","FICTIUNE","Notre-Dame de Paris","Victor Hugo","9789733606480",1831,"Buna",21,10,"D2"});
+    v.push_back({"CarteFizica","FICTIUNE","Omul care rade","Victor Hugo","9789733606487",1869,"Uzata",21,6,"D3"});
+
+    // === CHARLES DICKENS ===
+    v.push_back({"CarteFizica","FICTIUNE","Oliver Twist","Charles Dickens","9789733606497",1838,"Buna",21,14,"D3"});
+    v.push_back({"CarteFizica","FICTIUNE","Marile Sperante","Charles Dickens","9789733606510",1861,"Buna",21,10,"E1"});
+    v.push_back({"CarteFizica","FICTIUNE","David Copperfield","Charles Dickens","9789733606517",1850,"Buna",21,12,"E1"});
+    v.push_back({"CarteFizica","FICTIUNE","Povestea a doua orase","Charles Dickens","9789733606524",1859,"Uzata",21,8,"E2"});
+
+    // === WILLIAM SHAKESPEARE ===
+    v.push_back({"CarteFizica","FICTIUNE","Hamlet","William Shakespeare","9789733606527",1603,"Buna",21,20,"E2"});
+    v.push_back({"CarteFizica","FICTIUNE","Romeo si Julieta","William Shakespeare","9789733606534",1597,"Buna",21,22,"E3"});
+    v.push_back({"CarteFizica","FICTIUNE","Macbeth","William Shakespeare","9789733606558",1623,"Buna",21,16,"E3"});
+    v.push_back({"CarteFizica","FICTIUNE","Othello","William Shakespeare","9789733606565",1622,"Buna",21,14,"F1"});
+    v.push_back({"CarteFizica","FICTIUNE","Regele Lear","William Shakespeare","9789733606541",1606,"Buna",21,15,"F1"});
+
+    // === ERNEST HEMINGWAY ===
+    v.push_back({"CarteFizica","FICTIUNE","Batranul si Marea","Ernest Hemingway","9780684801223",1952,"Buna",21,18,"F2"});
+    v.push_back({"CarteFizica","FICTIUNE","Adio Arme","Ernest Hemingway","9780684174693",1929,"Buna",21,14,"F2"});
+    v.push_back({"CarteFizica","FICTIUNE","Soarele Rasare","Ernest Hemingway","9780743297332",1926,"Buna",21,12,"F3"});
+    v.push_back({"CarteFizica","FICTIUNE","Pentru cine bat clopotele","Ernest Hemingway","9780684803357",1940,"Buna",21,10,"F3"});
+
+    // === DAN BROWN ===
+    v.push_back({"CarteFizica","FICTIUNE","Codul lui Da Vinci","Dan Brown","9780385504201",2003,"Buna",21,28,"G1"});
+    v.push_back({"CarteFizica","FICTIUNE","Ingeri si Demoni","Dan Brown","9780671027360",2000,"Buna",21,24,"G1"});
+    v.push_back({"CarteFizica","FICTIUNE","Inferno","Dan Brown","9780385537858",2013,"Noua",21,20,"G2"});
+    v.push_back({"CarteFizica","FICTIUNE","Originea","Dan Brown","9780385514231",2017,"Noua",21,18,"G2"});
+    v.push_back({"CarteFizica","FICTIUNE","Fortareata Digitala","Dan Brown","9780312995423",1998,"Buna",21,15,"G3"});
+
+    // === FRANZ KAFKA ===
+    v.push_back({"CarteFizica","FICTIUNE","Procesul","Franz Kafka","9789733606343",1925,"Buna",21,10,"G3"});
+    v.push_back({"CarteFizica","FICTIUNE","Metamorfoza","Franz Kafka","9789733606350",1915,"Buna",21,14,"H1"});
+    v.push_back({"CarteFizica","FICTIUNE","Castelul","Franz Kafka","9789733606357",1926,"Buna",21,8,"H1"});
+
+    // === GABRIEL GARCIA MARQUEZ ===
+    v.push_back({"CarteFizica","FICTIUNE","O Suta de Ani de Singuratate","G.G. Marquez","9789733606312",1967,"Buna",21,15,"H2"});
+    v.push_back({"CarteFizica","FICTIUNE","Dragostea in Vremea Holerei","G.G. Marquez","9789733606329",1985,"Buna",21,12,"H2"});
+    v.push_back({"CarteFizica","FICTIUNE","Cronica unei morti anuntate","G.G. Marquez","9789733606404",1981,"Buna",21,14,"H3"});
+    v.push_back({"CarteFizica","FICTIUNE","Toamna Patriarhului","G.G. Marquez","9789733606398",1975,"Buna",21,10,"H3"});
+
+    // === HARUKI MURAKAMI ===
+    v.push_back({"CarteFizica","FICTIUNE","Norwegian Wood","Haruki Murakami","9780375704024",1987,"Buna",21,18,"A1"});
+    v.push_back({"CarteFizica","FICTIUNE","Kafka pe Mal","Haruki Murakami","9781400043668",2002,"Buna",21,16,"A1"});
+    v.push_back({"CarteFizica","FICTIUNE","1Q84 Vol.1","Haruki Murakami","9780307593313",2009,"Buna",21,14,"A2"});
+    v.push_back({"CarteFizica","FICTIUNE","1Q84 Vol.2","Haruki Murakami","9780307596994",2009,"Buna",21,12,"A2"});
+
+    // === STIEG LARSSON ===
+    v.push_back({"CarteFizica","FICTIUNE","Barbati care urasc femeile","Stieg Larsson","9789736899706",2005,"Buna",21,20,"A3"});
+    v.push_back({"CarteFizica","FICTIUNE","Fata care se juca cu focul","Stieg Larsson","9789736899713",2006,"Buna",21,18,"A3"});
+    v.push_back({"CarteFizica","FICTIUNE","Castelul din nori care a explodat","Stieg Larsson","9789736899720",2007,"Buna",21,16,"B1"});
+
+    // === ISAAC ASIMOV ===
+    v.push_back({"CarteFizica","FICTIUNE","Fundatia","Isaac Asimov","9780553293357",1951,"Buna",21,15,"B1"});
+    v.push_back({"CarteFizica","FICTIUNE","Fundatia si Imperiul","Isaac Asimov","9780553293371",1952,"Buna",21,12,"B2"});
+    v.push_back({"CarteFizica","FICTIUNE","A Doua Fundatie","Isaac Asimov","9780553293388",1953,"Buna",21,12,"B2"});
+    v.push_back({"CarteFizica","FICTIUNE","Eu Robotul","Isaac Asimov","9780553803402",1950,"Buna",21,14,"B3"});
+
+    // === JULES VERNE ===
+    v.push_back({"CarteFizica","FICTIUNE","20000 de Leghe sub Mari","Jules Verne","9789733606725",1870,"Buna",21,16,"B3"});
+    v.push_back({"CarteFizica","FICTIUNE","Ocolul Pamantului in 80 de Zile","Jules Verne","9789733606732",1872,"Buna",21,18,"C1"});
+    v.push_back({"CarteFizica","FICTIUNE","Calatorie spre Centrul Pamantului","Jules Verne","9789733606749",1864,"Buna",21,14,"C1"});
+    v.push_back({"CarteFizica","FICTIUNE","De la Pamant la Luna","Jules Verne","9789733606756",1865,"Buna",21,12,"C2"});
+    v.push_back({"CarteFizica","FICTIUNE","Insula Misterioasa","Jules Verne","9789733606763",1875,"Buna",21,10,"C2"});
+
+    // === ALEXANDRE DUMAS ===
+    v.push_back({"CarteFizica","FICTIUNE","Contele de Monte Cristo Vol.1","Alexandre Dumas","9789733606602",1844,"Buna",21,15,"C3"});
+    v.push_back({"CarteFizica","FICTIUNE","Contele de Monte Cristo Vol.2","Alexandre Dumas","9789733606619",1844,"Buna",21,14,"C3"});
+    v.push_back({"CarteFizica","FICTIUNE","Cei Trei Muschetari","Alexandre Dumas","9789733606626",1844,"Buna",21,16,"D1"});
+    v.push_back({"CarteFizica","FICTIUNE","Douazeci de Ani Dupa","Alexandre Dumas","9789733606633",1845,"Buna",21,12,"D1"});
+
+    // === UMBERTO ECO ===
+    v.push_back({"CarteFizica","FICTIUNE","Numele Trandafirului","Umberto Eco","9789733606664",1980,"Buna",21,15,"D2"});
+    v.push_back({"CarteFizica","FICTIUNE","Pendulul lui Foucault","Umberto Eco","9789733606671",1988,"Buna",21,10,"D2"});
+
+    // === MILAN KUNDERA ===
+    v.push_back({"CarteFizica","FICTIUNE","Insupportabila Usurinta a Fiintei","Milan Kundera","9789733606688",1984,"Buna",21,16,"D3"});
+    v.push_back({"CarteFizica","FICTIUNE","Cartea Rasului si a Uitarii","Milan Kundera","9789733606695",1979,"Buna",21,12,"D3"});
+
+    // === HERMANN HESSE ===
+    v.push_back({"CarteFizica","FICTIUNE","Siddhartha","Hermann Hesse","9789733606596",1922,"Buna",21,14,"E1"});
+    v.push_back({"CarteFizica","FICTIUNE","Demian","Hermann Hesse","9789733606589",1919,"Buna",21,12,"E1"});
+    v.push_back({"CarteFizica","FICTIUNE","Lupul de Stepa","Hermann Hesse","9789733606577",1927,"Buna",21,10,"E2"});
+
+    // === EDGAR ALLAN POE ===
+    v.push_back({"CarteFizica","FICTIUNE","Povestiri Extraordinare","Edgar Allan Poe","9789733606640",1850,"Buna",21,14,"E2"});
+    v.push_back({"CarteFizica","FICTIUNE","Corbul si Alte Poeme","Edgar Allan Poe","9789733606657",1845,"Buna",21,10,"E3"});
+
+    // === ARTHUR CONAN DOYLE ===
+    v.push_back({"CarteFizica","FICTIUNE","Aventurile lui Sherlock Holmes","Arthur Conan Doyle","9780140439076",1892,"Buna",21,20,"E3"});
+    v.push_back({"CarteFizica","FICTIUNE","Cainele din Baskerville","Arthur Conan Doyle","9780141033488",1902,"Buna",21,18,"F1"});
+    v.push_back({"CarteFizica","FICTIUNE","Memoriile lui Sherlock Holmes","Arthur Conan Doyle","9780140439083",1893,"Buna",21,15,"F1"});
+
+    // === DIVERȘI AUTORI CELEBRI ===
+    v.push_back({"CarteFizica","FICTIUNE","Marele Gatsby","F.S. Fitzgerald","9780743273565",1925,"Buna",21,20,"F2"});
+    v.push_back({"CarteFizica","FICTIUNE","Sa Ucizi o Pasarica","Harper Lee","9780061935466",1960,"Buna",21,18,"F2"});
+    v.push_back({"CarteFizica","FICTIUNE","Fahrenheit 451","Ray Bradbury","9781451673319",1953,"Buna",21,16,"F3"});
+    v.push_back({"CarteFizica","FICTIUNE","Minunata Lume Noua","Aldous Huxley","9789733606367",1932,"Buna",21,14,"F3"});
+    v.push_back({"CarteFizica","FICTIUNE","Don Quijote Vol.1","Miguel de Cervantes","9789733606374",1605,"Buna",21,8,"G1"});
+    v.push_back({"CarteFizica","FICTIUNE","Maestrul si Margareta","M. Bulgakov","9789733606336",1967,"Buna",21,12,"G1"});
+    v.push_back({"CarteFizica","FICTIUNE","Greata","Jean-Paul Sartre","9789733606442",1938,"Buna",21,10,"G2"});
+    v.push_back({"CarteFizica","FICTIUNE","Dune","Frank Herbert","9780441172719",1965,"Buna",21,18,"G2"});
+    v.push_back({"CarteFizica","FICTIUNE","Dune Messiah","Frank Herbert","9780441172726",1969,"Buna",21,12,"G3"});
+    v.push_back({"CarteFizica","FICTIUNE","2001: O Odisee Spatiala","Arthur C. Clarke","9780451457998",1968,"Buna",21,14,"G3"});
+    v.push_back({"CarteFizica","FICTIUNE","Fructele Maniei","John Steinbeck","9780143039433",1939,"Buna",21,15,"H1"});
+    v.push_back({"CarteFizica","FICTIUNE","De Oameni si Soareci","John Steinbeck","9780140177398",1937,"Buna",21,18,"H1"});
+    v.push_back({"CarteFizica","FICTIUNE","Alchimia","Jorge Luis Borges","9789733606770",1944,"Buna",21,10,"H2"});
+    v.push_back({"CarteFizica","FICTIUNE","Jocul Margelelor de Sticla","Hermann Hesse","9789733606583",1943,"Buna",21,8,"H2"});
+
+    // === TEHNICA ===
     v.push_back({"CarteFizica","TEHNICA","C++ Primer 5th Ed.","Stanley Lippman","9780321714114",2012,"Buna",30,8,"A1"});
     v.push_back({"CarteFizica","TEHNICA","Clean Code","Robert C. Martin","9780132350884",2008,"Buna",30,10,"A2"});
     v.push_back({"CarteFizica","TEHNICA","Design Patterns","Gang of Four","9780201633610",1994,"Buna",30,6,"A3"});
     v.push_back({"CarteFizica","TEHNICA","The Pragmatic Programmer","David Thomas","9780135957059",2019,"Noua",30,8,"B1"});
     v.push_back({"CarteFizica","TEHNICA","Introduction to Algorithms","T.H. Cormen","9780262033848",2009,"Buna",30,5,"B2"});
-    v.push_back({"CarteFizica","TEHNICA","Python Crash Course","Eric Matthes","9781593279288",2019,"Noua",30,12,"B3"});
-    v.push_back({"CarteFizica","TEHNICA","Clean Architecture","Robert C. Martin","9780134494166",2017,"Noua",30,7,"C1"});
-    v.push_back({"CarteFizica","STIINTA","O Scurta Istorie a Timpului","Stephen Hawking","9780553380163",1988,"Buna",21,10,"C2"});
-    v.push_back({"CarteFizica","STIINTA","Sapiens","Yuval Noah Harari","9780062316097",2011,"Noua",21,15,"C3"});
-    v.push_back({"CarteFizica","STIINTA","Homo Deus","Yuval Noah Harari","9780062464347",2015,"Noua",21,12,"D1"});
-    v.push_back({"CarteFizica","STIINTA","Cosmos","Carl Sagan","9780345331359",1980,"Uzata",21,7,"D2"});
+    v.push_back({"CarteFizica","TEHNICA","Computer Networks","A. Tanenbaum","9780132126953",2010,"Buna",30,7,"B3"});
+    v.push_back({"CarteFizica","TEHNICA","Python Crash Course","Eric Matthes","9781593279288",2019,"Noua",30,12,"C1"});
+    v.push_back({"CarteFizica","TEHNICA","Clean Architecture","Robert C. Martin","9780134494166",2017,"Noua",30,7,"C2"});
+    v.push_back({"CarteFizica","TEHNICA","AI: A Modern Approach","Stuart Russell","9780136042594",2020,"Noua",30,4,"C3"});
+    v.push_back({"CarteFizica","TEHNICA","Refactoring","Martin Fowler","9780201485677",1999,"Buna",30,6,"D1"});
+    v.push_back({"CarteFizica","TEHNICA","The Mythical Man-Month","Frederick Brooks","9780201835953",1975,"Uzata",30,5,"D2"});
+    v.push_back({"CarteFizica","TEHNICA","Code Complete","Steve McConnell","9780735619678",2004,"Buna",30,6,"D3"});
+
+    // === STIINTA ===
+    v.push_back({"CarteFizica","STIINTA","O Scurta Istorie a Timpului","Stephen Hawking","9780553380163",1988,"Buna",21,10,"E1"});
+    v.push_back({"CarteFizica","STIINTA","Universul intr-o coaja de nuca","Stephen Hawking","9780593048153",2001,"Buna",21,8,"E2"});
+    v.push_back({"CarteFizica","STIINTA","Sapiens","Yuval Noah Harari","9780062316097",2011,"Noua",21,15,"E3"});
+    v.push_back({"CarteFizica","STIINTA","Homo Deus","Yuval Noah Harari","9780062464347",2015,"Noua",21,12,"F1"});
+    v.push_back({"CarteFizica","STIINTA","21 de Lectii pentru Secolul 21","Yuval Noah Harari","9780525512172",2018,"Noua",21,10,"F2"});
+    v.push_back({"CarteFizica","STIINTA","Cosmos","Carl Sagan","9780345331359",1980,"Uzata",21,7,"F3"});
+    v.push_back({"CarteFizica","STIINTA","Gena Egoista","Richard Dawkins","9780198788607",1976,"Buna",21,8,"G1"});
+    v.push_back({"CarteFizica","STIINTA","Scurta Istorie a Aproape a Tuturor","Bill Bryson","9780767908184",2003,"Buna",21,10,"G2"});
+    v.push_back({"CarteFizica","STIINTA","Fizica Viitorului","Michio Kaku","9780307473332",2011,"Buna",21,8,"G3"});
+    v.push_back({"CarteFizica","STIINTA","Originea Speciilor","Charles Darwin","9780140432053",1859,"Uzata",21,6,"H1"});
+
+    // === REVISTE ===
     v.push_back({"Revista","REVISTA","Dilema Veche Nr.1000","Redactia Dilema","9771220304001",2023,"Noua",7,5,"A1"});
     v.push_back({"Revista","REVISTA","Romania Literara Nr.50","Redactia RL","9771015899050",2023,"Noua",7,3,"A2"});
     v.push_back({"Revista","REVISTA","National Geographic Romania","Nat Geo","9770258890001",2024,"Noua",7,6,"A3"});
+    v.push_back({"Revista","REVISTA","Scientific American","Redactia SA","9781948933094",2023,"Noua",7,4,"B1"});
+    v.push_back({"Revista","REVISTA","Nature Vol.600","Nature Publishing","9780028661056",2022,"Buna",7,3,"B2"});
+
+    // === DIGITALE ===
     v.push_back({"CarteDigitala","DIGITALA","Atomic Habits","James Clear","9780735211292",2018,"Noua",14,999,"DIGITAL"});
     v.push_back({"CarteDigitala","DIGITALA","Deep Work","Cal Newport","9781455586691",2016,"Noua",14,999,"DIGITAL"});
+    v.push_back({"CarteDigitala","DIGITALA","The Phoenix Project","Gene Kim","9781942788294",2013,"Noua",14,999,"DIGITAL"});
+
+    // === RARE ===
     v.push_back({"CarteRara","RARA","Psaltirea in Versuri","Dosoftei","RON-RARE-001",1673,"Deteriorata",0,1,"SALA-RARA"});
     v.push_back({"CarteRara","RARA","Biblia de la Blaj","Samuil Micu","RON-RARE-002",1795,"Uzata",0,1,"SALA-RARA"});
     v.push_back({"CarteRara","RARA","Letopisetul Tarii Moldovei","Grigore Ureche","RON-RARE-003",1640,"Deteriorata",0,1,"SALA-RARA"});
-
-    // Generam pana la 2010
-    string autori[] = {"Victor Hugo","Charles Dickens","Leo Tolstoy","F. Dostoevsky","Franz Kafka","Albert Camus","Ernest Hemingway","F.S. Fitzgerald","John Steinbeck","Aldous Huxley","George Orwell","Ray Bradbury","Kurt Vonnegut","Jack London","Mark Twain","Oscar Wilde","Thomas Hardy","Jane Austen","Emily Bronte","Charlotte Bronte","Thomas Mann","Hermann Hesse","Stefan Zweig","Gunter Grass","Boris Pasternak","Ivan Turgenev","Anton Chekhov","Maxim Gorky","Gustave Flaubert","Emile Zola","Marcel Proust","Honore de Balzac","Stendhal","Alexandre Dumas","Guy de Maupassant","Antoine de Saint-Exupery","Jorge Luis Borges","Mario Vargas Llosa","Isabel Allende","Naguib Mahfouz","Orhan Pamuk","Haruki Murakami","Yasunari Kawabata","Yukio Mishima","Chinua Achebe","J.M. Coetzee","Toni Morrison","Maya Angelou","William Faulkner","Truman Capote","Umberto Eco","Italo Calvino","Primo Levi","Vladimir Nabokov","Alexander Pushkin","Nikolai Gogol","Milan Kundera","Patrick Modiano","Michel Houellebecq","Marguerite Duras","Colette","Romain Rolland","Andre Gide","Simone de Beauvoir","Federico Garcia Lorca","Pablo Neruda","Carlos Fuentes","Julio Cortazar","Roberto Bolano","Khalil Gibran","Amos Oz","Kenzaburo Oe","Kobo Abe","Soseki Natsume","Samuel Beckett","James Joyce","Oscar Wilde","Bernard Shaw","Dylan Thomas","Graham Greene","Evelyn Waugh","George Bernard Shaw","H.G. Wells","Arthur Conan Doyle","Bram Stoker","Mary Shelley","Jonathan Swift","Daniel Defoe","Henry Fielding","Laurence Sterne","Samuel Richardson","William Thackeray","Anthony Trollope","George Meredith","Thomas Hardy","Joseph Conrad","D.H. Lawrence","Virginia Woolf","E.M. Forster","Aldous Huxley","Christopher Isherwood","Angus Wilson"};
-    string rafts[] = {"A1","A2","A3","B1","B2","B3","C1","C2","C3","D1","D2","D3","E1","E2","E3","F1","F2","F3","G1","G2","G3","H1","H2","H3"};
-    string stariG[] = {"Noua","Buna","Buna","Buna","Uzata"};
-    string tipuriG[] = {"FICTIUNE","FICTIUNE","FICTIUNE","FICTIUNE","FICTIUNE","FICTIUNE","TEHNICA","STIINTA","TEHNICA","REVISTA"};
-
-    int isbnC = 300000;
-    int idx = 0;
-    while ((int)v.size() < 2010) {
-        string autor = autori[idx % 100];
-        string isbn = "9780" + to_string(isbnC++);
-        string raft = rafts[idx % 24];
-        string stare = stariG[idx % 5];
-        int an = 1850 + (idx % 170);
-        int ex = 3 + (idx % 18);
-        string tipAf = tipuriG[idx % 10];
-        int timp = 21;
-        if (tipAf == "TEHNICA") timp = 30;
-        if (tipAf == "REVISTA") timp = 7;
-        string titlu;
-        if (tipAf == "FICTIUNE") titlu = autor + " - Opere Vol." + to_string((idx/100)+1);
-        else if (tipAf == "TEHNICA") titlu = "Manual Tehnic " + to_string(idx);
-        else if (tipAf == "STIINTA") titlu = "Studii Stiintifice " + to_string(idx);
-        else titlu = "Revista Academica Nr." + to_string(idx);
-        Carte c;
-        c.tip = "CarteFizica"; c.tipAf = tipAf; c.titlu = titlu;
-        c.autor = autor; c.isbn = isbn; c.an = an; c.stare = stare;
-        c.timp = timp; c.ex = ex; c.raft = raft;
-        v.push_back(c);
-        idx++;
-    }
 
     ofstream date("date.txt");
     for (auto& c : v) {
