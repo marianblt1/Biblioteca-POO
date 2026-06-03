@@ -21,3 +21,5 @@ Adaugat utilizatorul: alexandrescu  mihai
 Imprumut: alexandrescu  -> Wow
 Adaugata cartea: Titlu Unic
 Adaugata cartea: Carte RARA
+Adaugat utilizatorul: Stefan Stefanel
+Adaugat utilizatorul: Dobrogea Alexandru

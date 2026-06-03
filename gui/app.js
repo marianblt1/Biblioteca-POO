@@ -1,15 +1,23 @@
 // ===== DATE =====
 const utilizatori = [
-    { username: "admin", parola: "parola123", tip: "staff", nume: "Admin", email: "admin@usv.ro" },
-    { username: "ionescu", parola: "parola123", tip: "staff", nume: "Ionescu Alexandru", email: "ionescu@usv.ro" },
-    { username: "bogdan", parola: "parola123", tip: "staff", nume: "Bogdan Mihai", email: "bogdan@usv.ro" },
-    { username: "popescu", parola: "parola123", tip: "normal", nume: "Popescu Maria", email: "popescu@student.usv.ro" },
-    { username: "marian", parola: "parola123", tip: "normal", nume: "Baltei Marian", email: "marian@student.usv.ro" },
-    { username: "andreea", parola: "parola123", tip: "normal", nume: "Andreea Constantin", email: "andreea@student.usv.ro" },
-    { username: "george", parola: "parola123", tip: "normal", nume: "George Popa", email: "george@student.usv.ro" },
-    { username: "elena", parola: "parola123", tip: "normal", nume: "Elena Ionescu", email: "elena@student.usv.ro" },
-    { username: "stefan", parola: "parola123", tip: "normal", nume: "Stefan Dumitru", email: "stefan@student.usv.ro" },
-    { username: "ana", parola: "parola123", tip: "normal", nume: "Ana Rusu", email: "ana@student.usv.ro" }
+    { username: "admin", parola: "parola123", tip: "staff", categorie: "Staff", nume: "Admin Sistem", email: "admin@usv.ro" },
+    { username: "ionescu", parola: "parola123", tip: "staff", categorie: "Staff", nume: "Ionescu Alexandru", email: "ionescu@usv.ro" },
+    { username: "bogdan", parola: "parola123", tip: "staff", categorie: "Staff", nume: "Bogdan Mihai", email: "bogdan@usv.ro" },
+    { username: "prof_dima", parola: "parola123", tip: "staff", categorie: "Profesor", nume: "Dima Constantin", email: "dima@usv.ro" },
+    { username: "prof_stan", parola: "parola123", tip: "staff", categorie: "Profesor", nume: "Stan Gheorghe", email: "stan@usv.ro" },
+    { username: "marian", parola: "parola123", tip: "normal", categorie: "Student", nume: "Baltei Marian", email: "marian@student.usv.ro" },
+    { username: "andreea", parola: "parola123", tip: "normal", categorie: "Student", nume: "Andreea Constantin", email: "andreea@student.usv.ro" },
+    { username: "george", parola: "parola123", tip: "normal", categorie: "Student", nume: "George Popa", email: "george@student.usv.ro" },
+    { username: "elena", parola: "parola123", tip: "normal", categorie: "Student", nume: "Elena Ionescu", email: "elena@student.usv.ro" },
+    { username: "stefan", parola: "parola123", tip: "normal", categorie: "Student", nume: "Stefan Dumitru", email: "stefan@student.usv.ro" },
+    { username: "ana", parola: "parola123", tip: "normal", categorie: "Student", nume: "Ana Rusu", email: "ana@student.usv.ro" },
+    { username: "popescu", parola: "parola123", tip: "normal", categorie: "Elev", nume: "Popescu Maria", email: "popescu@elev.ro" },
+    { username: "tudor", parola: "parola123", tip: "normal", categorie: "Elev", nume: "Tudor Mihalache", email: "tudor@elev.ro" },
+    { username: "ioana", parola: "parola123", tip: "normal", categorie: "Elev", nume: "Ioana Stanescu", email: "ioana@elev.ro" },
+    { username: "radu", parola: "parola123", tip: "normal", categorie: "Cercetator", nume: "Radu Florescu", email: "radu@cercetare.usv.ro" },
+    { username: "cristina", parola: "parola123", tip: "normal", categorie: "Cercetator", nume: "Cristina Vlad", email: "cristina@cercetare.usv.ro" },
+    { username: "andrei", parola: "parola123", tip: "normal", categorie: "Pensionar", nume: "Andrei Niculescu", email: "andrei@gmail.com" },
+    { username: "mihai", parola: "parola123", tip: "normal", categorie: "Adult", nume: "Mihai Georgescu", email: "mihai@gmail.com" },
 ];
 
 const anunturi = [
@@ -24,8 +32,36 @@ const anunturi = [
 
 let carti = [];
 let exemplare = [];
-let imprumuturi = JSON.parse(localStorage.getItem('imprumuturi') || '[]');
-let wishlist = JSON.parse(localStorage.getItem('wishlist') || '[]');
+let imprumuturi = JSON.parse(localStorage.getItem('imprumuturi') || JSON.stringify([
+    { id: 1, codExemplar: "EX-00024", isbn: "9789731800370", titlu: "Harry Potter si Piatra Filozofala", username: "marian", data: "15/05/2026", returnat: false },
+    { id: 2, codExemplar: "EX-00001", isbn: "9789736899614", titlu: "Ion Vol.1", username: "andreea", data: "10/05/2026", returnat: false },
+    { id: 3, codExemplar: "EX-00016", isbn: "9780451524935", titlu: "1984", username: "george", data: "01/05/2026", returnat: true, dataReturnare: "20/05/2026" },
+    { id: 4, codExemplar: "EX-00032", isbn: "9789733606230", titlu: "Crima si Pedeapsa", username: "elena", data: "05/05/2026", returnat: true, dataReturnare: "25/05/2026" },
+    { id: 5, codExemplar: "EX-00048", isbn: "9780261102354", titlu: "Stapanul Inelelor: Fratia Inelului", username: "stefan", data: "12/05/2026", returnat: false },
+    { id: 6, codExemplar: "EX-00060", isbn: "9780553103540", titlu: "A Game of Thrones", username: "ana", data: "08/05/2026", returnat: false },
+    { id: 7, codExemplar: "EX-00072", isbn: "9789736899508", titlu: "Alchimistul", username: "popescu", data: "03/05/2026", returnat: true, dataReturnare: "22/05/2026" },
+    { id: 8, codExemplar: "EX-00080", isbn: "9780385504201", titlu: "Codul lui Da Vinci", username: "tudor", data: "18/05/2026", returnat: false },
+    { id: 9, codExemplar: "EX-00090", isbn: "9781501156700", titlu: "It", username: "ioana", data: "20/05/2026", returnat: false },
+    { id: 10, codExemplar: "EX-00100", isbn: "9780007136834", titlu: "Si nu a mai ramas niciunul", username: "radu", data: "14/05/2026", returnat: true, dataReturnare: "28/05/2026" },
+    { id: 11, codExemplar: "EX-00110", isbn: "9789733606254", titlu: "Fratii Karamazov", username: "marian", data: "22/05/2026", returnat: true, dataReturnare: "01/06/2026" },
+    { id: 12, codExemplar: "EX-00120", isbn: "9780261102385", titlu: "Hobbitul", username: "cristina", data: "25/05/2026", returnat: false },
+    { id: 13, codExemplar: "EX-00130", isbn: "9780743273565", titlu: "Marele Gatsby", username: "andrei", data: "28/05/2026", returnat: false },
+    { id: 14, codExemplar: "EX-00140", isbn: "9789733606411", titlu: "Strainul", username: "mihai", data: "30/05/2026", returnat: false },
+    { id: 15, codExemplar: "EX-00150", isbn: "9780385121675", titlu: "The Shining", username: "george", data: "02/06/2026", returnat: false },
+]));
+
+let wishlist = JSON.parse(localStorage.getItem('wishlist') || JSON.stringify([
+    { isbn: "9789733606312", titlu: "O Suta de Ani de Singuratate", autor: "G.G. Marquez", username: "marian" },
+    { isbn: "9780553103540", titlu: "A Game of Thrones", autor: "George R.R. Martin", username: "marian" },
+    { isbn: "9781501156700", titlu: "It", autor: "Stephen King", username: "marian" },
+    { isbn: "9789731800431", titlu: "Harry Potter si Talismanele Mortii", autor: "J.K. Rowling", username: "andreea" },
+    { isbn: "9789733606688", titlu: "Insupportabila Usurinta a Fiintei", autor: "Milan Kundera", username: "andreea" },
+    { isbn: "9780261102378", titlu: "Stapanul Inelelor: Intoarcerea Regelui", autor: "J.R.R. Tolkien", username: "george" },
+    { isbn: "9780385121675", titlu: "The Shining", autor: "Stephen King", username: "elena" },
+    { isbn: "9789733606466", titlu: "Mizerabilii Vol.1", autor: "Victor Hugo", username: "stefan" },
+    { isbn: "9780007119318", titlu: "Crima din Orient Express", autor: "Agatha Christie", username: "ana" },
+    { isbn: "9780385504201", titlu: "Codul lui Da Vinci", autor: "Dan Brown", username: "popescu" },
+]));
 let currentUser = null;
 
 // ===== INCARCARE DATE =====
@@ -69,7 +105,7 @@ async function incarcaDate() {
 }
 
 // Auto-login daca e salvat
-window.addEventListener('load', function() {
+window.addEventListener('load', function () {
     const saved = localStorage.getItem('savedUser');
     if (saved) {
         const user = JSON.parse(saved);
@@ -260,11 +296,14 @@ function afiseazaUtilizatori() {
         const activ = imprumuturi.filter(i => i.username === u.username && !i.returnat).length;
         const tr = document.createElement('tr');
         tr.innerHTML = `
-            <td>${u.nume}<br><small style="color:var(--text-dim)">${u.email}</small></td>
-            <td><span class="badge badge-${u.tip}">${u.tip.toUpperCase()}</span></td>
-            <td>${activ}</td>
-            <td><span class="badge badge-disponibila">Activ</span></td>
-        `;
+    <td>${u.nume}<br><small style="color:var(--text-mid)">${u.email}</small></td>
+    <td>
+        <span class="badge badge-${u.tip}">${u.tip.toUpperCase()}</span>
+        <span style="font-size:12px;color:var(--text-mid);margin-left:6px">${u.categorie || ''}</span>
+    </td>
+    <td>${activ}</td>
+    <td><span class="badge badge-disponibila">Activ</span></td>
+`;
         body.appendChild(tr);
     });
 }
